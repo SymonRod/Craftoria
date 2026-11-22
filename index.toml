@@ -4733,10 +4733,6 @@ file = "config/ftbquests/quests/chapters/harvest_and_hearth.snbt"
 hash = "e29635e46394b042af1ad4a1ebce0475652d303f0c3d163a14f807d66e77f4f1"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/hephaestus.snbt"
-hash = "4d3c448688a15d537c6606d6b47499b37754d363eddea0f0556e998ec23e8114"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
 hash = "ac4732462bb5c858bd30a75d2b904f5b46f256b26f68a4c64fa928358a67a095"
 
@@ -20263,30 +20259,6 @@ hash = "515a156617f735aee3db580b5ef0381e1b987a8b3ab717f003ea1a9556e286ac"
 [[files]]
 file = "kubejs/server_scripts/Mods/GatewaysToEternity/Events.js"
 hash = "fb5864b71a79281bd798bf70de4d357b03b4739cdecc20dc6317dc42512d9794"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/alloying.js"
-hash = "bab61ee0c04d12018fec4c2234ca660da9c14637a07b0040a33e50253f6c4531"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/casting_basin.js"
-hash = "47ee603d90132627c60adcd6d132c8a18057893ce813627d988a55ccea5914fa"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/casting_table.js"
-hash = "67d7e83dc3090640ad138c540ceef10ac0031218fc6bde6f75821e418464513d"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/entity_melting.js"
-hash = "cd01071786e2198c74bf7e7fe71e79139dd3ed21beacfa3a9f462bdfeb5a0ba7"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/materials.js"
-hash = "536348feb8b1e390e2296562481f13986cbf5a46ac368a00430fc91838d43ee8"
-
-[[files]]
-file = "kubejs/server_scripts/Mods/Hephaestus/melting.js"
-hash = "f143276bb8cb0d2b87ffaa2c919a33d9002dcfd48a1c120728be3e63ed3fac70"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/HostileNeuralNetworks/DataModels.js"
