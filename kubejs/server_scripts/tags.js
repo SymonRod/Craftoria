@@ -4,11 +4,7 @@ ServerEvents.tags('item', e => {
   e.add('c:storage_blocks/fluix', 'ae2:fluix_block');
   e.add('c:storage_blocks/charged_redstone', 'appflux:charged_redstone_block');
 
-  e.add('almostunified:hide', [
-    globalItemRemovals,
-    'artifacts:eternal_steak',
-    'artifacts:everlasting_beef',
-  ]);
+  e.add('almostunified:hide', ['artifacts:eternal_steak', 'artifacts:everlasting_beef']);
 
   e.remove('c:storage_blocks/silicon', 'extendedae:silicon_block');
 
@@ -292,27 +288,7 @@ ServerEvents.tags('fluid', e => {
 });
 
 ServerEvents.tags('entity_type', e => {
-  e.add('craftoria:mob_capture_blacklist', [
-    'ars_nouveau:dummy',
-    '#c:bosses',
-    '#neoforge:bosses',
-    '@create',
-    /package/,
-    '@pneumaticcraft',
-  ]);
-
-  e.add('craftoria:mob_duplication_blacklist', [
-    'mekanism:robit',
-    'ars_nouveau:dummy',
-    'ars_nouveau:animated_block',
-    'artifacts:mimic',
-    '#c:bosses',
-    /^occultism:(?!possessed).*$/,
-    '#neoforge:bosses',
-    '@create',
-    /package/,
-    '@pneumaticcraft',
-  ]);
+  e.add('craftoria:mob_blacklist', ['artifacts:mimic', 'minecraft:warden', '#c:bosses', /^occultism:(?!possessed).*$/, '#neoforge:bosses']);
 
   e.add('ftbchunks:entity_interact_whitelist',
     [
@@ -327,13 +303,12 @@ ServerEvents.tags('entity_type', e => {
       'immersive_aircraft:bamboo_hopper',
     ]);
 
-  e.add('justdirethings:creature_catcher_deny', ['#craftoria:mob_capture_blacklist']);
-  e.add('apothic_spawners:blacklisted_from_spawners', ['#craftoria:mob_duplication_blacklist']);
-  e.add('mob_grinding_utils:no_swab', '#craftoria:mob_duplication_blacklist');
+  e.add('justdirethings:creature_catcher_deny', ['ars_nouveau:dummy']);
+  e.add('apothic_spawners:blacklisted_from_spawners', ['#craftoria:mob_blacklist']);
+  e.add('mob_grinding_utils:no_swab', '#craftoria:mob_blacklist');
   e.add('industrialforegoing:mob_crusher_blacklist', ['#c:bosses', '#neoforge:bosses']);
-  e.add('industrialforegoing:mob_duplicator_blacklist', '#craftoria:mob_duplication_blacklist');
-  e.add('justdirethings:paradox_deny', ['#craftoria:mob_duplication_blacklist']);
-  e.add('occultism:soul_shattered_deny_list', ['#craftoria:mob_duplication_blacklist']);
+  e.add('industrialforegoing:mob_duplicator_blacklist', '#craftoria:mob_blacklist');
+  e.add('justdirethings:paradox_deny', ['occultism:foliot', 'mekanism:robit', 'ars_nouveau:animated_block', '@create']);
 });
 
 ServerEvents.tags('enchantment', e => {
@@ -359,16 +334,4 @@ ServerEvents.tags('enchantment', e => {
     'minecraft:fire_protection',
   ]);
 
-});
-
-ServerEvents.tags('mob_effect', e => {
-  e.add('craftoria:mob_effects', /.*/); // For Collapsible Groups
-});
-
-ServerEvents.tags('worldgen/biome', e => {
-  e.add('craftoria:biomes', /.*/); // For Collapsible Groups
-});
-
-ServerEvents.tags('mekanism:chemical', e => {
-  e.add('craftoria:chemicals', /.*/); // For Collapsible Groups
 });

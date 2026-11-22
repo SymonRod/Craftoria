@@ -36,7 +36,7 @@
 			size: 1.0d
 		}
 	}
-	progression_mode: "flexible"
+	progression_mode: "default"
 	show_lock_icons: false
 	verify_on_load: false
 	version: 13

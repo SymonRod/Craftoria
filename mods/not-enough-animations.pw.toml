@@ -1,13 +1,13 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+filename = "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2098ae4965ebefb2dc8d5aec42a7d5282414fddc"
-url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+hash = "b509863deaa27890f8db600f612966a07490a6cd"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/eYNogep3/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 
 [update]
 [update.curseforge]
-file-id = 8925075
+file-id = 8274908
 project-id = 433760

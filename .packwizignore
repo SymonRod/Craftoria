@@ -37,20 +37,10 @@
 !/config/reliquified_artifacts/relics/everlasting_beef.yaml
 !/config/inventoryprofilesnext/integrationHints
 !/config/inventoryprofilesnext/inventoryprofiles.json
-/config/CSC/Log
-/config/CSC/Data
-/config/CSC/CSC_Warn.log
-/config/CSC/config_old*.toml
-/config/sodium-fingerprint.json
-/config/euphoria_patcher/
-/config/collapsiblegroups/expand_state.json
-/config/collapsiblegroups/ui_state.json
-/config/collapsiblegroups/enabled_overrides.json
 
 *node_modules
 *.bak
 *.disabled
-*.backup0
 
 /kubejs/config/probe-settings.json
 /kubejs/*/jsconfig.json

@@ -10,7 +10,6 @@ ServerEvents.tags('item', e => {
     'ae2wtlib:wireless_universal_terminal',
     'extendedae:package',
     /^extendedae:.*_cell$/,
-    'extendedae_plus:infinity_biginteger_cell',
 
     'mekanism:pellet_antimatter',
 
@@ -64,8 +63,6 @@ ServerEvents.tags('item', e => {
     '#supplementaries:presents',
     '#supplementaries:trapped_presents',
     'supplementaries:jar',
-
-    'refurbished_furniture:package',
   ];
 
   /**
@@ -162,10 +159,6 @@ ServerEvents.tags('item', e => {
     'replication:matter_tank',
 
     'xycraft_machines:foil',
-
-    'apothic_enchanting:flimsy_ender_lead',
-    'apothic_enchanting:ender_lead',
-    'apothic_enchanting:occult_ender_lead',
   ].concat(replicatorBlacklist);
 
   /**
