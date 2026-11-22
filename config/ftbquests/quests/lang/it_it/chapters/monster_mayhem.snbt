@@ -1,0 +1,138 @@
+{
+	quest.0119F518ACD8568D.quest_desc: [
+		"La &bSilent Spawner Rune&f fa funzionare il generatore senza il suo solito suono."
+		""
+		"Perché a volte la tua mob farm deve stare zitta."
+	]
+	quest.0119F518ACD8568D.quest_subtitle: "Basta gabbie che sferragliano"
+	quest.0119F518ACD8568D.title: "Silent Spawner Rune"
+	quest.14F545E632726FEE.quest_desc: [
+		"Un'&bInfused Spawner Rune&f è una versione potenziata della runa base del generatore."
+		""
+		"Serve per alcuni dei potenziamenti più forti."
+	]
+	quest.14F545E632726FEE.quest_subtitle: "Una runa carica di potere"
+	quest.14F545E632726FEE.title: "Infused Spawner Rune"
+	quest.1F88FCB1B73FF882.quest_desc: [
+		"L'&bInitial Health Spawner Rune&f modifica la salute iniziale dei mob generati dal generatore."
+		""
+		"Utile per creare mob farm più facili o più toste."
+	]
+	quest.1F88FCB1B73FF882.quest_subtitle: "Scegli con quanta salute partono"
+	quest.1F88FCB1B73FF882.title: "Initial Health Spawner Rune"
+	quest.1FD59C1147BCE34F.quest_desc: [
+		"L'&bEchoing Spawner Rune&f modifica un generatore per creare un comportamento di generazione aggiuntivo."
+		""
+		"Perfetta per prendere un generatore già produttivo e renderlo ancora più produttivo."
+	]
+	quest.1FD59C1147BCE34F.quest_subtitle: "Un mob? Che ne dici di altri?"
+	quest.1FD59C1147BCE34F.title: "Echoing Spawner Rune"
+	quest.253FA8D6C09E2BD5.quest_desc: [
+		"La &bSpawn Range Spawner Rune&f cambia l'area attorno al generatore in cui possono comparire i mob."
+		""
+		"Più raggio significa più spazio per la tua struttura di generazione."
+	]
+	quest.253FA8D6C09E2BD5.quest_subtitle: "Dai al tuo generatore un po' di portata"
+	quest.253FA8D6C09E2BD5.title: "Spawn Range Spawner Rune"
+	quest.2D8FB52E37D7D96C.quest_desc: [
+		"L'&bIgnore Light Spawner Rune&f elimina le restrizioni sul livello di luce del generatore."
+		""
+		"Fai comparire i mob senza dover costruire una stanza completamente buia."
+	]
+	quest.2D8FB52E37D7D96C.quest_subtitle: "La luce non conta più"
+	quest.2D8FB52E37D7D96C.title: "Ignore Light Spawner Rune"
+	quest.33CDCAD12E8F6828.quest_desc: [
+		"La &bSummit Spawner Upgrade Rune&f potenzia ulteriormente le statistiche di base di un generatore."
+		""
+		"Per una produzione di mob seria, è qui che le cose iniziano a diventare ridicole."
+	]
+	quest.33CDCAD12E8F6828.quest_subtitle: "Raggiungi la vetta"
+	quest.33CDCAD12E8F6828.title: "Summit Spawner Upgrade Rune"
+	quest.35F320164724B44C.quest_desc: [
+		"L'&bAscent Spawner Upgrade Rune&f è un livello più forte di potenziamento del generatore."
+		""
+		"Le rune di livello più alto danno miglioramenti più potenti al tuo generatore."
+	]
+	quest.35F320164724B44C.quest_subtitle: "Porta il tuo generatore più in alto"
+	quest.35F320164724B44C.title: "Ascent Spawner Upgrade Rune"
+	quest.3F73EC8E087E2920.quest_desc: [
+		"La &bBurning Spawner Rune&f aggiunge un effetto infuocato ai mob generati dal generatore."
+		""
+		"La tua mob farm è diventata parecchio più calda."
+	]
+	quest.3F73EC8E087E2920.quest_subtitle: "Alza la temperatura"
+	quest.3F73EC8E087E2920.title: "Burning Spawner Rune"
+	quest.423B29BD8DAC8C3D.quest_desc: [
+		"La &bPinnacle Spawner Upgrade Rune&f è il livello più alto del percorso standard di potenziamento del generatore."
+		""
+		"Potenza massima. Mob al massimo. Caos totale."
+	]
+	quest.423B29BD8DAC8C3D.quest_subtitle: "Il picco dei potenziamenti del generatore"
+	quest.423B29BD8DAC8C3D.title: "Pinnacle Spawner Upgrade Rune"
+	quest.465ECB57BFCF5291.quest_desc: [
+		"La &bNo AI Spawner Rune&f disattiva l'intelligenza artificiale dei mob generati dal generatore."
+		""
+		"Utile per farm efficienti in cui i mob non hanno bisogno di pensare."
+	]
+	quest.465ECB57BFCF5291.quest_subtitle: "Il cervello è facoltativo"
+	quest.465ECB57BFCF5291.title: "No AI Spawner Rune"
+	quest.48F4ED8C915995DC.quest_desc: [
+		"L'&bIgnore Conditions Spawner Rune&f fa ignorare al generatore le normali condizioni di generazione."
+		""
+		"Quando vanilla dice no, questa runa dice sì."
+	]
+	quest.48F4ED8C915995DC.quest_subtitle: "Le regole sono fatte per essere infrante"
+	quest.48F4ED8C915995DC.title: "Ignore Conditions Spawner Rune"
+	quest.4A476B25B5A3E88D.quest_desc: [
+		"La &bYouthful Spawner Rune&f modifica un generatore in modo che i mob generati restino giovani."
+		""
+		"Utile quando ti serve una fonte affidabile di cuccioli."
+	]
+	quest.4A476B25B5A3E88D.quest_subtitle: "Mantieni giovani i tuoi mob"
+	quest.4A476B25B5A3E88D.title: "Youthful Spawner Rune"
+	quest.4FDD66D88C90C951.quest_desc: [
+		"Un &bgeneratore di mostri&f è la base della generazione automatica di mob."
+		""
+		"Ottienine uno per iniziare a modificarne il comportamento."
+	]
+	quest.4FDD66D88C90C951.quest_subtitle: "L'inizio della tua fabbrica di mostri"
+	quest.4FDD66D88C90C951.title: "Generatore di mostri"
+	quest.6EC57118E3771D72.quest_desc: [
+		"L'&bIgnore Players Spawner Rune&f cambia le condizioni di generazione legate ai giocatori."
+		""
+		"Usala quando vuoi che al tuo generatore importi meno della vicinanza dei giocatori."
+	]
+	quest.6EC57118E3771D72.quest_subtitle: "Chi è quel giocatore?"
+	quest.6EC57118E3771D72.title: "Ignore Players Spawner Rune"
+	quest.7B88129FF5C9145F.quest_desc: [
+		"La &bRedstone Control Spawner Rune&f permette alla redstone di controllare il generatore."
+		""
+		"Perfetta per interruttori, timer e controllo automatico delle farm."
+	]
+	quest.7B88129FF5C9145F.quest_subtitle: "Metti il guinzaglio al generatore"
+	quest.7B88129FF5C9145F.title: "Redstone Control Spawner Rune"
+	quest.7FD0A63CDC267251.quest_desc: [
+		"La &bFrontier Spawner Upgrade Rune&f migliora le statistiche base di generazione di un generatore di mostri."
+		""
+		"Usala per spingere il tuo generatore oltre i limiti di vanilla."
+	]
+	quest.7FD0A63CDC267251.quest_subtitle: "Il primo livello di potenziamenti del generatore"
+	quest.7FD0A63CDC267251.title: "Frontier Spawner Upgrade Rune"
+	task.0223DC40BCB8FF6D.title: "Ottieni una Pinnacle Spawner Upgrade Rune"
+	task.06D736F223A44B10.title: "Ottieni un'Ascent Spawner Upgrade Rune"
+	task.170444FFD4D57753.title: "Ottieni una Youthful Spawner Rune"
+	task.2144D7AA3F8732C4.title: "Ottieni un'Ignore Conditions Spawner Rune"
+	task.24EFDA7774F27E3E.title: "Ottieni una Silent Spawner Rune"
+	task.276086CF0F30A677.title: "Ottieni un'Echoing Spawner Rune"
+	task.45BD3F9D0F2542F6.title: "Ottieni una Summit Spawner Upgrade Rune"
+	task.47F4FCBBFF748733.title: "Ottieni un'Initial Health Spawner Rune"
+	task.5B790B22E115CEB3.title: "Ottieni una Frontier Spawner Upgrade Rune"
+	task.5F8B536CAF189745.title: "Ottieni una No AI Spawner Rune"
+	task.6F144EF786A94E4E.title: "Ottieni un generatore di mostri"
+	task.73A3951918C37F02.title: "Ottieni un'Ignore Players Spawner Rune"
+	task.77E3B3D6695EEA80.title: "Ottieni una Spawn Range Spawner Rune"
+	task.79D7E3E9EA637474.title: "Ottieni un'Ignore Light Spawner Rune"
+	task.7CE607F3982231BE.title: "Ottieni un'Infused Spawner Rune"
+	task.7D142E8CAEC8F089.title: "Ottieni una Burning Spawner Rune"
+	task.7FEC3AD51BEF4E49.title: "Ottieni una Redstone Control Spawner Rune"
+}

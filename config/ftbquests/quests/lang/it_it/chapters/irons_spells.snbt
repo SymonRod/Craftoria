@@ -1,0 +1,90 @@
+{
+	quest.06294216A755E2F2.quest_desc: ["Le verghe di blaze servono a fabbricare le pergamene di fuoco."]
+	quest.0696635896D223CA.quest_desc: ["Il Bastone di Barbagrigia fa proprio questo, ti dà una barba grigia... scherzo, questo bastone ti aiuta a rigenerare il mana e potenzia il potere delle tue pergamene. È uno dei bastoni più facili da fabbricare."]
+	quest.0BDF41399223A10A.quest_desc: ["Con una forgia delle pergamene e una perla di ender fabbrica delle pergamene Ender."]
+	quest.0C37E9D8A7823264.quest_desc: ["Il Bastone dell'artigiano aiuta a camminare per tutti voi vecchietti... scherzo, questo bastone riduce il tempo di recupero e il tempo di lancio e aumenta il tuo potere degli incantesimi. Costa un po' di più del Bastone di Barbagrigia, ma vale la pena per lanciare incantesimi più grandi (fare in modo che questi bastoni abbiano una loro identità)."]
+	quest.0D8988AF02D890EA.quest_subtitle: "Trova un antico campo di battaglia"
+	quest.0D8988AF02D890EA.title: "The Walking Dead"
+	quest.0ED5CB1120D1BD6E.quest_desc: ["Le pergamene si trovano esplorando, sparse per tutto il mondo, ma se non fai attenzione e scegli di usarle, avranno un solo utilizzo."]
+	quest.0ED5CB1120D1BD6E.title: "Pergamena"
+	quest.2085CB41244C2783.quest_desc: ["Mentre sei nel Nether, devi aprirti la strada fino agli Hoglin e ottenere la pelle di cinghiale."]
+	quest.28724CA9F837F710.quest_desc: ["Fascino di risonanza dell'ametista - quando è indossato, questo fascino ti dà un bonus del 15% alla rigenerazione del mana."]
+	quest.2ACF8F5EFD3C4AF7.title: "Stivali"
+	quest.2F53567C34E86536.quest_desc: ["Questo è il libro degli incantesimi più semplice, può contenere solo cinque incantesimi"]
+	quest.30ED8D5374012D92.quest_desc: ["Una Bottiglia di Fulmine si ottiene facendo clic destro con una bottiglia su un creeper carico."]
+	quest.33EEBDD0730C020E.quest_desc: ["Con la forgia delle pergamene e una fiala di sangue fabbrica delle pergamene di sangue."]
+	quest.37A5C2FCA8F75BE6.title: "Scambia con il papa"
+	quest.37F1166AB7EF132E.quest_subtitle: "Cos'è questa roba?"
+	quest.3AAE23B6BE07E5DC.quest_desc: ["Con la forgia delle pergamene e una Perla Divina fabbrica delle pergamene sacre, ottime per curare e per gli effetti."]
+	quest.3B3FDF02E891DD39.quest_desc: ["Il libro degli incantesimi dell'apprendista, essendo un libro migliore, richiede un viaggio nel Nether."]
+	quest.3D4317C2B25D5680.quest_desc: [
+		"La &bForgia delle pergamene&r serve a &6fabbricare&r pergamene usando &bcarta&r e &binchiostro&r."
+		""
+		"Ci sono diversi tipi di &bincantesimi&r che puoi creare con oggetti diversi. "
+		""
+		"Questi oggetti diversi si chiamano &bFocus&r. "
+		""
+		"Ogni &bFocus&r serve per una specifica varietà di pergamene. "
+		""
+		"Tieni presente che, in base al &6livello&r dell'&binchiostro&r che scegli, saranno disponibili pergamene più rare e la pergamena sarà più potente."
+	]
+	quest.3E212B5DE277B73A.quest_subtitle: "Oink oink"
+	quest.3E8C6BD8557C6F08.quest_desc: [
+		"Dopo aver usato il manoscritto per sbloccare una pergamena Eldritch, puoi usare una scheggia di risonanza nella forgia delle pergamene per fabbricare un incantesimo Eldritch. Queste pergamene si possono fabbricare solo con l'inchiostro leggendario."
+		""
+		"Sudario Abissale - Hai mai desiderato schivare gli attacchi? Un creeper esplode e tu dici \"Ah ah, mi hai mancato\"? Con questo incantesimo ti trasformi in un enderman e ti teletrasporti via quando vieni attaccato, praticamente invincibile finché dura l'incantesimo."
+		""
+		"Esplosione mistica - Una volta attivata puoi sparare fino a 7 raffiche di energia pura. Ogni colpo arriva fino a 30 blocchi di distanza, basta che non ti faccia saltare la testa."
+		""
+		"Vista planare - Questa sembra un hack... puoi vedere qualsiasi entità entro la distanza di rendering consentita. Sì, funziona con le entità invisibili e visibili e le fa brillare attraverso i muri."
+		""
+		"Tentacoli Scurk - Un incantesimo molto inquietante che fa spuntare dal terreno una foresta di tentacoli di sculk, ottimo per fare scherzi agli amici nuovi del gioco o per spazzare via gruppi di mob, e fa anche un bel po' di danni."
+		""
+		"Boom sonico - Diventa un Sorvegliante e scatena un boom che fa tantissimi danni alle entità in un raggio di 20-30 blocchi (a seconda del livello)."
+		""
+		"Telecinesi - Hai mai avuto un mob o un amico che vorresti lanciare nel nulla? Con questo incantesimo puoi afferrare un'entità e scagliarla in giro finché l'incantesimo non finisce. Attento però: se la fai sbattere contro un muro subirà danni cinetici."
+	]
+	quest.40FF154148BBAFF2.quest_subtitle: "Oooh, che luccichio!"
+	quest.42AC14C7D41F0CAB.quest_desc: ["Con la forgia delle pergamene e una verga di blaze fabbrica delle pergamene di fuoco, che sono davvero ottime per bruciare i nemici... e a volte gli amici... Basta che non lanci per sbaglio Bolide sui loro animali domestici e dovresti cavartela!"]
+	quest.43ACFDB5CD949C74.quest_desc: ["Con la forgia delle pergamene e una patata velenosa fabbrica delle pergamene di natura, ottime per i danni da veleno o per tenere i nemici bloccati sul posto."]
+	quest.480F170F7028C337.quest_desc: ["Lo slot incantesimo minore "]
+	quest.4E7439769A073494.title: "Gambali"
+	quest.51542DCB5C8E5C3A.quest_desc: ["Il secondo livello di libro degli incantesimi, che contiene solo 6 incantesimi"]
+	quest.51A8026A0F8A83B1.quest_desc: ["Gli smeraldi si trovano scavando, esplorando o scambiando con i villici e servono a fabbricare le pergamene di evocazione."]
+	quest.5221657F939FE63B.quest_desc: ["Usa la forgia delle pergamene e una Bottiglia di Fulmine per fabbricare delle pergamene di fulmine."]
+	quest.56A515610D242E28.quest_desc: ["L'inchiostro esiste in varie rarità e ti servirà un inchiostro di livello più alto per le pergamene di livello più alto."]
+	quest.56A515610D242E28.title: "Inchiostro"
+	quest.573FAED7B35F6C86.quest_desc: ["Per il mago più esperto, il libro degli incantesimi incantati ha dieci slot."]
+	quest.5F2801445E518E49.quest_desc: ["Le fiale di sangue si ottengono stando in un Calderone dell'Alchimista, oppure in un normale calderone con un fuoco sotto. Quando si è riempito di un po' di sangue, puoi fare clic destro con una bottiglia vuota per raccoglierlo."]
+	quest.5F8E418D6A0AD158.quest_desc: ["Le Perle Divine si fabbricano con un lingotto d'oro e una scheggia di ametista in un banco da lavoro. Servono a creare le pergamene sacre."]
+	quest.67792A4DE6EDBC37.quest_desc: ["Il Manoscritto Eldritch si fabbrica con otto frammenti di conoscenza e una scheggia di risonanza. Entrambi si trovano saccheggiando le città antiche. Quando lo usi, ti dà il potere di una pergamena Eldritch a tua scelta. Puoi sbloccarne altre, ma serve un nuovo manoscritto per ogni pergamena."]
+	quest.682D1178AF51998C.quest_desc: ["Fabbrica la runa che si abbina meglio all'armatura magica o alla sfera di potenziamento che vuoi."]
+	quest.68493CE96FD68EBA.title: "Criomante"
+	quest.69400E62D67A21FC.quest_desc: ["Con una forgia delle pergamene e uno smeraldo crea delle pergamene di evocazione."]
+	quest.6D092A4BC4A22314.quest_desc: ["I frammenti di conoscenza antica si trovano raramente nel bottino delle librerie, più spesso nelle città antiche o scambiandoli con un mercante ambulante. Servono a fabbricare un Manoscritto Eldritch, fondamentale per sbloccare la conoscenza antica andata perduta tanto, tanto tempo fa e che oggi si vede usare solo dai sorveglianti e dai pochi che osano andare in cerca di questa vecchia scuola di magia."]
+	quest.704C0B04EFF5024C.quest_desc: [
+		"Questo tavolo serve a riunire le &bpergamene &fche hai trovato e fabbricato in un &blibro degli incantesimi&f."
+		""
+		"Per rimuovere una &bpergamena, &6clicca &fsull'incantesimo che vuoi&6 rimuovere&f e &6clicca&f la &bpergamena&f dall'iscrizione sul &6lato destro&f."
+	]
+	quest.71A219DF9715D153.quest_desc: ["Con la forgia delle pergamene e un osso congelato fabbrica delle pergamene di ghiaccio."]
+	quest.72539873C7201A47.quest_desc: ["Le patate velenose servono a fabbricare le pergamene di natura."]
+	quest.7422BD3C0F060AC5.quest_desc: ["Sono i libri degli incantesimi di livello più alto che un mago esperto può ottenere"]
+	quest.7422BD3C0F060AC5.title: "Libri degli incantesimi da mago"
+	quest.74D9B681E8EFE064.quest_desc: ["Le perle di ender vengono rilasciate dagli enderman e servono a creare le pergamene Ender."]
+	quest.77719A9FBDFE49A7.quest_desc: ["Una volta ottenuta una pietra runica vuota, puoi fabbricarne una infusa del potere di diversi tipi di magia. Servono a fabbricare potenziamenti per il tuo equipaggiamento o, in generale, equipaggiamento migliore."]
+	quest.7CF09238E123231F.quest_desc: [
+		"La &bRod o' Lightning&r ti dà un &a+15%&r di &9riduzione del tempo di recupero&r e di &epotere dell'incantesimo del fulmine&r, e dà anche un &a5%&r di potere alle &bpergamene&r che non sono di fulmine. "
+		""
+		"Usala per lanciare gli incantesimi in modo più efficiente."
+	]
+	quest.7EDF633DDB5DA2A1.quest_desc: ["Le ossa congelate vengono rilasciate dagli Erranti e servono a fabbricare le pergamene di ghiaccio"]
+	task.0D974A2537B460E2.title: "Potenziamenti AAAAAAAAAAAAHHHHHHHHH"
+	task.1ACF33BDD92D15DA.title: "UCCIDI il Papa"
+	task.1B5D407F2729F56F.title: "Il Re MORTO"
+	task.1F5A29E07CD58234.title: "Cappelli"
+	task.4F7787C0557CF5CC.title: "Farma Cista"
+	task.54E5D81FEE18AF83.title: "Piromante"
+	task.65B2D0E35B083E82.title: "Sopravvivenza del più adatto"
+	task.7AB3BAEAA2E50F06.title: "Archevocatore"
+}

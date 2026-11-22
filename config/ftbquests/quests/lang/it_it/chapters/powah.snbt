@@ -1,0 +1,137 @@
+{
+	quest.001579E45AFFB837.quest_desc: [
+		"Le apparenze ingannano! Una &bCharged Snowball&r è molto più di un semplice proiettile di ghiaccio."
+		""
+		"Si ottiene &6energizzando&r una normale palla di neve: quando la lanci, richiama un &efulmine&r nel punto in cui cade o colpisce un bersaglio. Un attrezzo divertente per combattere, per i congegni di redstone o semplicemente per fare un po' di caos."
+	]
+	quest.001579E45AFFB837.quest_subtitle: "CAAAAARICA!"
+	quest.00897CCAC72E82C5.quest_desc: [
+		"Benvenuto in &6Powah&r!"
+		""
+		"Questa mod è la tua porta d'accesso a una produzione di &eFE&r affidabile e scalabile, con tutto quello che serve: dai generatori semplici ai reattori avanzati, dalla ricarica wireless a potenti strumenti di automazione."
+		""
+		"In questa serie di quest imparerai a generare, immagazzinare e distribuire energia con le macchine e i potenziamenti unici di &bPowah&r. Lungo la strada sbloccherai livelli di energia migliori e scoprirai utilità comode come i &6Player Transmitter&r e le &eBinding Card&r."
+		""
+		"Che tu debba alimentare una sola macchina o un'intera fabbrica, &6Powah&r ti copre le spalle."
+	]
+	quest.02476BE69FBC0681.quest_desc: [
+		"Pronto a entrare nella &cfine partita&r di &6Powah&r? È il momento di sfruttare la potenza del &4Reactor&r!"
+		""
+		"A differenza dei generatori tradizionali, un &cReactor&r consuma &aUraninite&r per produrre enormi quantità di &eFE&r, ed è una delle fonti di energia più potenti disponibili. Finché è rifornito di combustibile e tenuto al fresco, può sostenere anche le fabbriche più esigenti."
+		""
+		"Costruisci il tuo reattore con i &7Reactor Block&r e completa il multiblocco prima di attivarlo. Passare ai livelli superiori ne aumenta notevolmente sia l'efficienza sia la produzione."
+		""
+		"&6Consiglio:&r abbina il reattore a grandi &9Energy Cell&r o a una rete di &5Ender Cell&r per accumulare l'energia in eccesso e far funzionare tutta la base senza intoppi."
+	]
+	quest.02476BE69FBC0681.title: "Reattori"
+	quest.06DED76B2F4AFD02.quest_desc: [
+		"Tenere al fresco il &cReactor&r è importante quanto tenerlo rifornito!"
+		""
+		"I &6Reactor&r accettano vari tipi di &brefrigeranti&r per migliorare l'efficienza e aumentare la produzione di energia. L'&9acqua&r normale fa il suo dovere, ma i materiali più freddi garantiscono prestazioni ancora migliori."
+		""
+		"Come refrigeranti puoi usare sia &bfluidi&r sia &eblocchi solidi&r. Le opzioni vanno dall'&9acqua&r e dalla &bneve&r fino al &3ghiaccio compatto&r, al &1ghiaccio azzurro&r e al &7Dry Ice&r per il massimo potenziale di raffreddamento."
+	]
+	quest.06DED76B2F4AFD02.title: "Refrigeranti"
+	quest.07EF829BFBBB4009.quest_desc: [
+		"L'&6Energizing Orb&r è una delle macchine più iconiche di &bPowah&r: trasforma oggetti comuni in nuovi materiali potenti usando &eFE&r."
+		""
+		"Per usarla, metti gli ingredienti richiesti sull'&6Energizing Orb&r e circondala con almeno &auna Energizing Rod&r entro un'area di &b9×9&r. Più aste aggiungi, e più è alto il loro livello, più veloce diventa il processo di energizzazione."
+		""
+		"A differenza della maggior parte delle macchine, l'&6Orb non consuma energia direttamente. Ogni &aEnergizing Rod&r deve invece essere collegata a una fonte di energia, come gli &bEnergy Cable&r o un altro blocco in grado di fornire &eFE&r."
+		""
+		"Molti componenti avanzati di &6Powah&r, tra cui le &bCharged Snowball&r e i materiali di fabbricazione di livello superiore, si possono creare solo con l'&6Energizing Orb&r."
+	]
+	quest.07EF829BFBBB4009.title: "Energizzazione"
+	quest.1145827C7C632640.quest_desc: [
+		"&7Sfrutta la potenza della &bNiotic Energy&7."
+		""
+		"&7I Niotic Crystal servono a creare componenti e macchine di &ePowah&7 più avanzati."
+		""
+		"&7Fabbricane uno per proseguire il tuo viaggio verso una &bpotenza maggiore&7."
+	]
+	quest.1145827C7C632640.quest_subtitle: "Il potere dell'acqua"
+	quest.1145827C7C632640.title: "&bNiotic Crystal"
+	quest.119752DA7C1B29B6.quest_desc: [
+		"Le &6carte&r servono a &bcollegarti&r a un &dPlayer Transmitter&r, così l'energia wireless ti segue ovunque tu vada."
+		""
+		"* &fBlank Card&r "
+		"Un semplice ingrediente di fabbricazione usato per creare le carte specializzate qui sotto."
+		""
+		"* &bBinding Card&r "
+		"Associa questa carta a te stesso e inseriscila in un &dPlayer Transmitter&r per ricevere &eFE&r in modalità wireless finché ti trovi nella &astessa dimensione&r."
+		""
+		"* &5Dimensional Binding Card&r "
+		"Una Binding Card potenziata che mantiene il collegamento attivo &battraverso le dimensioni&r, così il &dPlayer Transmitter&r ti fornisce energia ovunque ti portino le tue avventure."
+		""
+		"Una volta abbinate a un &dPlayer Transmitter&r, queste carte permettono di tenere in funzione l'equipaggiamento alimentato senza portarsi dietro batterie ingombranti o cavi."
+	]
+	quest.119752DA7C1B29B6.quest_subtitle: "Powah senza fili!"
+	quest.119752DA7C1B29B6.title: "Binding Card"
+	quest.292875386D7B9981.quest_desc: ["L'&bUraninite &fè un minerale che si ottiene &6scavando&f. Puoi ottenerla anche con la &bMI Quarry&f. L'&bUraninite&f è fondamentale in Powah: serve in moltissime ricette e per alimentare il &breattore."]
+	quest.292875386D7B9981.quest_subtitle: "Meglio mettersi dei guanti"
+	quest.292875386D7B9981.title: "&aUraninite"
+	quest.3311C5BAAAEA0823.quest_desc: [
+		"Taglia i fili e porta i tuoi &eFE&r ovunque con le soluzioni di energia wireless di &6Powah&r!"
+		""
+		"- Le &5Ender Cell&r creano una rete energetica condivisa: l'energia si immagazzina in un punto e si usa da qualsiasi altro, anche tra dimensioni diverse."
+		""
+		"- Le &bEnder Gate&r inviano energia in modalità wireless alle macchine compatibili senza bisogno di cavi, ideali per costruzioni pulite e compatte."
+		""
+		"- I &dPlayer Transmitter&r tengono alimentato &etu&r mandando energia direttamente al tuo inventario. Abbinali a una &6Binding Card&r o a una &5Dimensional Binding Card&r per caricare il tuo equipaggiamento ovunque ti portino le tue avventure."
+	]
+	quest.3311C5BAAAEA0823.title: "Energia wireless"
+	quest.390323A83EB8009A.quest_desc: [
+		"Generare energia è solo metà dell'opera: serve anche un modo per &eimmagazzinarla&r e &bportarla&r dove serve."
+		""
+		"- I &aEnergy Cable&r trasferiscono &eFE&r tra generatori, macchine e blocchi di deposito."
+		""
+		"- Le &6Battery&r sono riserve di energia portatili: accumulano energia per usarla o trasportarla più tardi."
+		""
+		"- Le &9Energy Cell&r sono blocchi di deposito più grandi e fissi, perfetti per costruire riserve e bilanciare la tua rete energetica."
+	]
+	quest.390323A83EB8009A.title: "Deposito e cavi"
+	quest.44E666039F7893C2.quest_desc: [
+		"&7L'apice della tecnologia dei cristalli di &cPowah&7."
+		""
+		"&7I Nitro Crystal contengono un'enorme quantità di energia e spingono la tecnologia &ePowah&7 al limite."
+		""
+		"&7Fabbricane uno per sbloccare il livello di &cenergia&7 più potente."
+	]
+	quest.44E666039F7893C2.quest_subtitle: "Potenza scatenata"
+	quest.44E666039F7893C2.title: "&4Nitro Crystal"
+	quest.4E95AAAA75D6580D.quest_desc: [
+		"&7Sfrutta la potenza dell'energia infuocata."
+		""
+		"&7I Blazing Crystal sono un passo importante verso macchine e componenti di &ePowah&7 più avanzati."
+		""
+		"&7Fabbricane uno per iniziare il tuo viaggio verso forme di &cenergia&7 più forti."
+	]
+	quest.4E95AAAA75D6580D.quest_subtitle: "Il potere del fuoco"
+	quest.4E95AAAA75D6580D.title: "&6Blazing Crystal"
+	quest.5663A6C559490A29.quest_desc: ["Fai &6clic destro&f con l'&bAerial Pearl&f su uno &bzombie&f o un &bmummificato&f e sarà completata."]
+	quest.5663A6C559490A29.quest_subtitle: "Quello zombie non te lo ridà più nessuno"
+	quest.6E28C25469FF7738.quest_desc: [
+		"Ogni grande fabbrica ha bisogno di una fonte di &eFE&r affidabile, e &6Powah&r offre diversi modi per tenere accese le luci."
+		""
+		"Scegli il generatore più adatto alle tue esigenze:"
+		""
+		"- I &6Furnator&r consumano combustibili come carbone e carbone di legna per produrre energia costante."
+		""
+		"- I &cMagmator&r sfruttano il calore della lava: un'ottima scelta quando hai una fonte di lava rinnovabile."
+		""
+		"- I &bThermo Generator&r generano energia dalle differenze di temperatura e rendono al meglio se piazzati sopra blocchi molto caldi."
+		""
+		"- I &eSolar Panel&r generano energia passivamente durante il giorno, fornendo energia pulita senza consumare risorse."
+	]
+	quest.6E28C25469FF7738.title: "Generazione di energia"
+	quest.7934FE9F747233C8.quest_desc: [
+		"&7Sfrutta la potenza della &aSpirited Energy&7."
+		""
+		"&7Gli Spirited Crystal contengono un'energia potente tratta dalle forze della natura, che permette una tecnologia &ePowah&7 ancora più avanzata."
+		""
+		"&7Fabbricane uno per fare un altro passo verso una &2potenza maggiore&7."
+	]
+	quest.7934FE9F747233C8.quest_subtitle: "Essenza della natura"
+	quest.7934FE9F747233C8.title: "&aSpirited Crystal"
+	task.7537E40C4FAB6D5C.title: "Benvenuto in Powah"
+}

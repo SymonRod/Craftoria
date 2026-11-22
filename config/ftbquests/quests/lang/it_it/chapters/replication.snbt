@@ -1,0 +1,65 @@
+{
+	quest.1CD404EA948FF868.quest_desc: [
+		"Con questa &bmacchina&r &6trasformerai&r in &dmateria&r qualsiasi oggetto che abbia un valore di materia."
+		""
+		"Noterai che, &6passando il mouse&r su certi oggetti, compaiono dei &9valori di materia&r."
+		""
+		"I valori esatti si vedono tenendo premuto il tasto &6Shift&r mentre passi il mouse sull'oggetto."
+	]
+	quest.1CD404EA948FF868.quest_subtitle: "Trasforma gli oggetti in &dmateria"
+	quest.24A9E9A5E3B7B041.quest_desc: [
+		"L'&aIdentification Chamber&r &6scansiona&r gli oggetti per conoscerne i valori di materia e li salva nei &cchip&r. "
+		""
+		"Quei &cchip&r si possono conservare nel &bChip Storage&r e saranno disponibili per la rete."
+	]
+	quest.24A9E9A5E3B7B041.quest_subtitle: "Documenti, prego!"
+	quest.28EB489B44A05070.quest_desc: ["I &aReplicator&r useranno la &dmateria&r contenuta nei serbatoi per replicare l'oggetto da zero e rimandarlo al &bterminale&r."]
+	quest.28EB489B44A05070.quest_subtitle: "Usa la materia immagazzinata per creare oggetti."
+	quest.44ABC5C2552BF034.quest_subtitle: "Immagazzina la materia per il &aDisintegrator"
+	quest.4513758183EFECE7.quest_desc: [
+		"&aReplication&r è una mod tecnologica che permette di &6replicare&r risorse di tipo simile. "
+		""
+		"Puoi trasformare la &eterra&r in &8pietra&r, ma non puoi trasformare la &eterra&r in &bdiamanti&r."
+	]
+	quest.4513758183EFECE7.quest_subtitle: "Trasforma la &dmateria&r in quasi qualsiasi cosa."
+	quest.4513758183EFECE7.title: "&aReplication!"
+	quest.47A87F0901355498.quest_subtitle: "Serve a conservare i &cchip"
+	quest.6392FB264D1B2E52.quest_subtitle: "Si usa dentro l'&aIdentification Chamber"
+	quest.6B5431B3A107C9D5.quest_desc: [
+		"Dopo aver scansionato alcuni oggetti e aver salvato i loro valori nei &cchip&r, puoi usare il &aReplication Terminal&r per &6richiedere oggetti&r. "
+		""
+		"Una volta creata la richiesta, i &aReplicator&r useranno la &dmateria&r contenuta nei serbatoi per replicare l'oggetto da zero e rimandarlo al &aterminale&r."
+		""
+		"{@pagebreak}"
+		""
+		"La &dMatter&aOpedia&r è un elenco ricercabile che ti permette di &6cercare&r quali oggetti hanno uno specifico &dvalore di materia&r. "
+		""
+		"Puoi accedervi con il pulsante a &9sinistra&r della &bbarra di ricerca&r nella schermata del &aReplication Terminal&r, oppure cliccando sui display della materia a &9destra&r del terminale."
+		""
+		"Nella barra di ricerca della &dMatter&aOpedia&r puoi usare:"
+		""
+		"&l*&r &aearth>10&r mostra tutti gli oggetti con più di 10 earth"
+		""
+		"&l*&r &4nether=20&r mostra tutti gli oggetti con esattamente 20 nether"
+		""
+		"&l*&r &dquantum<6&r mostra tutti gli oggetti con meno di 6 quantum"
+		""
+		"&l*&r &2!earth&r mostra tutti gli oggetti che non hanno earth"
+		""
+		"&l*&r &7*metallic&r mostra tutti gli oggetti che hanno solo metallic"
+	]
+	quest.6B5431B3A107C9D5.quest_subtitle: "L'interfaccia di tutte le operazioni."
+	quest.6B5431B3A107C9D5.title: "Replication Terminal"
+	quest.7FCA9352AF05C235.quest_desc: [
+		"Questi tubi &6automatizzano&r alcuni processi:"
+		""
+		"Trasferiscono &6energia&r: "
+		"- Funzionano come qualsiasi altro &btubo per l'energia&r."
+		""
+		"Trasferiscono &dmateria&r: "
+		"- Dal &bDisintegrator&r ai &bMatter Tank&r "
+		""
+		"- Dai &d&lMatter Tank&r alle altre &bmacchine&r che ne hanno bisogno."
+	]
+	quest.7FCA9352AF05C235.quest_subtitle: "I tubi della materia ti permettono di collegare le macchine di &aReplication&r."
+}

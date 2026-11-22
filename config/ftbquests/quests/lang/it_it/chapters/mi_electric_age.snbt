@@ -1,0 +1,391 @@
+{
+	image.0A308872ACACCEFD.title: "MI: Era del vapore"
+	image.4A89FC793B2287A4.title: "MI: Era quantistica"
+	image.7B3BD48B62BB1999.title: "MI: Era elettrica"
+	quest.02272D430F08B1DC.quest_desc: [
+		"  Ora puoi costruire una Large Tank! È un serbatoio multiblocco che può contenere 64.000 mB &oper&r blocco nel volume totale occupato dal serbatoio, tra blocchi d'aria e solidi."
+		""
+		"  Quando posizioni una Large Tank, apri la sua GUI e guarda in alto a sinistra. Ti permetterà di scegliere la dimensione che preferisci. "
+		""
+		"  Una volta scelta, tira fuori la tua fidata Wrench e un ologramma ti mostrerà dove piazzare i blocchi."
+		""
+		"  Usa anche una Large Tank Hatch. Funziona come gli altri hatch, con la differenza che è soltanto un punto di accesso al serbatoio. Gestirà ingresso e uscita da qualsiasi hatch tu ci metta sopra."
+	]
+	quest.026C88446512DDB8.quest_subtitle: "Può eseguire in lotti le ricette della &eCoke Oven&r."
+	quest.04A69DE982F47E64.quest_desc: [
+		"  È ora di un altro grande potenziamento! Adesso potrai produrre un &6massimo di 512 EU/t&r con il nuovo &bHV Steam Turbine&r! A parte la produzione di energia quadruplicata (ancora), funziona proprio come la LV Steam Turbine e la &bMV Steam Turbine&r."
+		""
+		"  Ora dovrai usare un nuovo tipo di cavi per l'HV. Per trasferire questo nuovo livello di energia HV ti serviranno i cavi &bAluminum&r o &bKanthal&r."
+	]
+	quest.04A69DE982F47E64.title: "HV Steam Turbine"
+	quest.08C3213E848BFD0C.quest_desc: [
+		"L'&bOverdrive Module&f &6impedisce&f all'efficienza di una &bmacchina elettrica&f di calare, ma &6costringe&f la macchina a usare la &cpotenza massima&f sempre, anche quando non sta &6elaborando&f nulla."
+		""
+		"L'efficienza &overrà&r reimpostata se la ricetta che la macchina sta &6elaborando&f cambia."
+	]
+	quest.091C2772ED417247.quest_desc: [
+		"  Ora che produci energia nel &6livello di media tensione&r, devi assicurarti che le tue macchine possano accettare questa nuova potenza."
+		""
+		"  Normalmente, &6i cavi non si collegano nemmeno alle macchine se non sono dello stesso livello&r. Ma se metti un &bAdvanced Machine Hull&r (o di livello superiore) nello slot in alto a destra della macchina, la potenzierai al livello di energia a cui è associato."
+		""
+		"  Di default, le macchine elettriche sono già al livello &bBasic Machine Hull&r, quindi non serve mettere dei &bBasic Machine Hull&r nello slot. Ti mostrerò quali hull corrispondono a quale livello di energia."
+		""
+		"  &6Controlla bene quali macchine hanno &odavvero&r&6 bisogno dei potenziamenti&r, così non sprechi risorse su macchine che non hanno bisogno di quella spinta in più."
+	]
+	quest.091C2772ED417247.title: "Potenziamenti Hull"
+	quest.0C6D0B1C1AF75292.quest_desc: [
+		"  Winston? Hai dannatamente ragione."
+		""
+		"  Il &bChemical Reactor&r è una macchina chiusa che sfrutta le&6 reazioni chimiche tra le sostanze&r di questo mondo per creare cose nuove."
+		""
+		"  Il &bChemical Reactor&r favorirà queste reazioni e le terrà isolate, così non ti farai male né ti ammalerai a causa di fumi, liquidi o solidi rilasciati."
+		""
+		"  E ora, che ne dici? Mettiamoci a cucinare."
+	]
+	quest.0C6D0B1C1AF75292.quest_subtitle: "Di' il mio nome!"
+	quest.0C6D0B1C1AF75292.title: "Chemical Reactor"
+	quest.0ED4263270D37EF6.quest_desc: [
+		"&eAccessori diesel&r"
+		""
+		"  Ci sono alcuni potenti strumenti e accessori &6alimentati a diesel&r che ti aiuteranno a espandere ancora di più la tua fabbrica. Eccoli:"
+		""
+		" &#8226; Primo, la &bDiesel Mining Drill&r, un enorme salto di qualità rispetto alla vecchia Steam Mining Drill. La differenza è che con questo non puoi più usare la funzione 3x3, ma puoi &6passare da Tocco di velluto a Fortuna III&r con un semplice Shift + clic destro. Più il carburante al suo interno è potente, più veloce scaverà."
+		""
+		" &#8226; Secondo, la &bDiesel Chainsaw&r. La motosega funziona esattamente come la trivella, ma serve a tagliare alberi e simili, al posto della tua ascia."
+		""
+		" &#8226; Terzo, il &bDiesel Jetpack&r. Sì, hai capito bene. Un jetpack. Più è &6potente il carburante&r al suo interno, &6più veloce volerai&r. Usa il tasto «V» per accendere e spegnere il jetpack. Libera le tue ali e vola con la potenza della tecnologia! &oE un goccio di carburante...&r"
+	]
+	quest.0ED4263270D37EF6.title: "Accessori diesel"
+	quest.1081BFCAB3F07FFF.quest_desc: [
+		"  Ti serve un potenziamento a vapore? A me sì! La &bLarge Steam Boiler&r è una versione potenziata delle caldaie più piccole in bronzo e acciaio. &6Consuma carburante 8 volte più in fretta&r della fornace, ma produce &6256 mB/t di vapore&r alla temperatura massima. Non dimenticare di darle dell'&bAcqua&r!"
+		""
+		"  I blocchi principali che ti serviranno sono i &bBronze Plated Bricks&r, ma servono anche altri blocchi che vedi nell'EMI. La &bLarge Steam Boiler&r è composta da uno strato di &bHeatproof Machine Casings&r con strati di &6Bronze Plated Bricks&r e &6Pipe Machine Casings&r."
+		""
+		"  Il controller va sul secondo strato, sopra gli &bHeatproof Machine Casings&r. &6Non dimenticare che puoi usare la &bWrench&r &6per mostrare la forma del multiblocco e la posizione dei blocchi necessari&r. Gli hatch richiesti vanno messi sullo strato inferiore. Ti servirà un modo per inserire acqua e un combustibile solido, oltre a un modo per estrarre lo &bSteam&r."
+	]
+	quest.1081BFCAB3F07FFF.title: "Large Steam Boiler"
+	quest.1094111FB9512D75.quest_desc: [
+		"  Ci sono tre &bSmall Diesel Generators&r che segnano l'inizio della produzione di energia tramite fluidi o gas. Puoi controllare nell'EMI quanti EU vengono prodotti per millibucket di ogni tipo di carburante."
+		""
+		"  Il &bLV Diesel Generator&r produce fino a 64 EU/t, il &bMV Diesel Generator&r fino a 256 EU/t e il &bHV Diesel Generator&r fino a 1024 EU/t."
+		""
+		"  I &bDiesel Generators&r &6consumano carburante solo quando serve&r, quindi non preoccuparti di sprecarlo quando non usi energia. Se però ti serve una fornitura costante di energia, puoi mettere questi carburanti fluidi nella &bLarge Steam Boiler&r (e nei suoi livelli superiori) invece dei soli oggetti."
+		""
+		"  Una &bLarge Steam Boiler&r completamente riscaldata &6produrrà la stessa quantità di energia che produrrebbe un &bMV Diesel Generator&r con la stessa quantità di carburante."
+	]
+	quest.1094111FB9512D75.title: "Diesel Generator"
+	quest.141E3D92CBA9F1B3.quest_desc: [
+		"  Questa nuova macchina elettrica sfrutta la forza centripeta per &6separare miscele e oggetti fatti di più materiali in oggetti distinti&r."
+		""
+		"  In parole semplici, divide gli oggetti facendoli girare a velocità altissima. Per esempio, puoi usarla per ottenere &bCarbon Dust&r centrifugando la &bPolvere di carbone&r e sbloccare una ricetta migliore per &bSteel&r e &bSilicon&r."
+	]
+	quest.141E3D92CBA9F1B3.title: "Centrifuge"
+	quest.162DD68C3B91FC5E.quest_desc: [
+		"  C'è parecchio da spiegare."
+		""
+		"  Le reti di cavi hanno limiti rigidi sulla quantità di energia che assorbono, a seconda del livello. Qui sotto trovi qualche dato..."
+		""
+		"    Velocità massima di trasferimento: 256 EU/t"
+		"    Materiale: Tin"
+		""
+		""
+		"    Velocità massima di trasferimento: 1024 EU/t"
+		"    Materiale: Electrum"
+		""
+		""
+		"    Velocità massima di trasferimento: 8192 EU/t"
+		"    Materiale: Aluminum"
+		""
+		""
+		"    Velocità massima di trasferimento: 65536 EU/t"
+		"    Materiale: Annealed Copper"
+		""
+		""
+		"  Ora, la velocità di ingresso e di trasferimento ha un limite fisso, ma quella di scarica è infinita. Questo significa, per esempio, che una rete di cavi LV può fornire più di 256 EU/t per breve tempo. Più la rete di cavi è grande, più è grande il buffer interno dei cavi. Tutta questa energia «conservata» può essere scaricata quasi all'istante se ha un posto dove andare."
+		""
+		"  Tieni presente che &6ogni livello di cavo si collega &osolo&r &6alle macchine elettriche del proprio livello&r. Un cavo LV non si collega alle macchine a vapore, alle macchine MV o a quelle HV. Il modo in cui ogni macchina elabora e usa l'elettricità cambia in base alla forza dell'energia che riceve."
+		""
+		"  Se vuoi trasferire più energia di quanta ne consenta il livello del cavo, puoi creare più reti di cavi oppure usare i &bTransformers&r. I &bTransformers&r permettono di aumentare o ridurre la tensione. Per esempio, &6puoi prendere energia LV e trasformarla in energia HV e viceversa&r."
+		""
+		"  Come vedrai, un Transformer da &oX&r a &oY&r si collega ai cavi &oY&r sul lato di uscita e ai cavi &oX&r sui suoi 5 lati di ingresso. &6Puoi usare la &bWrench&r &6per configurare quale lato è l'uscita&r."
+		""
+		"  I cavi seguono le stesse regole dei tubi per fluidi e oggetti. Usare una &bWrench&r su di essi scollega le connessioni, mentre Shift + clic destro li rompe, e stavolta l'energia di quel tratto di rete va persa."
+		""
+		"  P.S. I cavi di Modern Industrialization, collegati a qualsiasi mezzo che accetti energia FE, moltiplicano per 10 l'energia da EU a FE. Più avanti c'è un potenziamento per questo, quindi tieni gli occhi aperti!"
+	]
+	quest.162DD68C3B91FC5E.title: "Trasferimento di energia"
+	quest.163BCEEEE08F3898.quest_desc: [
+		"  Il &bPolarizer&r, beh, polarizza le cose! Questo significa che i suoi ||elettroni|| si allineano e quindi il metallo che gli dai in pasto diventa magnetico."
+		""
+		"  Le &bPolarized Rods&r non hanno moltissimi usi, ma &6usarle per l'automazione dei motori è perfetto&r!"
+		"{image:modern_industrialization:block/machines/polarizer/overlay_front_active width:32 height:32 align:center}"
+	]
+	quest.163BCEEEE08F3898.title: "Polarizer"
+	quest.16E5B09AA7E6A487.quest_desc: [
+		"  I &bConveyor Belts&r servono a spostare gli oggetti all'interno delle tue macchine."
+		""
+		"  Usano dei &bMotors&r per girare e delle &bRubber Sheets&r come piano su cui muoversi."
+		""
+		"  &6Dovresti automatizzarli&r."
+	]
+	quest.16E5B09AA7E6A487.quest_subtitle: "Tutti a bordo dell'espresso degli oggetti!"
+	quest.16E5B09AA7E6A487.title: "Conveyor Belts"
+	quest.176524D0E4475298.quest_desc: [
+		"  Con il &bCrude Oil&r appena estratto puoi fabbricare un'ampia gamma di oggetti, ma &6per usarlo dovrai raffinarlo&r. Per ora, in ambito industriale, è piuttosto inutile."
+		""
+		"  Ed è qui che entra in gioco la &bDistillery&r! &6Puoi raffinare, o meglio &odistillare&r, &6i fluidi nelle loro componenti più leggere&r. Con questa &bDistillery&r puoi raffinare un solo fluido alla volta."
+		""
+		"  Continua a darci dentro: presto riuscirai a estrarre più fluidi insieme."
+	]
+	quest.176524D0E4475298.title: "Distillery"
+	quest.1910E0D1BB24E94D.quest_desc: [
+		"Per produrre &eenergia&r, il &bSolar Panel&r ha bisogno di una &bPhotovoltaic Cell&r del livello corrispondente nel suo &6inventario&r."
+		""
+		"Se fornisci &9Distilled Water&r al &bSolar Panel&r, la &bPhotovoltaic Cell&r nel suo slot durerà il &adoppio&r!"
+		""
+		"La &eproduzione di energia&r dipende da quanto è alto il &6sole&r nel &bcielo&r e dal fatto che il &bcielo&r sia &avisibile&r."
+	]
+	quest.1910E0D1BB24E94D.quest_subtitle: "Fai bene all'&aambiente&r!"
+	quest.1910E0D1BB24E94D.title: "Solar Panels"
+	quest.1987DF7742136DC4.quest_desc: [
+		"  Ricordi quando ti ho detto che la &bDistillery&r poteva produrre un solo tipo di fluido per ciclo? Ecco il tuo potenziamento!"
+		""
+		"  &6Puoi scegliere quanti strati vuoi, fino a 9&r, e produrrà un fluido &oper ogni strato&r!"
+		""
+		"  Per scegliere la dimensione della &bDistillation Tower&r, usa il selettore in alto a sinistra nella sua schermata. Buona distillazione!"
+	]
+	quest.1987DF7742136DC4.title: "Distillation Tower"
+	quest.1CA2825FFA775BBE.quest_desc: [
+		"  Questa nuova macchina elettrica usa forti correnti elettriche per scindere i materiali nelle loro parti."
+		""
+		"  La cosa più importante è che puoi &6scindere l'&bAcqua&r &6nei suoi due componenti principali: &bHydrogen&r &6e &bOxygen&r."
+		""
+		"  Questo processo si chiama&6 elettrolisi&r e funziona usando la corrente elettrica per scindere i ||composti ionici|| nei loro elementi."
+	]
+	quest.1CA2825FFA775BBE.title: "Electrolyzer"
+	quest.20A093E5684D2E30.quest_desc: [
+		"  Un'elettronica ancora più avanzata! Questi circuiti stampati sono a base di alluminio e permettono macchinari più complessi."
+		""
+		"  Ti consiglio di &6automatizzare&r gli &bElectronic Circuits&r, perché ti &6serviranno&r per molti dei &bpotenziamenti MV&r e per le nuove macchine che potrai costruire."
+	]
+	quest.20A093E5684D2E30.title: "&bL'era della metà partita!"
+	quest.22420EF3089DD7F6.quest_desc: ["  Il tuo primo assaggio di vera &4a&r&6u&r&et&r&2o&r&am&r&ba&r&3z&r&9i&r&do&r&5n&re! È anche la prima macchina di cui vorrai costruire parecchi esemplari. L'&bAssembler&r ti permette di &6automatizzare&r quasi tutte le ricette legate alle macchine. Controlla nell'&bEMI&r quali ricette puoi automatizzare con l'&bAssembler&r. In un solo assembler puoi impostare fino a &63 ricette&r usando il &6blocco degli slot&r. Ricorda solo che fabbricherà quante più unità possibile della prima ricetta prima di passare alla successiva, &6quindi non mettere mai più ricette molto richieste in un unico assembler&r."]
+	quest.22420EF3089DD7F6.title: "Assembler"
+	quest.24A4F1AA0BFFE867.quest_desc: [
+		"  Questa è la versione elettrica della &bSteam Blast Furnace&r. La &bElectric Blast Furnace (detta EBF)&r usa il riscaldamento a induzione per raggiungere temperature estreme, sbloccando una marea di ricette nuove. In più, il suo &6overclock è limitato a 128 EU/t di default&r, come le altre macchine elettriche multiblocco."
+		""
+		"  La &bElectric Blast Furnace&r, o &bEBF&r, è fatta solo di &bHeatproof Machine Casings&r e &bCupronickel Coils&r. &6Usa la &bWrench&r &6per vedere la forma del multiblocco e il posizionamento dei blocchi&r. Il controller va sullo strato inferiore, mentre gli hatch possono andare sullo strato superiore o su quello inferiore."
+		""
+		" &6Non dimenticare di aggiungere uno o più Energy Input Hatch&r, o l'EBF non avrà energia per funzionare! Comincia con un &bLV Energy Input Hatch&r e passa agli &bEnergy Input Hatch&r di livello superiore quando avrai i livelli di energia adatti. Ricorda che il &bLV Energy Input Hatch&r si collega solo ai &bcavi LV&r."
+		""
+		"  Ti serviranno anche Item Input Hatch o Fluid Input Hatch e Item Output Hatch o Fluid Output Hatch, in base all'uso che farai dell'&bEBF&r. Controlla nell'EMI le sue nuove ricette e scegli gli hatch in base alle tue esigenze."
+	]
+	quest.24A4F1AA0BFFE867.quest_subtitle: "Qui si sta facendo &cbollente&r"
+	quest.24A4F1AA0BFFE867.title: "Electric Blast Furnace"
+	quest.250D1E2BFE6E0D50.quest_desc: [
+		"  Potenzia subito quelle &bLarge Steam Boiler&r! "
+		""
+		"  Questa versione avanzata può &6quadruplicare la produzione di &bSteam&r &6fino a 1024 mB/t di vapore a piena temperatura&r."
+		""
+		"  È un po' più alta, quindi ricordati di usare la &bWrench&r per vedere la forma del multiblocco e il posizionamento dei blocchi."
+	]
+	quest.250D1E2BFE6E0D50.quest_subtitle: "Efficienza doppia!"
+	quest.250D1E2BFE6E0D50.title: "Advanced Large Steam Boiler"
+	quest.268B0F87CC431A51.quest_desc: ["- Richiede il &bCasing&r del livello di cavo da cui convertire (&eLV&r di default)."]
+	quest.268B0F87CC431A51.quest_subtitle: "Conversione più facile!"
+	quest.27A396E8628B269E.quest_desc: ["  La &bGold Drill&r produce i minerali e i blocchi da costruzione che ti aspetteresti di trovare nei confini del Nether."]
+	quest.27A396E8628B269E.title: "Gold Drill"
+	quest.29D05998ADC8ACF5.quest_desc: ["  Un processore super avanzato per spingere al limite le capacità di overclock della tua macchina e, ben presto, qualcosa di un po' più... &cnucleare&r."]
+	quest.29D05998ADC8ACF5.title: "Processing Unit"
+	quest.29E6ED5067027F08.quest_desc: [
+		"- Può eseguire le &6ricette&r di qualsiasi &bmacchina&r di fabbricazione &eelettrica&r a blocco singolo che gli viene fornita, in lotti."
+		""
+		"- La dimensione del lotto dipende dal numero di &bmacchine&r fornite."
+		""
+		"- Inserisci macchine di fabbricazione &eelettriche&r da eseguire in &6parallelo&r."
+	]
+	quest.2B4BFD88DF1A934D.quest_desc: ["  Pesa un terzo dell'acciaio, ma è duttile e molto malleabile. Si ottiene riscaldando la &bBauxite&r ed estraendone il metallo. Puoi farlo nella tua nuova &bEBF&r. &6Assicurati di automatizzare la produzione di &bAluminum&r, perché ne userai TANTISSIMO&r."]
+	quest.2B4BFD88DF1A934D.quest_subtitle: "Tutto Al posto giusto!"
+	quest.2B4BFD88DF1A934D.title: "Aluminum"
+	quest.2BC64E1EB1BCE14D.quest_desc: [
+		"  La &bStainless Steel Drill&r è una nuova trivella che &6si può usare &osia&r&6 nella &bQuarry&r &6sia nella &bOil Drilling Rig&r."
+		""
+		"  Nella quarry otterrai alcune nuove risorse rare che saranno estremamente utili in futuro."
+		""
+		"  Nella drilling rig potrai pompare &bShale Oil&r, che può essere distillato in &bHelium&r, &bSulfuric Crude Oil&r e &bSulfuric Naphtha&r."
+	]
+	quest.2BC64E1EB1BCE14D.title: "Stainless Steel Drill"
+	quest.2D4170B5AD28DCBF.quest_desc: [
+		"  Il miglior &bDiesel Generator&r a blocco singolo che puoi costruire. &6Produce fino a 1024 EU/t&r da uno qualsiasi dei vari fluidi elencati nell'EMI."
+		""
+		"  Ora, questo non è il miglior generatore che accetta carburanti fluidi. Esiste il &bLarge Diesel Generator&r, che richiede degli &bHighly Advanced Machine Hulls&r; ma ne vale la pena, se pensi che &6genera fino a 16.384 EU/t&r!"
+	]
+	quest.2D4170B5AD28DCBF.title: "HV Diesel Generator"
+	quest.335BFE2345DAFE03.quest_desc: [
+		"Per la &bElectric Chainsaw&r:"
+		"- Premi &6Shift sinistro&r e &6clic destro&r per passare tra &bFortuna/Saccheggio&r e &bTocco di velluto&r."
+		""
+		"Per la &bElectric Mining Drill&r:"
+		"- Premi &6Shift sinistro&r e &6clic destro&r per passare tra &bFortuna&r e &bTocco di velluto&r."
+		""
+		"Per &bEntrambe&r:"
+		"- Usa &6Alt&r e la &6rotellina del mouse&r per cambiare la velocità di scavo."
+	]
+	quest.335BFE2345DAFE03.title: "Accessori elettrici"
+	quest.37F3ABF113A1D399.quest_desc: [
+		"  Il &bLV Energy Input Hatch&r è come una gigantesca presa elettrica. Come ti ho già detto, serve un &bEnergy Input Hatch&r per alimentare le macchine elettriche multiblocco."
+		""
+		"  Ricorda che puoi potenziare la macchina multiblocco sostituendo l'&bEnergy Input Hatch&r con uno di livello superiore, aumentando la potenza massima per le ricette e la capacità generale di overclock."
+	]
+	quest.37F3ABF113A1D399.title: "LV Energy Input Hatch"
+	quest.3C3519AFEBBAEC70.quest_desc: [
+		"  I &bPistons&r usano la forza di rotazione per estendere un'asta con una grande potenza."
+		""
+		"  Sono molto utili per comprimere e impacchettare le cose. &6Dovresti automatizzarli&r."
+	]
+	quest.3C3519AFEBBAEC70.quest_subtitle: "Pugno di metallo"
+	quest.3C3519AFEBBAEC70.title: "Pistons"
+	quest.3DF6354F7AC8D4A4.quest_desc: ["  Ora che puoi iniziare il tuo viaggio tra i composti chimici derivati dal &bCrude Oil&r, puoi produrre potenziamenti per le tue macchine! Tutte le macchine elettriche che hai usato fin qui avevano un overclock massimo di 32 EU/t. Ora puoi aumentare quel massimo, in base al livello del potenziamento che usi. Controlla nell'EMI di quanti EU aumenta ogni potenziamento."]
+	quest.3DF6354F7AC8D4A4.title: "Potenziamenti"
+	quest.40148704F9175B05.quest_desc: [
+		"Assicurati di aver impostato i tasti, poi &rtieni premuto&r Shift sopra il &bNano Helmet&r per vedere quale tasto devi premere per attivare la &5Visione notturna&r."
+		""
+		"Fai lo stesso con i &bNano Leggings&r e i &bNano Boots&r per lo &5Speed Boost&r e lo &5Step Boost&r rispettivamente."
+		""
+		"L'armatura può anche essere &6tinta&r e &6rifinita&r."
+	]
+	quest.40148704F9175B05.quest_subtitle: "Moda tecnologica!"
+	quest.40148704F9175B05.title: "&aNano Suit"
+	quest.41D1344A31FEA6DF.quest_desc: [
+		"  Le &bKanthal Coils&r sono un nuovo tipo di avvolgimento per la tua &bEBF&r: &6consentono un assorbimento di energia maggiore&r e la capacità di generare ancora più calore. Fai attenzione, non vorrai scottarti. Ahi!"
+		""
+		"Le &bKanthal Coils&r non fanno scaldare automaticamente la tua &bEBF&r alle &6temperature più alte&r. Il computer di controllo ne è in grado, devi solo regolare i valori in modo che sfrutti appieno il potenziamento."
+		""
+		"  In questo caso, te l'abbiamo semplificato. Apri la &bGUI del controller&r e nell'&6angolo in alto a sinistra&r vedrai una serie di frecce. Premi quella che punta a destra e le impostazioni passeranno dal livello &bCupronickel&r al livello &bKanthal&r."
+		""
+		"  Facile, no?"
+	]
+	quest.41D1344A31FEA6DF.title: "Kanthal Coils"
+	quest.42D6CC67AB29D7DA.quest_desc: [
+		"  Finalmente sei arrivato ai &bDigital Circuits&r!"
+		""
+		"  Qui comincia la vera potenza. Aumenta le capacità di overclock delle tue macchine ancora più di prima, e ottieni minerali nuovissimi dalle quarry."
+		""
+		"  &6Dovresti automatizzarli&r."
+	]
+	quest.42D6CC67AB29D7DA.title: "&9L'era della fine partita"
+	quest.47C1108CF46C81FC.quest_desc: ["  &6L'&bAluminum Drill&r &6ti permette di trivellare in cerca di &bCrude Oil&r. Individuerà le sacche di petrolio nel sottosuolo e lo pomperà automaticamente attraverso la trivella fino in superficie."]
+	quest.47C1108CF46C81FC.title: "Aluminum Drill"
+	quest.4980C231ECDB0BF2.quest_desc: ["  La &bSteel Drill&r ti dà tutti gli altri &6minerali più comuni&r che ti serviranno per proseguire nel tuo viaggio verso l'automazione totale, ma anche nell'esplorazione del mondo stesso. Controlla nell'EMI tutte le uscite possibili."]
+	quest.4980C231ECDB0BF2.title: "Steel Drill"
+	quest.5401B18217772D6C.quest_desc: [
+		"  Puoi usare l'&bHeat Exchanger&r per, beh, scambiare calore. Puoi recuperare la &bHigh Pressure Water&r da riutilizzare in un altro ciclo. "
+		""
+		"  Ricorda che &6pressurizzare l'&bAcqua&r &6in &bHigh Pressure Water&r &6costa molta energia&r, ma la turbina non te la restituirà necessariamente."
+	]
+	quest.5401B18217772D6C.title: "Heat Exchanger"
+	quest.54BF53CB70636C3F.quest_desc: [
+		"  Metti in schiavitù l'inverno dentro un telaio di alluminio superraffreddato. Come fa togliere l'aria a raffreddare qualcosa? Ti faccio un esempio con l'acqua:"
+		""
+		"  Svuotando la camera, la pressione scende sotto il punto di ebollizione; ma allora l'acqua perde energia con l'ebollizione e l'evaporazione, e poi congela."
+	]
+	quest.54BF53CB70636C3F.title: "Vacuum Freezer"
+	quest.58CA2853D9620919.quest_desc: [
+		"Il &bBasic Upgrade&f è un potenziamento che puoi &6fabbricare&f con soli componenti semplici per &9velocizzare&f le tue macchine."
+		""
+		"Ognuno aumenta il limite massimo di &eenergia&f di &62 EU/t&f."
+	]
+	quest.5C8D7BD3DA61109F.quest_desc: [
+		"  Sei arrivato alla versione elettrica della &bQuarry&r! Questa produce minerali a un ritmo ancora più veloce di prima &oe&r ti offre più scelta di trivelle."
+		""
+		"  &6Ora potrai usare le trivelle &bSteel&r&6, &bGold&r&6, &bStainless Steel&r&6 e &bTitanium&r per completare la produzione di minerali e mantenere davvero la mia promessa: non dover mai più scavare per cercarne!"
+		""
+		"  La struttura è &oidentica&r a quella della &bSteam Quarry&r, a parte il fatto che serve un &bEnergy Input Hatch&r al posto di un &bFluid Input Hatch&r.&6 Assicurati di aver già automatizzato le tue &bBronze Drills&r&r, altrimenti tenere in funzione le quarry sarà una seccatura."
+	]
+	quest.5C8D7BD3DA61109F.quest_subtitle: "Le risorse fanno BRRR!"
+	quest.5C8D7BD3DA61109F.title: "Electric Quarry"
+	quest.5DD99224F29419C1.quest_desc: [
+		"  Questo è il momento di produrre vera &6elettricità&r con lo &bSteam&r che hai fatto finora. La &bLV Steam Turbine&r convertirà ogni &61 mB di Steam in 1 EU&r di energia, e lo farà fino a 32 volte per tick, per una &6produzione massima di energia di 32 EU/t&r."
+		""
+		"  La &bSteam Turbine&r invia automaticamente l'elettricità a qualsiasi macchina collegata direttamente al suo lato di uscita. Si collega inoltre solo ai cavi posizionati sul suo lato di uscita."
+		""
+		"  La prima che costruirai è del livello a bassa tensione. Esistono turbine a vapore di livello superiore, ma non ci sei ancora arrivato."
+	]
+	quest.5DD99224F29419C1.title: "LV Steam Turbine"
+	quest.61748279816F2D7F.quest_desc: [
+		"Il &bRedstone Control Module&f serve a controllare le tue macchine con la &credstone&f! Con il &6clic destro&f sul modulo che tieni in mano &6cambi&f la sua impostazione: la macchina passa dal richiedere un &9Segnale alto&f al richiedere un &9Segnale basso&f, e viceversa. Poi mettilo nello slot del modulo &credstone&f."
+		""
+		"Questo significa che:"
+		"- Con l'impostazione su &9Segnale alto&f, la macchina &6funziona&f solo se riceve un segnale di &credstone&f. Senza segnale di &credstone&f si spegne."
+		"- Con l'impostazione su &9Segnale basso&f, la macchina &6funziona&f solo se non riceve un segnale di &credstone&f. Un segnale di &credstone&f la spegne."
+	]
+	quest.64287B360B07BEBB.quest_desc: ["- &6Collega a catena&r fino a un &cmassimo&r di &a64&r macchine a scelta."]
+	quest.64287B360B07BEBB.quest_subtitle: "Mettile in catena!"
+	quest.660EFAF144F70749.quest_desc: [
+		"  È ora di un grande potenziamento! Finora potevi produrre elettricità solo a 32 EU/t per turbina con la &bLV Steam Turbine&r, ma adesso potrai &6produrre un massimo di 128 EU/t&r con la nuovissima &bMV Steam Turbine&r! A parte la produzione di energia quadruplicata, funziona proprio come la &bLV Steam Turbine&r."
+		""
+		"  Una cosa da tenere a mente è che &6non potrai usare gli stessi cavi di prima&r. Ora dovrai usare cavi &bCupronickel&r o &bElectrum&r per trasferire questo nuovo livello di energia MV."
+	]
+	quest.660EFAF144F70749.title: "MV Steam Turbine"
+	quest.6BD625E5CA469914.quest_desc: [
+		"  L'ultimo passo prima dell'overclock totale, il potenziamento più docile ma utilissimo, l'unico e inimitabile &bHighly Advanced Upgrade&r!"
+		""
+		"  Ognuno di questi aggiunto alla tua macchina &6aumenta di 512 EU/t il suo consumo massimo di energia&r. Ne basta uno solo per spedire la tua macchina sulla luna!"
+		""
+		"  Usali con giudizio: costano parecchio da fabbricare."
+	]
+	quest.6BD625E5CA469914.title: "Highly Advanced Upgrade"
+	quest.6CA941AE132445D9.quest_desc: [
+		"  I &bMachine Hulls&r contengono l'elettronica principale che permette alle macchine di funzionare. Esistono diversi livelli di Machine Hull, e ognuno ti permette di potenziare le tue macchine. Il &bBasic Machine Hull&r è la base di ogni macchina che usa energia LV."
+		""
+		"  Se vuoi che la tua macchina accetti energia MV, devi potenziarla con un &bAdvanced Machine Hull&r. Puoi farlo con un &6clic destro sulla macchina tenendo in mano l'hull potenziato&r, oppure mettendolo nello slot in alto a destra della GUI della macchina, quello che sembra avere il disegno di un piccolo cubo isometrico. Lo stesso vale per gli hull di livello superiore, che permettono fonti di energia di livello superiore."
+	]
+	quest.6CA941AE132445D9.quest_subtitle: "Il cuore elettronico"
+	quest.6CA941AE132445D9.title: "Machine Hulls"
+	quest.6EBFFFB567687A1E.quest_desc: [
+		"  Lo &bStainless Steel&r è resistente quasi quanto l'acciaio normale, ma lo &bStainless Steel&r non si corrode, non arrugginisce e non si macchia mai. È il primo metallo che non puoi semplicemente buttare in una fornace e farla finita lì."
+		""
+		"  &6Devi creare la sua polvere&r da quattro ingredienti: &bIron&r, &bChromium&r, &bManganese&r e &bNickel&r. Poi, dopo averlo scaldato a temperature estreme nella tua EBF, devi usare il &bVacuum Freezer&r per raffreddare il lingotto incandescente e renderlo utilizzabile. "
+	]
+	quest.6EBFFFB567687A1E.title: "Stainless Steel"
+	quest.6F57A2A5AA6E3F49.quest_desc: [
+		"  Il petrolio è un liquido nero infiammabile che si forma nel sottosuolo in un tempo &omolto, molto&r lungo. &6Con una &bDrilling Rig&r&6 puoi trivellare il terreno ed estrarre questo petrolio&r."
+		""
+		"  Però il petrolio non è l'unica cosa che si può pompare dal sottosuolo. Usando diversi tipi di trivelle scegli quale fluido estrarre. Usa l'EMI per vedere quali trivelle estraggono quali fluidi."
+		""
+		"  P.S. Non dimenticare che questo è uno di quei multiblocchi molto complessi. &6Usa la &bWrench&r &6per vedere come costruirlo&r!"
+	]
+	quest.6F57A2A5AA6E3F49.quest_subtitle: "Dolce, dolcissimo petrolio"
+	quest.6F57A2A5AA6E3F49.title: "Oil Drilling Rig"
+	quest.779C3C6B89AD2526.quest_desc: [
+		"  Le macchine elettriche funzionano esattamente come quelle a vapore, tranne per il fatto che &6richiedono elettricità per funzionare invece del vapore&r e possono eseguire l'overclock delle ricette in modo progressivo fino a 32 EU/t (per ora)."
+		""
+		"  Puoi usare l'EMI per vedere le ricette delle versioni elettriche delle macchine che già conosci. Le ricette sono più complesse e richiedono componenti più specifici per le macchine."
+		""
+		"  Il tuo primo componente principale saranno gli &bAnalog Circuits&r. Sono il circuito principale delle macchine LV, oltre che la base dei circuiti e delle macchine di livello superiore. &6Dovresti automatizzarlo il prima possibile&r."
+		""
+		"  Ti consiglio vivamente di iniziare ad automatizzare i componenti appena puoi. Ti dirò io quali componenti automatizzare man mano che li incontriamo. In questo modo le macchine elettriche saranno praticamente gratis, perché non dovrai fabbricare a mano nessun componente!"
+	]
+	quest.779C3C6B89AD2526.quest_subtitle: "È ora di un grande potenziamento"
+	quest.779C3C6B89AD2526.title: "&eL'era elettrica!"
+	quest.791CAEBAE57EF0E1.quest_desc: ["  I &bMotors&r prendono elettricità e producono una forza di rotazione. In futuro userai i motori per costruire molte macchine e altri componenti. &6Dovresti automatizzarli&r."]
+	quest.791CAEBAE57EF0E1.quest_subtitle: "Mi fai girare come una trottola"
+	quest.791CAEBAE57EF0E1.title: "Motors"
+	quest.7C0FA555C5FE00D1.quest_desc: [
+		"  I &bRobot Arms&r servono a spostare automaticamente le cose all'interno di una macchina."
+		""
+		"  Possono essere componenti molto complessi e per questo sono fatti di &bSteel&r, per restare resistenti ed evitare danni interni."
+		""
+		"  &6Dovresti automatizzarli&r."
+	]
+	quest.7C0FA555C5FE00D1.quest_subtitle: "Bip bip bop"
+	quest.7C0FA555C5FE00D1.title: "Robot Arms"
+	quest.7FD5FCEFE3697A7C.quest_desc: [
+		"Per la &omisera&r cifra di &e8 EU/t&r, la &bSteam Farmer&r può fare queste cose:"
+		"- &6Zappare&r: se attivata, i blocchi di terra diventano terreno agricolo. Non funziona se non le viene fornita acqua."
+		"- &6Idratare&r: se le viene fornita acqua, il terreno zappato viene idratato."
+		"- &6Raccogliere&r: se c'è abbastanza spazio in uscita, raccoglie colture e alberi completamente cresciuti."
+		"- &6Piantare&r: se le vengono fornite colture o germogli, li pianta su un terreno valido. Modalità di piantagione diverse li dispongono in modi diversi."
+	]
+	quest.7FD5FCEFE3697A7C.quest_subtitle: "Cosa chiese il piccolo &emais&r alla mamma &emais&r? «Dov'è papà Popcorn?»"
+}

@@ -1,0 +1,376 @@
+{
+	image.017B9EEE990B7CB6.title: "Treni"
+	image.0C37DE768D94A385.title: "Speciali"
+	image.0F5B0C6345D2D15B.title: "Fabbrica intelligente"
+	image.20F705FCA4914948.title: "Attrezzi"
+	image.3CF0F77E92FC46E7.title: "Ottone"
+	image.49AA2A6DAD246A83.title: "Impianto idraulico"
+	image.54197A78B708BB14.title: "Trasporti"
+	image.7DA7B9F4CB44AADC.title: "Meccanica di base"
+	quest.017309CDB87F2A1E.quest_desc: [
+		"In realtà da solo non fa niente... ma è un ingrediente chiave per fare altra roba utile."
+		""
+		"Forse è anche la prima cosa per cui vorrai costruire un macchinario."
+	]
+	quest.038AAFBA1E0DEF7E.quest_desc: [
+		"Gli &bOcchiali da ingegnere&r ti permettono di vedere più informazioni sui componenti di Create piazzati."
+		""
+		"Probabilmente troverai utile, e per molti compiti in Create perfino indispensabile, tutto ciò che sta nell'ala &c“Attrezzi”&r."
+	]
+	quest.038AAFBA1E0DEF7E.quest_subtitle: "Indispensabili per ogni buon Create-tore"
+	quest.0442AA6067606DA8.quest_subtitle: "La ruota della fortuna?"
+	quest.047A5CFAEBBE7E4E.quest_desc: [""]
+	quest.047A5CFAEBBE7E4E.quest_subtitle: "Il negozio di Create"
+	quest.04C07CE4F7258BF5.quest_desc: [""]
+	quest.04C07CE4F7258BF5.quest_subtitle: "Sposta la roba in giro"
+	quest.0541F90AD95B4B5E.quest_desc: ["Fai attenzione: potrebbe &6fare&r una cosa su un &bDeposito&r e un'altra in una &bVasca&r."]
+	quest.0541F90AD95B4B5E.quest_subtitle: "Posso servirti un tramezzino al cetriolo ben pressato?"
+	quest.07821D28021BB440.quest_desc: ["&6Rompe&r i &bblocchi,&r e non c'è altro da dire."]
+	quest.07821D28021BB440.quest_subtitle: "Trivella, baby. Trivella!"
+	quest.0807F0094282C2D5.quest_desc: [
+		"I &bTunnel di andesite&r sono piuttosto semplici: &6coprono&r i &bNastri&r e introducono una semplice &6ripartizione&r degli oggetti trasportati."
+		""
+		"Dai un'occhiata ai &bTunnel di ottone&r per alcune utili estensioni delle &6capacità&r dei tunnel."
+	]
+	quest.0888176AF1BEA68D.quest_subtitle: "Se non hanno pane, che facciano la torta!"
+	quest.088E87F861406342.quest_desc: ["Usalo per &6riempire&r il fossato, &6svuotare&r una palude, &6pompare&r &9acqua&r o &blava&r senza limiti."]
+	quest.08DD0CB24FD0B193.quest_desc: [
+		"- &6Ruota&r i componenti con precisione"
+		""
+		"- &6Apre&r e &6chiude&r le &bValvole per fluidi&r"
+		""
+		"- Si può &6tingere&r"
+	]
+	quest.08DD0CB24FD0B193.quest_subtitle: "Ma riesci a indossarlo sulla nuca?"
+	quest.0A67575BAF8596B0.quest_desc: ["Meglio dei binari del tuo trenino: rettilinei, curve (di due tipi) e pendenze—funzionano anche attraverso i portali del Nether e nei chunk non caricati!"]
+	quest.0C18429AFD83973C.quest_desc: [
+		"Li adoro! Con loro puoi..."
+		""
+		"- &6Azionare&r &bAste&r* vicine e parallele con la stessa rotazione, oppure"
+		""
+		"- Averne una qualsiasi &6ruotata di 90°&r rispetto alle altre, e..."
+		""
+		"- &6Raddoppiare&r o &6dimezzare&r la velocità con un &bCambio a catena regolabile&r e un tocco di &bredstone&r!"
+		""
+		"(* o &bVentilatori rivestiti&r, ecc.)"
+	]
+	quest.0C53E42899D3D271.quest_desc: ["Semplice &6controllo&r a &bredstone&r per le &bAste&r o gli &bIngranaggi&r motori."]
+	quest.0EFB32C64C146682.quest_desc: [
+		"Il tuo braccio destro, in versione meccanica d'ottone."
+		""
+		"&6Fa&r cose che normalmente può fare solo un giocatore."
+	]
+	quest.10391A74418CA104.quest_desc: [
+		"Essenziale per una delle mie classi di macchinari preferite: il &btrivellatore&r*."
+		""
+		"[* una serie di &bTrivelle meccaniche&r &6disposte&r su un piano orizzontale, per &6trivellare&r in profondità nel mondo. ]"
+	]
+	quest.10391A74418CA104.quest_subtitle: "Carrucola per te, Teddy!"
+	quest.120AAA5FECD27573.quest_subtitle: "Scorri fluido, scorri! Fermati fluido, fermati!"
+	quest.19A71430646BD65B.quest_desc: [
+		"&9Flusso di fluidi&r dalla rotazione meccanica!"
+		""
+		"Possono lavorare in parallelo per &6aumentare&r il flusso, oppure distanziate in serie per &6spingere&r i fluidi lungo condotte molto lunghe."
+	]
+	quest.1A6929801D08F2C5.quest_desc: ["Nelle mod ci saranno altri modi per &6produrre più energia&r, ma è difficile battere la soddisfazione di una caldaia che alimenta tanti &bMotori a vapore&r… quanti riesci a montarne, &6alimentati&r con abbastanza &ccalore&r e &9acqua.&r"]
+	quest.1A6929801D08F2C5.quest_subtitle: " Ciuf ciuf ciuf."
+	quest.1C699E7F615D68A7.quest_desc: [
+		"Il terminale del nuovo kit di Create per costruirsi il proprio sistema di deposito."
+		""
+		"Può &6collegarsi&r a più inventari tramite i &bConnettori merci&r e viene &bgestito&r dal mob che preferisci."
+	]
+	quest.1CACDF56CB395997.quest_desc: ["Puoi prenderti il mio &bBraccio allungabile&r... quando me lo &6strapperai&r dalle mie dita fredde e morte. xD"]
+	quest.1CACDF56CB395997.quest_subtitle: "Mani in alto, verso il cielo!"
+	quest.1F71E19AD3CFCABC.quest_desc: [
+		"L'&oOuverture 1812&r di Čajkovskij… musica anche per piazzare costruzioni."
+		""
+		"&6Spara&r i tuoi progetti di costruzione direttamente nel mondo, blocco per blocco."
+	]
+	quest.1FA90B3E33E0DFEE.quest_desc: [
+		"&6Sgombera&r e &6costruisce&r percorsi. Molto fico."
+		""
+		"Ti consiglio di guardare il Ponder di questi."
+	]
+	quest.1FDE63D5EA5DA3CB.quest_desc: ["Se il protocollo Internet ha le porte, allora i &bRanaporti per pacchi&r devono far parte del CCP: Chain Conveyor Protocol."]
+	quest.1FDE63D5EA5DA3CB.quest_subtitle: "Non è il posto dove le rane atterrano e decollano."
+	quest.21B6DE76E735A196.quest_desc: ["Il &bTelaio lineare&r e il &bTelaio radiale&r &6aiutano&r a costruire macchinari senza super colla."]
+	quest.220163965130D8C7.quest_desc: ["&6Rompe&r i &bblocchi senza hitbox solide&r... come &bbinari&r, &bleve&r, &bpulsanti&r, ecc."]
+	quest.22488BFDDB85DB29.quest_desc: ["C'è chi dice che siano i &btubi per fluidi&r più belli del gioco: hanno persino delle finestre per &6mostrare&r il &9fluido&r che ci scorre dentro."]
+	quest.231404F75545A149.quest_desc: [""]
+	quest.231404F75545A149.quest_subtitle: "Eleva te stesso, i tuoi amici e le tue costruzioni."
+	quest.238794C3DE2B79BA.quest_desc: [
+		"I &bVentilatori rivestiti&r possono fare cose interessanti a mob ed entità, e questo permette di &6spruzzare&r quegli effetti tutt'intorno."
+		""
+		"Consiglio: gli effetti dei &bDispersori&r raggruppati si &6sommano&r. Provare per credere."
+	]
+	quest.23988FD7E2EEF319.quest_desc: [
+		"Sostanzialmente l'elemento centrale di un assemblatore molecolare di Create."
+		""
+		"Consiglio: usa un &bsegnale di redstone&r accanto a una serie di questi per &6chiudere&r tutti gli spazi inutilizzati quando &6fabbrichi&r una ricetta più piccola."
+	]
+	quest.248CD41AE2A92573.quest_desc: ["Fa quello che dice sulla scatola: è il modo per &6collegare&r gli inventari ad altri componenti specifici di Create."]
+	quest.264DA461C59E31C3.quest_desc: ["&6Accende&r i tuoi &bInceneritori a blaze&r come non mai."]
+	quest.264DA461C59E31C3.quest_subtitle: "Blaze! Questa torta non è una bugia."
+	quest.2697B8077174B870.quest_desc: ["[ Dai un'occhiata anche alle versioni di netherite di questi e allo &bZaino serbatoio&r. ]"]
+	quest.2697B8077174B870.quest_subtitle: "Cousteau al tuo confronto non vale niente."
+	quest.26AC949F1C3C6214.quest_desc: ["Ottonato, con i lati neri e molto elegante."]
+	quest.286229410FA571B7.quest_desc: ["&6Previene&r le collisioni e &6controlla&r il flusso dei treni in tabella di marcia."]
+	quest.286229410FA571B7.quest_subtitle: "Fai correre quei treni!"
+	quest.2976D5A533FDEE8F.quest_subtitle: "Spingi e tira più lontano"
+	quest.29A942B4C3E9A502.quest_desc: [
+		"&6Taglia&r anche gli &balberi&r più alti, oppure &6taglia&r molte &bcose&r in... molte altre &bcose&r."
+		""
+		"Alla &bSega meccanica&r si applicano così tante ricette per tanti possibili ingressi che ti conviene &6bloccare&r la ricetta &6colpendola&r in alto con un esempio del risultato desiderato."
+	]
+	quest.29A942B4C3E9A502.quest_subtitle: "Un bel taglio, ma senza cucire"
+	quest.2A08F71925AE775E.quest_desc: ["Voglio dire... c'è già tutto nel nome."]
+	quest.2B482168EC0C6EB8.quest_subtitle: "Furtività, ma con stile e divertimento."
+	quest.305EDA1DA23E9BDF.quest_desc: ["Guardiani dell'ordine in un mondo imprevedibile di &bcatene,&r &bnastri&r e &bscatole&r."]
+	quest.305EDA1DA23E9BDF.quest_subtitle: "Imballali ancora, Sam."
+	quest.30FC83AF65C13591.quest_desc: ["Come il &bTunnel di andesite&r, ma con modalità di &6filtro&r e &6distribuzione&r."]
+	quest.3254374A45D0D708.quest_desc: [
+		"Usa un &b Progetto e penna&r per &6salvare&r una costruzione o un pezzo del tuo mondo."
+		""
+		"Usa un &bProgetto vuoto&r in un &bBanco dei progetti&r per &6mettere in moto i tuoi piani&r."
+	]
+	quest.3254374A45D0D708.quest_subtitle: "Una tela bianca… cosa ci scriverai sopra?"
+	quest.328E672F6B43D93A.quest_desc: ["Serve sia per &6assemblare&r i tuoi treni sia, beh, per &6fare&r da stazione."]
+	quest.32DC17E21BF26228.quest_desc: ["Usalo per &6scaricare&r i &bProgetti&r salvati in un nuovo &bProgetto&r pronto per l'uso nello &bSpara-progetti.&r"]
+	quest.33C2042F320B2D34.quest_desc: [
+		"Gli scivoli sono più flessibili di quanto potresti pensare a prima vista."
+		""
+		"Si possono impilare in verticale, ma anche in diagonale."
+		""
+		"Una Chiave a pappagallo piazza, o toglie, le finestre degli scivoli."
+		""
+		"Spostano gli oggetti verso l'alto usando Ventilatori rivestiti a entrambe le estremità per spingere l'aria in su."
+		""
+		"Spostano gli oggetti verso il basso con... nient'altro. (grazie, gravità!)"
+	]
+	quest.33C2042F320B2D34.quest_subtitle: "Beh, che scivolone."
+	quest.3594EFD40D059EA3.quest_desc: [
+		"Un altro dei miei preferiti."
+		""
+		"Pilotali con un &bEmettitore a riempimento&r su un &bContainer&r per avere una bella barra di avanzamento che &6mostra&r quanto è pieno."
+	]
+	quest.3594EFD40D059EA3.quest_subtitle: "Totalmente, tipo, tubolare."
+	quest.36F22AA68C1841F6.quest_desc: [""]
+	quest.36F22AA68C1841F6.quest_subtitle: "Sei elegante, corazzato e a prova di lava!"
+	quest.3723D86B327384DB.quest_desc: [
+		"Una sola idea: &otreno a lava&r."
+		""
+		"(ma in realtà con questo puoi &6trasferire&r &9fluidi&r da e verso macchinari mobili e treni)"
+	]
+	quest.37C0F6CAEE15D410.quest_desc: ["Come gli &bOsservatori intelligenti&r possono &6osservare&r sia ciò che hanno davanti sia il contenuto di ciò che hanno davanti, gli &bOsservatori ferroviari&r possono &6osservare&r i treni di passaggio o perfino il loro carico."]
+	quest.381C007F6EB3B389.quest_desc: [
+		"Potrebbe benissimo essere, senza dirlo troppo in giro, il singolo blocco di Create più &6apprezzato&r."
+		""
+		"Dai, la prima volta che hai &6guidato&r un treno in Create è stato fantastico, no? Eccome."
+	]
+	quest.38DF71D9CB5045F2.quest_desc: ["È d'ottone, &6gira&r e &6ha un gran look&r. Altro non serve."]
+	quest.38EF4E7FE82B62A6.quest_subtitle: "Non fare tardi, non fare tardi, a un appuntamento importantissimo."
+	quest.39716053AAD8ABF2.quest_desc: ["Da qualche parte bisogna pur cominciare: questa ti permette di &6azionare a mano&r le tue prime creazioni meccaniche—oppure di dare la scintilla ai tuoi motori a vapore auto-pompanti."]
+	quest.3B6674B3B91BD8B4.quest_desc: [
+		"I &bNastri meccanici&r: economici da fare, essenziali per i primi macchinari (e ancora utili per quelli veloci), e si possono anche tingere."
+		""
+		"L'ala &c\"Trasporti\"&r, dal nome un po' generico, ha un po' di tutto per il movimento e l'immagazzinamento degli oggetti nei tuoi macchinari, per abilitare più tipi di movimenti per i macchinari—e perfino il modo di generare energia rinnovabile dall'atmosfera stessa!"
+	]
+	quest.3B6674B3B91BD8B4.quest_subtitle: "Allacciate le cinture, si parte!"
+	quest.3E1B0CBA0889C0AE.quest_desc: [
+		"Le &bgru&r: &6movimento&r e &6trasmissione di energia&r: niente male!"
+		""
+		"Dai un'occhiata alle gru a cascata, spiegate nel Ponder."
+	]
+	quest.3E1B0CBA0889C0AE.quest_subtitle: "Per la gru più altolocata"
+	quest.3EFED58FAE46B366.quest_desc: ["&6Incolla&r i blocchi in macchinari di qualsiasi dimensione, piccoli o giganteschi."]
+	quest.3F0B58522B009779.quest_desc: [
+		"Si può &6impugnare in coppia&r e &6incantare&r."
+		""
+		"&bCibi&r (munizioni) diversi hanno &6effetti&r diversi."
+	]
+	quest.3F0B58522B009779.quest_subtitle: "Battaglia a colpi di cibo!"
+	quest.3F3600B6701641E0.quest_desc: [
+		"La &bLega di andesite&r è fondamentale per cominciare con Create, e lo sono anche i blocchi dell'ala &c\"Meccanica di base\"&r di questa galleria."
+		""
+		"  Quando inizi a &6scavare&r nelle prime fasi della partita, prendi più &bandesite&r che puoi e non dimenticare di raccogliere anche lo &bzinco&r, così risparmi il tuo &bferro&r per altri usi che non siano &6fabbricare&r la &bLega di andesite&r."
+	]
+	quest.3F6730383CCC8BB0.quest_desc: ["Non farti ingannare… può sembrare simile all'umile &bcalderone,&r ma è abbastanza flessibile da lavorare con &bNastri&r, &bTubi per fluidi&r, &bMiscelatori meccanici&r e &bPresse&r—&6permettendo&r di automatizzare molte ricette."]
+	quest.404A9FFCA3DF600D.quest_desc: [
+		"Semplice &6controllo&r a &bredstone&r per &6invertire&r il moto rotatorio."
+		""
+		"Molto utile quando la tua costruzione ne ha bisogno."
+	]
+	quest.41183734EB2C28FF.quest_desc: ["&6Riempie&r i &bcontenitori di fluidi&r di Minecraft e &6applica&r &9fluidi&r agli &boggetti&r nelle ricette in sequenza."]
+	quest.41183734EB2C28FF.quest_subtitle: "Dov'è finito il ragno Teresa?"
+	quest.434D7EDCDD954B40.quest_desc: ["Oltre a essere un ingrediente di fabbricazione, il &bRivestimento di andesite&r può &6rivestire&r &bAste&r e &bNastri,&r e anche gli &bIngranaggi grandi&r e &bpiccoli&r. Quest'ultimo uso è utile per tenere il più compatto possibile un treno di ingranaggi pensato per aumentare gli RPM delle prime fonti di energia."]
+	quest.434D7EDCDD954B40.quest_subtitle: "Semplice ma funzionale"
+	quest.4554EE3CC1F80F7D.quest_desc: ["Lascia che il tuo mob preferito &6guidi&r i tuoi treni!"]
+	quest.45664AAC3ACCEF36.quest_desc: ["Un &bOsservatore&r molto più &6capace.&r"]
+	quest.4788E4092A488C9E.quest_desc: ["Semplicemente indispensabile per la fabbrica veloce."]
+	quest.488424BE711AE0F1.quest_desc: [
+		"Abbastanza flessibile nel &6posizionamento&r—sui lati, sopra o sotto."
+		""
+		"Ti conviene sicuramente dare un'occhiata alla versione potenziata, l'&bImbuto di ottone&r."
+		""
+		"[ consiglio: quando è &6piazzato&r su un &bNastro,&r &6colpiscilo&r con una &bChiave a pappagallo&r per &6espanderlo&r alla sua forma a blocco intero ]"
+	]
+	quest.488424BE711AE0F1.quest_subtitle: "La porta I/O di Create"
+	quest.497660DB9611C67C.quest_desc: ["Come lo &bScivolo&r normale, ma con &6filtro&r e &6controllo della velocità&r."]
+	quest.49D4F55F8A20DB22.quest_desc: ["Disponibile in vari colori per abbinarsi a ogni arredamento."]
+	quest.49D4F55F8A20DB22.quest_subtitle: "Rilassati. Siediti."
+	quest.4AAFD7E0D868844A.quest_desc: ["&6Lancia...&r questo, quello, mucche, creeper, pecore o perfino giocatori."]
+	quest.4AAFD7E0D868844A.quest_subtitle: "Uuuhuuu!"
+	quest.4DCA027828C2921C.quest_desc: ["Energia portatile e immagazzinata per alcune cose di Create."]
+	quest.4E3578FC24ACF39B.quest_desc: [
+		"Probabilmente hai già incontrato questo ometto dall'aria modesta mentre pressavi le tue prime piastre in Create."
+		""
+		"Il &bDeposito&r &6tiene fermi&r gli oggetti perché molte altre cose di Create possano interagire con loro."
+	]
+	quest.4E3578FC24ACF39B.quest_subtitle: "Oggetti... fermi tutti!"
+	quest.4F987C54768D8E3D.quest_desc: [
+		"Ricorda:"
+		""
+		"- &bIngranaggio grande&r che &6aziona&r uno piccolo = RPM più alti"
+		""
+		"- &bPiccolo&r che &6aziona&r uno grande = RPM più bassi"
+		""
+		"- &bGrande&r e &bpiccolo&r che &6condividono&r un'asta = nessun cambio di RPM"
+	]
+	quest.4F987C54768D8E3D.quest_subtitle: "Ingranaggi cerebrali"
+	quest.51649293068FE93D.quest_desc: ["Il &bTelaio radiale&r e il &bTelaio lineare&r &6aiutano&r a costruire macchinari senza super colla."]
+	quest.51F5C6D60D719DC4.quest_desc: [
+		"L'&bottone&r: una semplice lega di &brame&r e &bzinco,&r ma per produrlo dovrai &6andare&r nel Nether e &6attrezzarti&r a dovere."
+		""
+		"&6Porta&r con te diversi &bInceneritori vuoti&r quando parti... puoi usarli a raffica su un &bgeneratore di blaze&r per &6catturare&r tanti blaze quanti sono gli &bInceneritori&r che hai."
+		""
+		"Quando avrai l'&bottone&r, potrai &6fabbricare&r gli oggetti dell'ala &c\"Ottone\"&r: l'&bUtilizzatore&r per &ceseguire le azioni che normalmente fa il giocatore&r, versioni più intelligenti dei blocchi di base di Create e anche ottime scelte per l'arredamento. Ci abbiamo messo anche l'&bInceneritore a blaze&r stesso, anche se ovviamente ne avrai già fabbricato uno."
+	]
+	quest.52575C93CD6DD5D5.quest_desc: ["Per &6imballare&r e &6disimballare&r i pacchi."]
+	quest.53ECE17FBD95392C.quest_desc: [
+		"Ah, il &bSupporto per mulino a vento&r."
+		""
+		"- Ottimo per piccoli macchinari autoalimentati (spesso per l'agricoltura)"
+		""
+		"- Il passo intermedio tra i &bMulini ad acqua&r e i &bMotori a vapore&r, nella ricerca del Create-tore di PIÙÙÙ POTENZAAA."
+	]
+	quest.53ECE17FBD95392C.quest_subtitle: "All'attacco, Don Chisciotte"
+	quest.55359056540E1A96.quest_desc: ["I motori della domanda al cuore della moderna fabbrica intelligente di Create."]
+	quest.55696F71CC09E588.quest_desc: [
+		"Questo capitolo è una galleria di Create, una mod dai molti talenti:"
+		""
+		"- &6Meccanizza&r parti, risorse, agricoltura, produzione di energia e altro."
+		"- &6Aggiungi&r movimento meccanico alle tue costruzioni"
+		"- &6Costruisci&r e &6pianifica&r treni, compresa una rete di consegna della posta."
+		"- &6Sposta&r e &6immagazzina&r oggetti e fluidi"
+		"- &6Costruisci&r una fabbrica intelligente"
+		"- &6Copia e incolla&r costruzioni, oppure &6importale&r."
+		"- &6Riempi&r, &6svuota&r o &6esplora&r specchi d'acqua o di lava"
+		""
+		"Questo capitolo non è un insieme di percorsi guidati attraverso la mod."
+		"Create stesso offre ottime informazioni sui suoi componenti, con descrizioni estese al passaggio del mouse e l'innovativo sistema &6Ponder&r."
+	]
+	quest.55AEBE2068711237.quest_desc: [
+		"Ah, l'umile &bMulino ad acqua&r."
+		""
+		"È il primo passo più semplice per &6generare&r energia gratis per Create, e allo stesso tempo incarna il moto rotatorio, una caratteristica essenziale di Create."
+	]
+	quest.55AEBE2068711237.quest_subtitle: "L'acqua scorre, la ruota gira, ed è così che tutto ha inizio."
+	quest.55DBF04C81688194.quest_subtitle: "Lo spruzzatore al contrario"
+	quest.5773319EE8B3D45C.quest_desc: ["Aggiunge un po' di &6controllo della velocità&r alle &bTrasmissioni a catena rivestite&r."]
+	quest.578394EC869C10AB.quest_desc: ["Semplice trasporto di oggetti punto a punto, trasmissione di energia o, in sordina, seggiovia per giocatori: decidi tu!"]
+	quest.590D73FDE6335297.quest_desc: ["&6Misura&r quanta &denergia,&r sotto forma di SU (Stress Units), i tuoi macchinari &6generano&r e &6consumano,&r oppure quanto velocemente stanno lavorando."]
+	quest.594BC97607EEE341.quest_desc: ["Un pezzo chiave della maggior parte delle costruzioni di Create: &6scambia&r gli assi del moto rotatorio da un piano a un altro"]
+	quest.5D5FC5420738FDE8.quest_desc: ["Il semplice &bCartone&r di sempre. Così elementare, eppure... la porta d'accesso alle ultime novità di &oCreate&r, rappresentate nell'ala &c\"Fabbrica intelligente\"&r di questa galleria."]
+	quest.5D852AA1930E1019.quest_desc: ["I blaze catturati &6adorano&r le &buova&r, come il loro lontano antenato, Calcifer"]
+	quest.607FFC2B7A0F972A.quest_desc: [""]
+	quest.607FFC2B7A0F972A.quest_subtitle: "Spingi e tira"
+	quest.619BC1F1094F4EFA.quest_desc: [
+		"La descrizione al passaggio del mouse e con SHIFT dice tutto: "
+		""
+		"\"Binario alimentato unidirezionale con velocità variabile, controllata dall'intensità del segnale che riceve.\""
+	]
+	quest.61A7F8B1C6ECEEA5.quest_desc: [
+		"L'umile &bVentilatore rivestito&r... l'arma non tanto segreta di Create."
+		""
+		"Scopri la &6fusione di massa&r (accidenti!) e come &6spingere&r la roba in giro."
+	]
+	quest.6227304103E32C74.quest_desc: [
+		"Il pratico e simpatico &bSerbatoio per fluidi&r funziona da solo oppure si può &6unire&r in colonne larghe 1, 2x2 o 3x3, alte fino a 30 blocchi!"
+		""
+		"&6Piazzalo&r sopra delle fonti di calore, &6pompaci&r &9acqua&r a sufficienza e diventa una caldaia che può alimentare i &bMotori a vapore&r—una caldaia più grande, &6rifornita&r con più &9acqua&r e più calore, può &6azionare&r più &bMotori a vapore&r."
+	]
+	quest.6227304103E32C74.quest_subtitle: "Vuoto dentro, ma solido davvero."
+	quest.63756443B3FFDB48.quest_desc: [
+		"Ah, l'umile ma affidabile &bMacina&r."
+		""
+		"Le &bRuote frantumatrici&r saranno più veloci, ma la macina &6ci sta&r meglio in molte costruzioni... e &dtu&r non &6entri&r nella &bmacina&r, quindi c'è anche questo."
+	]
+	quest.63756443B3FFDB48.quest_subtitle: "Operazioni macinilitari"
+	quest.66855DBE37DB5CD1.quest_desc: ["&6Trasmette&r il moto rotatorio lungo una linea retta: missione compiuta."]
+	quest.66855DBE37DB5CD1.quest_subtitle: "Mi fai girare la testa"
+	quest.66A4DD110F0E66D1.quest_desc: ["È ora di &6scandagliare&r le profondità dell'impianto idraulico di Create."]
+	quest.66A4DD110F0E66D1.quest_subtitle: "Piacere di Cu-noscerti"
+	quest.6711E72048BBDB08.quest_desc: ["&6Contiene&r fino a otto cose diverse, si può tingere, e tutte le &bCassette degli attrezzi&r vicine sono &6accessibili&r con un solo tasto: comodo per tenere gli occhi sul lavoro, non sugli attrezzi."]
+	quest.6AB303BEA478C0F3.quest_desc: ["Controllo della rotazione &6programmabile&r!"]
+	quest.6B022CC9A87E6329.quest_desc: [
+		"Un modo a portata di mano (eh eh!) per spostare le cose da A a B."
+		""
+		"Con gli &bImbuti di ottone&r puoi perfino &6filtrare&r i bersagli di un &bBraccio meccanico&r."
+	]
+	quest.6BE74683BED141EF.quest_desc: ["Non è solo un componente di fabbricazione e decorativo… si può applicare ai &bTubi per fluidi&r sia per &6mantenerli&r nel loro orientamento sia per impedire che si &6colleghino&r ai tubi piazzati in seguito accanto a loro."]
+	quest.6CF338A73F212B79.quest_desc: ["In sostanza una porta I/O, come l'&bImbuto di andesite&r, ma con il &6filtro&r!"]
+	quest.6DDD8661181840F1.quest_desc: [
+		"Il container per le spedizioni internazionali."
+		""
+		"Il pacchetto di dati per le reti di comunicazione."
+		""
+		"E ora… l'umile &bPacco di cartone&r trasforma in pacchetti il &6trasferimento&r di oggetti, alla base delle nuove funzioni di Create per &6richiedere&r e &6consegnare&r oggetti"
+	]
+	quest.6E3F0C072B55467B.quest_desc: ["Semplice: &6raccoglie&r e &6ripianta&r le &bcolture mature&r."]
+	quest.6FD3C9B4EF558332.quest_desc: ["Con i bordi d'ottone, ma classe da vendere: niente di pacchiano."]
+	quest.72CBC6171104037F.quest_desc: [
+		"Davvero una delle porte più fighe delle mod di Minecraft, secondo me."
+		""
+		"Al livello di quella di &oAd Astra&r."
+	]
+	quest.73A48DA93F67805B.quest_desc: ["&6Permette&r di avere più &9fluidi&r in circolo nelle tue reti di &btubi&r."]
+	quest.754EC4FE62F454E8.quest_desc: [
+		"Sai come &6piazzando&r un baule accanto a un altro si forma un baule doppio?"
+		""
+		"Ecco, i &bContainer&r sono così, ma se ne possono &6combinare&r insieme fino a 81."
+		""
+		"Il problema? Non puoi guardarci dentro direttamente."
+		""
+		"&6Metti&r e togli le cose con &bScivoli&r, &bSportelli per oggetti&r, &bImbuti&r e &bImballatori&r."
+		""
+		"[ consiglio: guarda il &bGestore merci&r per l'ottima versione di Create di un terminale di deposito ]"
+	]
+	quest.754EC4FE62F454E8.quest_subtitle: "Il Container è tutto tuo!"
+	quest.77968A26B3D90399.quest_desc: [""]
+	quest.77968A26B3D90399.quest_subtitle: "La miglior chiave a pappagallo del gioco, dico io."
+	quest.78D8E2EB66607AAA.quest_desc: ["Prendi un po' di &bquarzo del Nether,&r uniscilo alla &bredstone,&r poi &6leviga&r tutto per bene, e zac!... stai per fare le tue prime &bValvole termoioniche&r e sei più vicino a tutte le chicche dell'ala &c\"Speciali\"&r."]
+	quest.78D8E2EB66607AAA.quest_subtitle: "Liscio e lucido!"
+	quest.79288A7251986136.quest_desc: [
+		""
+		"[ consiglio: anche per i macchinari non pensati per viaggiare sui binari, gli &bAssemblatori di vagonetti&r sono utili per piazzare i macchinari nel mondo, o per riconvertirli in forma di macchinario—e poi raccoglierli di nuovo in forma di oggetto con una &bChiave a pappagallo&r. Benvenuto, spazio tascabile! ]"
+	]
+	quest.79288A7251986136.quest_subtitle: "Macchinari sui vagonetti di Minecraft? Sì!"
+	quest.7938CF0A65011F0B.quest_desc: ["Tubo a vuoto, tubo elettronico, &bValvola termoionica&r—comunque la chiami è un oggetto bellissimo e un ingrediente chiave per i componenti di Create che hanno un po' di “cervello”."]
+	quest.7F4BD83F2D567FF0.quest_desc: [
+		"Arrivano i treni!"
+		""
+		"Arrivano i treni!"
+		""
+		"Ti piacciono i treni?"
+		""
+		"Allora sei nella mod giusta, amico."
+		""
+		"Dovrai fabbricare delle lamiere rinforzate per entrare nella galleria &c\"Treni\"&r."
+		""
+		"I treni di &oCreate&r sono uno spasso, secondo me."
+		""
+		"Divertiti!"
+	]
+	quest.7F4BD83F2D567FF0.quest_subtitle: "Ciuf ciuf, professor Farnsworth!"
+	task.203841AC95941F00.title: "Benvenuto in Create!"
+}

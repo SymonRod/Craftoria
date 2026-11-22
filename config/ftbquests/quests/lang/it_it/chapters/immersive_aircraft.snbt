@@ -1,0 +1,42 @@
+{
+	image.2A6E901ECBE6C133.title: "Guarda, un aereo! Guarda, un aereo!"
+	image.2B673A94F85BBA93.title: "Con un'ala e una preghiera"
+	image.4E34D721F0838706.title: "Carovana aerea"
+	image.56440EA3C909025B.title: "Testimoniatemi!"
+	quest.0075009DEEA010B7.quest_desc: [
+		"Preparati alla battaglia..."
+		"...e invita i tuoi amici!"
+		""
+		"Questo bestione ha posto per quattro, tre motori, due slot per le armi e abbastanza spazio per le tue scorte di battaglia o per riportare alla base il bottino del vincitore."
+	]
+	quest.0075009DEEA010B7.quest_subtitle: "Sento per caso \"La cavalcata delle valchirie\"?"
+	quest.16F37A3E31EBDA50.quest_desc: [
+		"Monoposto veloce, richiede più impegno per pilotarlo, ma è divertentissimo!"
+		""
+		"Ha un po' di spazio di deposito, uno slot per un'arma, quattro slot di aggiornamento, uno per lo stendardo e può perfino montare dei razzi per la spinta!"
+	]
+	quest.217C5C65AFC95842.quest_desc: [
+		"Piccolo e ottimo per lavorare in volo, staccati da terra... costruire, scavare il soffitto di una caverna, ecc."
+		""
+		"Consuma combustibile, ha uno slot di aggiornamento, uno slot per un'arma e un po' di spazio di deposito."
+	]
+	quest.4E062B9B4960632D.quest_desc: [
+		"Un vero mezzo di trasporto a combustibile... e ci stanno in due!"
+		""
+		"Ha un discreto spazio di deposito, tre slot di aggiornamento, uno slot per un'arma, uno per lo stendardo e anche uno per il colorante, per tingere il muso e la coda."
+	]
+	quest.5A5583EA02C78372.quest_desc: [
+		"Un dirigibile potenziato, con un sacco di spazio di deposito."
+		""
+		"Ottimo per trasportare a casa un mucchio di bottino e minerali."
+		""
+		"È perfetto anche per chi sente il richiamo della vita nomade."
+	]
+	quest.73A75FEFDFB27A5C.quest_desc: [
+		"Trasporto economico e a lungo raggio."
+		""
+		"Funziona con la &otua&r energia (la fame)."
+		""
+		"Ha tre slot di aggiornamento, uno slot per un'arma e uno spazio di deposito pari a un baule."
+	]
+}

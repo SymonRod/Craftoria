@@ -1,0 +1,250 @@
+{
+	quest.1610E88D5231E670.quest_desc: [
+		"Il &bRegolatore per evaporatore termico&r è il cuore di un &eImpianto di Evaporazione Termica&r e ti permette di concentrare i &9fluidi&r facendo evaporare l'acqua che contengono."
+		""
+		"Immetti un &9fluido&r adatto nell'impianto e fornisci &ecalore&r per aumentarne la concentrazione: man mano che l'acqua viene rimossa ottieni fluidi più concentrati."
+		""
+		"I prodotti esatti dipendono da ciò che immetti. Controlla l'&bEMI&r per vedere cosa può produrre il tuo impianto."
+		""
+		"Alcune ricette richiedono più fasi di evaporazione, quindi non stupirti se la tua prima torre non basta!"
+	]
+	quest.1610E88D5231E670.quest_subtitle: "Concentra i fluidi tramite evaporazione"
+	quest.1610E88D5231E670.title: "Regolatore per evaporatore termico"
+	quest.1A885E0BA312B916.quest_desc: [
+		"Il &bRiscaldatore elettrico&r converte i &eFE&r in &ccalore&r e ti dà un modo affidabile per fornire calore al tuo &eImpianto di Evaporazione Termica&r."
+		""
+		"Collegalo alla &cvalvola per evaporatore termico&r dell'impianto per trasferire il &ccalore&r generato direttamente nella torre."
+		""
+		"Usalo quando ti serve una fonte di calore controllabile per alzare la temperatura e migliorare il processo di evaporazione."
+	]
+	quest.1A885E0BA312B916.quest_subtitle: "Trasforma i FE in calore"
+	quest.1A885E0BA312B916.title: "Riscaldatore elettrico"
+	quest.1DE9A85C2E5348D1.quest_desc: [
+		"Il &bPannello del Reattore a Fusione&r è il centro di controllo del tuo &dReattore a Fusione&r: gestisce il funzionamento del reattore e tiene la reazione sotto controllo."
+		""
+		"Una volta assemblato il reattore, ha bisogno di un rifornimento costante di &9combustibile&r e &brefrigerante&r per mantenere la reazione."
+		""
+		"Tieni il reattore rifornito e raffreddato a dovere, e al resto penserà il pannello: trasformerà una reazione di fusione incredibilmente potente in una fonte affidabile di &eFE&r."
+		""
+		"Tieni comunque d'occhio gli ingressi. L'energia da fusione è impressionante, ma non perdona facilmente."
+	]
+	quest.1DE9A85C2E5348D1.quest_subtitle: "Controlla il cuore dell'energia da fusione"
+	quest.1DE9A85C2E5348D1.title: "Pannello del Reattore a Fusione"
+	quest.22A2121A25A010AB.quest_desc: [
+		"Le &bcelle di induzione&r sono il componente principale di deposito di una &dMatrice a Induzione&r."
+		""
+		"Ogni cella aggiunge capacità di accumulo alla matrice, permettendoti di costruire un'enorme batteria centralizzata."
+		""
+		"Le celle di livello superiore offrono molta più capacità, così la tua matrice può contenere quantità sempre più enormi di &eFE&r."
+		""
+		"Combinale con i &bfornitori di induzione&r per aumentare la velocità con cui l'energia può entrare e uscire dalla matrice."
+	]
+	quest.22A2121A25A010AB.quest_subtitle: "Espandi il tuo deposito di energia"
+	quest.22A2121A25A010AB.title: "Celle di induzione"
+	quest.2675A4EA019B383F.quest_desc: [
+		"Il tuo reattore può produrre una quantità incredibile di &9vapore&r, ma non ha senso produrne tanto se non puoi sfruttarlo."
+		""
+		"La &bTurbina Industriale&r converte il &9vapore&r in &eFE&r facendo girare il rotore interno e generando energia."
+		""
+		"Costruisci i componenti centrali della turbina e circondali con la struttura multiblocco richiesta. Collega la turbina all'uscita del vapore del reattore e guarda l'energia arrivare a fiumi."
+		""
+		"Le turbine più grandi possono elaborare più &9vapore&r e generare più &eFE&r, e sono quindi una parte essenziale di ogni impianto serio di generazione di energia."
+	]
+	quest.2675A4EA019B383F.quest_subtitle: "Trasforma il vapore in energia"
+	quest.2675A4EA019B383F.title: "È ora della turbina"
+	quest.272E31F15A39517B.quest_desc: [
+		"La &bStruttura del Reattore a Fusione&r è la base del sistema energetico più potente di Mekanism."
+		""
+		"Costruisci una struttura multiblocco con le &bStrutture del Reattore a Fusione&r per contenere il &dReattore a Fusione&r e la sua reazione incredibilmente potente."
+		""
+		"La struttura forma le pareti del reattore e, insieme agli altri componenti richiesti, crea un sistema di fusione funzionante."
+		""
+		"Una volta assemblato, potrai sfruttare l'&denergia da fusione&r su una scala ben superiore a quella dei generatori convenzionali."
+	]
+	quest.272E31F15A39517B.quest_subtitle: "Costruisci il cuore dell'energia da fusione"
+	quest.272E31F15A39517B.title: "Struttura del Reattore a Fusione"
+	quest.2821236A1E8FEF73.quest_desc: [
+		"La &bValvola del Reattore a Fusione&r è un passaggio rinforzato verso il centro del &bReattore a Fusione&r."
+		""
+		"Senza niente &6collegato&r è resistente quanto la struttura, ma con qualcosa &6collegato&r offre un passaggio protetto a &a1 senso&r per entrare o uscire dal nucleo."
+	]
+	quest.2821236A1E8FEF73.title: "Valvola del Reattore a Fusione"
+	quest.2ADDD30536A7FF68.quest_desc: [
+		"Il &bVetro del Reattore&r fa da finestra di osservazione del tuo &dReattore a Fusione&r e ti permette di vedere la reazione che avviene all'interno."
+		""
+		"A differenza del vetro comune, è fatto per resistere alle condizioni estreme di una reazione di fusione."
+		""
+		"Inseriscilo nelle pareti del reattore per avere una visuale chiara di tutta quella splendida &denergia da fusione&r."
+		""
+		"Basta non startene troppo vicino se qualcosa va storto."
+	]
+	quest.2ADDD30536A7FF68.quest_subtitle: "Guarda la potenza all'interno"
+	quest.2B3B96DDFE5D3ACA.quest_desc: [
+		"Con i &bTelai della caldaia&r puoi costruire una &ecaldaia termoelettrica&r che trasforma il &ccalore&r esterno in &9vapore&r."
+		""
+		"La caldaia è particolarmente utile quando hai calore in eccesso che andrebbe altrimenti sprecato, e ti offre un altro modo per produrre vapore per la tua &bTurbina Industriale&r."
+		""
+		"Può anche sfruttare il &dsodio liquido surriscaldato&r prodotto da un &cReattore a Fissione&r attivo, convertendo il calore del reattore in &9vapore&r ancora più utile."
+		""
+		"Abbinala a una &bTurbina Industriale&r per trasformare quel vapore in &eFE&r e costruire un sistema completo da calore a energia."
+	]
+	quest.2B3B96DDFE5D3ACA.quest_subtitle: "Trasforma il calore in vapore"
+	quest.2B3B96DDFE5D3ACA.title: "Telaio della caldaia"
+	quest.3689AAE9D0DB96FB.quest_desc: [
+		"La &bValvola per evaporatore termico&r è l'interfaccia tra il tuo &eImpianto di Evaporazione Termica&r e il mondo esterno."
+		""
+		"Usa le valvole per &9immettere&r ed &9estrarre fluidi&r dalla torre. Ti serviranno valvole separate per gli ingressi e per le uscite del tuo impianto."
+		""
+		"Le valvole possono anche trasferire &ccalore&r nella torre quando sono collegate a una rete di &bconduttori termodinamici&r, offrendoti un altro modo per scaldare l'impianto di evaporazione."
+		""
+		"Pianifica con cura il posizionamento delle valvole: una torre ben collegata rende molto più semplice gestire &9fluidi&r e &ccalore&r."
+	]
+	quest.3689AAE9D0DB96FB.quest_subtitle: "Collega la tua torre di evaporazione"
+	quest.3689AAE9D0DB96FB.title: "Valvola per evaporatore termico"
+	quest.37A89C0012C86E9A.quest_desc: [
+		"Sfrutta il vento con il &bLarge Wind Generator&r."
+		""
+		"Produce tra &a90.000 FE/t&r e &a150.000 FE/t&r a seconda dell'altitudine, senza consumare alcun combustibile."
+		""
+		"Costruiscilo ben alto da terra per approfittare dei venti più forti e massimizzare la produzione di &eFE&r."
+	]
+	quest.37A89C0012C86E9A.quest_subtitle: "Sfrutta la forza del vento, MK2"
+	quest.3C6E442CEB73191F.quest_desc: [
+		"Il &bGeneratore a Gas&r può usare una gran varietà di &cgas infiammabili&r per generare &eelettricità&r. "
+		""
+		"Gas come l'&7idrogeno&r e l'&detene&r possono dare molta &eenergia&r già a inizio partita. "
+		""
+		"Controlla l'&dEMI&r per vedere quali &7gas&r sono davvero &cinfiammabili&r e quanta &6energia&r puoi generare con ciascuno."
+	]
+	quest.3C6E442CEB73191F.quest_subtitle: "Brucia gas per un'enorme quantità di energia"
+	quest.3C6E442CEB73191F.title: "Generatore a Gas"
+	quest.3D5B74D9663AAB5A.quest_desc: [
+		"Il &bGeneratore Termico&r è una semplice fonte di energia che si basa sulle &cfonti di calore&r intorno a sé. "
+		""
+		"Il &bGeneratore&r può assorbire &ccalore&r da &a7&r posizioni, &a6&r delle quali sono le sue diverse facce. Un'altra è il generatore stesso, che può essere &4pieno di lava&r. Non &6genera&r molta energia, ma per l'inizio della tua avventura è più che sufficiente!"
+		""
+		"Producono energia non solo i &bblocchi&r e i &7fluidi&r che emettono &ccalore&r, ma anche il calore dei &bconduttori termodinamici&r."
+	]
+	quest.3D5B74D9663AAB5A.quest_subtitle: "Trasforma il calore in energia!"
+	quest.3D5B74D9663AAB5A.title: "Generatore Termico"
+	quest.400274581B9BD5FC.quest_desc: [
+		"La &bMatrice Concentrante per Laser&r è il sistema di accensione del tuo &dReattore a Fusione&r."
+		""
+		"Concentra il raggio di un potente &cLaser&r direttamente nel nucleo del reattore, fornendo l'energia necessaria per innescare la reazione di fusione."
+		""
+		"Quando il reattore è pronto, invia un impulso &cLaser&r nella matrice e guarda la reazione prendere vita."
+		""
+		"Assicurati solo che il reattore sia preparato a dovere prima di premere il grilletto."
+	]
+	quest.400274581B9BD5FC.quest_subtitle: "Innesca la reazione di fusione"
+	quest.436C9C6FF59C4FD5.quest_desc: [
+		"I &bfornitori di induzione&r determinano la velocità con cui l'energia può entrare e uscire dalla tua &dMatrice a Induzione&r."
+		""
+		"Ogni fornitore aggiunge capacità di trasferimento alla matrice, permettendole di caricare e scaricare &eFE&r a un ritmo più alto."
+		""
+		"I fornitori di livello superiore offrono velocità di trasferimento enormemente maggiori, così la tua matrice sta al passo con generatori e macchine sempre più potenti."
+		""
+		"Bilancia le tue &bcelle di induzione&r e i tuoi &bfornitori di induzione&r per costruire un sistema di deposito con grande capacità e alta portata."
+	]
+	quest.436C9C6FF59C4FD5.quest_subtitle: "Sposta energia su larga scala"
+	quest.436C9C6FF59C4FD5.title: "Fornitori di induzione"
+	quest.4EA0C90A02A43131.quest_desc: [
+		"La &bCamera di reazione pressurizzata&r è una macchina versatile che combina &fsolidi&r, &9fluidi&r e &egas&r per creare nuovi materiali."
+		""
+		"Molte delle catene di lavorazione più avanzate di Mekanism si basano sulla PRC, perciò è un passo importante verso un'automazione più complessa."
+		""
+		"Fornisci gli ingredienti richiesti e lascia che la camera gestisca la reazione. Controlla l'&6EMI&r per scoprire le ricette disponibili e cosa richiede ciascuna."
+		""
+		"Dal &2biocarburante&r e dall'&eidrogeno&r ai materiali avanzati, userai parecchio questa macchina man mano che la tua fabbrica cresce."
+	]
+	quest.4EA0C90A02A43131.quest_subtitle: "Combina la materia sotto pressione"
+	quest.4EA0C90A02A43131.title: "Camera di reazione pressurizzata"
+	quest.4FBA0ECAC8AEBCD8.quest_desc: [
+		"Le &bBarre per Carburante&r contengono il &dFissile Fuel&r che alimenta il tuo &cReattore a Fissione&r."
+		""
+		"Costruisci più barre nel nucleo del reattore, con le &eBarre di Controllo&r posizionate direttamente sopra per governare la &creazione a catena&r."
+		""
+		"Più barre per carburante aggiungi, maggiore è il potenziale di produzione del reattore, ma anche più &ccalore&r dovrai gestire."
+		""
+		"Una volta assemblato tutto, mantieni un flusso costante di &9refrigerante&r nel reattore perché funzioni in sicurezza."
+		""
+		"Tieni d'occhio il reattore. A differenza della maggior parte dei generatori di energia, un reattore a fissione può avere conseguenze piuttosto &cesplosive&r quando le cose vanno male."
+	]
+	quest.4FBA0ECAC8AEBCD8.quest_subtitle: "Domina l'atomo"
+	quest.4FBA0ECAC8AEBCD8.title: "Fissione nucleare"
+	quest.50D1398BBF8DBBB2.quest_desc: [
+		"Il &bSeparatore elettrolitico&r usa i &eFE&r per scomporre certi &9fluidi&r nei loro componenti elementari tramite &6elettrolisi&r."
+		""
+		"Dagli il fluido adatto e lo separerà in &dgas&r utili per le tue catene di produzione."
+		""
+		"Questa macchina è essenziale per produrre diverse sostanze chimiche fondamentali, tra cui l'&bidrogeno&r e l'&eossigeno&r."
+		""
+		"Controlla l'&6EMI&r per scoprire quali fluidi si possono separare e cosa produce ogni processo."
+	]
+	quest.50D1398BBF8DBBB2.quest_subtitle: "Dividi i fluidi con l'elettricità"
+	quest.50D1398BBF8DBBB2.title: "Separatore elettrolitico"
+	quest.52AD3D58B644AA30.quest_desc: [
+		"La &bTurbina Eolica&r produce &eenergia&r sfruttando il &7vento&r! "
+		""
+		"È un generatore «&apiazza e via&r»: non richiede alcun intervento da parte tua."
+	]
+	quest.52AD3D58B644AA30.quest_subtitle: "Sfrutta la forza del vento"
+	quest.52AD3D58B644AA30.title: "Turbina Eolica"
+	quest.5AB4D1D72EFD4428.quest_desc: [
+		"La &bPorta a induzione&r è l'interfaccia tra la tua fabbrica e la &dMatrice a Induzione&r."
+		""
+		"Usala per &eimmettere&r ed &eemettere&r &eFE&r, permettendo alla matrice di caricare e scaricare energia verso le macchine collegate e le reti energetiche."
+		""
+		"Si possono usare più porte per gestire diverse connessioni energetiche, ottenendo un controllo maggiore su come la tua &dMatrice a Induzione&r interagisce con il resto della rete elettrica."
+	]
+	quest.5AB4D1D72EFD4428.quest_subtitle: "Collega il tuo deposito di energia"
+	quest.5AB4D1D72EFD4428.title: "Porta a induzione"
+	quest.60AEE273431548B6.quest_desc: [
+		"Il &bDispersore di pressione&r aiuta a regolare la pressione all'interno della tua &ecaldaia termoelettrica&r e della tua &bTurbina Industriale&r."
+		""
+		"Piazzalo dentro la struttura multiblocco per avere uno &6sfogo di pressione&r controllato quando la pressione sale troppo."
+		""
+		"Una buona gestione della pressione mantiene i tuoi multiblocchi al sicuro ed evita pericolose situazioni di sovrapressione."
+		""
+		"Assicurati che caldaia e turbina abbiano una gestione della pressione adeguata prima di metterle sotto carico pesante."
+	]
+	quest.60AEE273431548B6.quest_subtitle: "Tieni la pressione sotto controllo"
+	quest.60AEE273431548B6.title: "Dispersore di pressione"
+	quest.6137C9FB49DB4A9C.quest_desc: ["Trasforma i materiali organici in &2biocarburante&r, un combustibile versatile per la tua fabbrica. Brucialo direttamente in un &eBio-Generatore&r per ottenere energia, oppure usalo con l'&bidrogeno&r nella &ecamera di reazione pressurizzata&r per produrre &detene&r."]
+	quest.6137C9FB49DB4A9C.quest_subtitle: "Trasformare la materia organica in energia"
+	quest.7610F9A545A15194.quest_desc: [
+		"Il &bPannello Solare&r usa il &6sole&r per generare &eenergia&r. "
+		""
+		"Ovviamente, quando il &6sole&r è tramontato non viene generata &eenergia&r. "
+	]
+	quest.7610F9A545A15194.quest_subtitle: "Sfrutta la luce del sole"
+	quest.7610F9A545A15194.title: "Pannello Solare"
+	quest.7921D6460E480F82.quest_desc: [
+		"La &bValvola della caldaia&r collega la tua &ecaldaia termoelettrica&r al resto della fabbrica."
+		""
+		"Usala per &cimmettere&r &ccalore&r e &9acqua&r nella caldaia."
+		""
+		"La valvola può anche &aestrarre&r il &7vapore&r prodotto dalla caldaia, così puoi inviarlo direttamente a una &bTurbina Industriale&r o conservarlo per dopo."
+		""
+		"Usa più valvole per mantenere ingressi e uscite sempre efficienti."
+	]
+	quest.7921D6460E480F82.quest_subtitle: "Collega calore, acqua e vapore"
+	quest.7921D6460E480F82.title: "Valvola della caldaia"
+	quest.7BEA5B1D1B410E82.quest.desc: ["Il &3Generatore Solare Avanzato&r è una versione potenziata del piccolo &3Pannello Solare&r e fornisce molta più &aenergia&r. Puoi &6piazzarli&r negli angoli superiori della &3torre di evaporazione termica&r, con l'&auscita di energia&r verde rivolta verso il &3blocco per evaporatore termico&r, per &6aumentare&r il &ccalore&r della torre durante il giorno."]
+	quest.7BEA5B1D1B410E82.quest_desc: [
+		"Il &bGeneratore Solare Avanzato&r è una versione potenziata del piccolo &3Pannello Solare&r e fornisce molta più &aenergia&r. "
+		""
+		"Puoi &6piazzarli&r negli angoli superiori della &btorre di evaporazione termica&r, con l'&auscita di energia&r verde rivolta verso il &bblocco per evaporatore termico&r, per &6aumentare&r il &ccalore&r della torre durante il giorno."
+	]
+	quest.7BEA5B1D1B410E82.quest_subtitle: "Più energia dal sole"
+	quest.7BEA5B1D1B410E82.title: "Generatore Solare Avanzato"
+	quest.7FC6AE9DB7C1DA52.quest_desc: [
+		"Il &bBio-Generatore&r usa il &2biocarburante&r per generare &eenergia&r. "
+		""
+		"Puoi ottenere &2biocarburante&r &6frantumando&r quasi qualsiasi &bmateriale di origine organica&r."
+	]
+	quest.7FC6AE9DB7C1DA52.quest_subtitle: "Trasforma gli scarti in energia"
+	quest.7FC6AE9DB7C1DA52.title: "Bio-Generatore"
+	task.22915CF7043550CD.title: "Celle di induzione"
+	task.644BA76D2324EF21.title: "Fornitori di induzione"
+}

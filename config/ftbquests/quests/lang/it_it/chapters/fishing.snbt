@@ -1,0 +1,21 @@
+{
+	quest.04F6F95B5880770D.quest_subtitle: "Pesca &a200&r pesci in totale e &d10&r pesci leggendari diversi."
+	quest.0ABC6D5601DCD95F.quest_desc: ["Si ottengono dai &6forzieri del tesoro&r o dagli &3obiettivi&r raggiunti pescando."]
+	quest.0ABC6D5601DCD95F.quest_subtitle: "Aiuta il tuo viaggio con questi potenziamenti che danno ogni sorta di benefici."
+	quest.0ABC6D5601DCD95F.title: "Ami e galleggianti"
+	quest.29AD1060C129C86F.quest_subtitle: "Pesca &a100&r pesci in totale, &d2&r pesci leggendari diversi e &62&r pesci dorati diversi."
+	quest.2C42A6E79A5242F0.quest_subtitle: "Servono per i pesci specifici di un bioma."
+	quest.2C42A6E79A5242F0.title: "Esche"
+	quest.30A0D33361D77D7E.quest_subtitle: "Pesca &535&r pesci diversi."
+	quest.3295D859B01FA315.quest_desc: ["Questo &blibro&r è il tuo &3registro di collezione&r per tutto ciò che riguarda la pesca, dai &5pesci rari&r ai &6trofei scintillanti&r."]
+	quest.3295D859B01FA315.quest_subtitle: "Storie da pescatore"
+	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
+	quest.3F3C9A6F590496AD.quest_desc: ["Per aprire la &6GUI&r e aggiungere ami, galleggianti ed esche diversi, &3accovacciati&r e fai &3clic destro&r."]
+	quest.3F3C9A6F590496AD.quest_subtitle: "Riuscirai a prenderli tutti?"
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "Pesca &a25&r pesci comuni."
+	quest.59B0B5B66DA2BFE4.quest_subtitle: "Pesca TUTTI i &z131&r pesci."
+	quest.5D0F6404B76F480E.quest_subtitle: "Un comodo strumento che mostra i pesci della zona."
+	quest.7283C1B759AF0F5F.quest_subtitle: "Pesca &a500&r pesci in totale e &610&r pesci dorati diversi."
+	task.691E6AA922761E29.title: "Ami"
+	task.7376AAE3B45AD4B9.title: "Galleggianti"
+}

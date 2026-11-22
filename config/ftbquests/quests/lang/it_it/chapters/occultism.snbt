@@ -1,0 +1,275 @@
+{
+	quest.00AC0C951A5D79D9.quest_desc: ["Il &0Black&r Chalk è il più stabile di tutti. Il suo potere tiene sotto controllo perfino gli spiriti più forti."]
+	quest.00AC0C951A5D79D9.quest_subtitle: "Fondazione perfetta"
+	quest.0145A878C472548C.quest_desc: ["Questo spirito si occupa di &6coltivare&r gli &balberi&r al posto tuo. Prova perfino a ripiantarli!"]
+	quest.0145A878C472548C.quest_subtitle: "Hai legna?"
+	quest.0145A878C472548C.title: "Rituale: Evoca Foliot Taglialegna"
+	quest.01E8A006742F7A00.quest_desc: [
+		"Di base, lo spazio di deposito dell'attuatore non è dei più grandi."
+		""
+		"Puoi risolvere il problema usando gli &bStabilizzatori&r. Questi &6stabilizzano&r ulteriormente il collegamento dell'attuatore con la dimensione di deposito, permettendogli di &6contenere sempre di più&r."
+	]
+	quest.01E8A006742F7A00.quest_subtitle: "Ancora non basta"
+	quest.061EC183CDCBB25B.quest_desc: ["Questo spirito estrarrà &bminerali casuali&r. È anche un po' più veloce."]
+	quest.061EC183CDCBB25B.quest_subtitle: "Scava scava, buca buca"
+	quest.07D88A0ABF82A39A.quest_desc: ["Si ottiene dagli &6animali&f usando un &bcoltello&f."]
+	quest.07D88A0ABF82A39A.quest_subtitle: "Materiale perfetto per le candele"
+	quest.0C91DF887A33A8E6.quest_desc: [
+		"&oTi ricordi quando ti ho detto che gli spiriti possono estrarre minerali per te?&r"
+		""
+		"Questo dispositivo è un portale verso un'altra dimensione, in cui possono entrare solo i tuoi spiriti. &6Fornisci&r uno &bspirito minatore&r e riporterà indietro &bminerali&r e &baltri blocchi&r, conservandoli nel proprio inventario."
+		""
+		"Il blocco si può &6disattivare&r con la &bredstone&r e la &bdurabilità&r della lampada si può &6misurare&r con un &bcomparatore.&r Con un semplice cablaggio puoi evitare che le lampade dei tuoi minatori si rompano prima che sia troppo tardi."
+	]
+	quest.0C91DF887A33A8E6.quest_subtitle: "Non è estrazione nel vuoto, è estrazione in una dimensione tascabile"
+	quest.0FE6DFF73BE7AA10.quest_desc: ["Il &aLime&r Chalk serve a evocare spiriti superiori ai Foliot. Certifica la tua padronanza delle basi dell'occultismo."]
+	quest.0FE6DFF73BE7AA10.quest_subtitle: "Conoscenza"
+	quest.134098BE2769F85A.quest_desc: [
+		"Se un &bfamiglio occulto&r &6muore&r, rilascerà una di queste schegge."
+		""
+		"Puoi usarla per &6farlo risorgere&r, se vuoi."
+	]
+	quest.15325B16AFE33D5C.quest_desc: ["Ti servirà del &bsego&r per fare le vere candele da occultista. &6Uccidere animali di grossa taglia&r con un qualsiasi &bcoltello&r ne fornisce un po'."]
+	quest.15325B16AFE33D5C.quest_subtitle: "Ferri del mestiere"
+	quest.15325B16AFE33D5C.title: "Coltelli"
+	quest.168AB4DADB1CA2D9.quest_desc: [
+		"Tutti i &bgessi&r vengono fabbricati &6impuri&r e si possono &6purificare&r nel &5fuoco spiritico&r per renderli utilizzabili."
+		""
+		"Il Gesso Bianco è il gesso di fondazione più semplice e da solo non ha proprietà particolari."
+	]
+	quest.168AB4DADB1CA2D9.quest_subtitle: "Prima fondazione"
+	quest.1A8D5373290BC1A6.quest_desc: [
+		"Con l'aiuto degli spiriti è possibile creare un collegamento con un'altra dimensione in cui &6depositare&r tutti gli &boggetti&r che hai accumulato: davvero, la tua collezione è una meraviglia."
+		""
+		"Per farlo ti servirà l'&bAttuatore di memoria dimensionale&r. Pensalo come un baule enorme."
+	]
+	quest.1A8D5373290BC1A6.quest_subtitle: "Deposito magico"
+	quest.1E6ADDD42C99274D.quest_desc: ["Il Master Miner Marid, dopotutto, non è il migliore! Questa... entità? estrarrà &bquasi dieci volte più risorse&r del Marid Miner."]
+	quest.1E6ADDD42C99274D.quest_subtitle: "Che miniera di ricchezze"
+	quest.1F828E56F64FFD15.quest_desc: [
+		"Il &5Fuoco spiritico&r è un tipo speciale di fiamma che può &6trasformare&r certi oggetti in altri."
+		""
+		"Per ottenerlo, &6lancia&r a terra un &bfrutto di Sogno di demone&r e &6dagli fuoco&r."
+		""
+		"Puoi &6gettarci dentro&r dell'&bAndesite&r per ottenere &bpietra dell'altro mondo&r, e degli &barboscelli di quercia&r per ottenere &barboscelli di legno dell'altro mondo&r."
+	]
+	quest.1F828E56F64FFD15.quest_subtitle: "Fuoco viola?"
+	quest.1F828E56F64FFD15.title: "Fuoco spiritico"
+	quest.206C9BCE1D67C3B8.quest_desc: ["Pulire il &bgesso&r a mano può essere una seccatura. Per fortuna il problema è già risolto: usa un &bCancella Gesso&r!"]
+	quest.206C9BCE1D67C3B8.quest_subtitle: "Non hai del sapone?"
+	quest.209744C68891F1DA.quest_desc: ["Il Bat Familiar ti permette di &6vedere&r al &bbuio&r."]
+	quest.209744C68891F1DA.quest_subtitle: "Ecolocalizzazione"
+	quest.219AFCECD9D006A2.quest_desc: ["Il Guardian Familiar &6impedisce&r la tua &bmorte&r, al prezzo di uno dei suoi arti."]
+	quest.219AFCECD9D006A2.quest_subtitle: "Immortale"
+	quest.29DE74B144E0A85F.quest_desc: ["L'&6Orange&r Chalk è perfetto per richiamare gli Afrit, anche se non ti dà il controllo su di loro."]
+	quest.29DE74B144E0A85F.quest_subtitle: "Aspro"
+	quest.29EB6FA48EDBE556.quest_desc: ["Il &7Light Gray&r Chalk è un gesso di fondazione migliore del Gesso Bianco: stabilizza di più i pentacoli realizzati con esso."]
+	quest.29EB6FA48EDBE556.quest_subtitle: "Seconda fondazione"
+	quest.2A1319D8CFE3653B.quest_desc: [
+		"Di base, lo spazio di deposito dell'attuatore non è dei più grandi."
+		""
+		"Puoi risolvere il problema usando gli &bStabilizzatori&r. Questi &6stabilizzano&r ulteriormente il collegamento dell'attuatore con la dimensione di deposito, permettendogli di &6contenere sempre di più&r."
+	]
+	quest.2A1319D8CFE3653B.quest_subtitle: "Qui dentro ci entra una casa..."
+	quest.2D5A0399B7FFA5DB.quest_desc: ["Il Cthulhu Familiar ti permette di &6respirare&r &bsott'acqua&r."]
+	quest.2D5A0399B7FFA5DB.quest_subtitle: "Adotta oggi un orrore ancestrale"
+	quest.320F924B4D0D5EE6.quest_desc: [
+		"Il Beaver Familiar aumenta la &6velocità&r con cui raccogli il &blegno.&r"
+		""
+		"Cercherà anche di &6abbattere&r gli &balberi.&r"
+	]
+	quest.320F924B4D0D5EE6.quest_subtitle: "Quanto legno rosicchierebbe un castoro se un castoro potesse rosicchiare legno?"
+	quest.32677D1F144A1184.quest_desc: ["I Demonic Partner sono vincolati a servirti e a farti compagnia. Esistono in due forme: perché non evocarle entrambe?"]
+	quest.32677D1F144A1184.quest_subtitle: "..."
+	quest.32677D1F144A1184.title: "Evoca i Demonic Partner"
+	quest.359A7C4C3C5E734F.quest_desc: ["Il Headless Ratman Familiar ruba la testa dei mob uccisi vicino a lui. In cambio ti dà un &6bonus ai danni&r contro quel tipo di mob."]
+	quest.359A7C4C3C5E734F.quest_subtitle: "Un bel colpo di testa"
+	quest.38E1A4E0A032E377.quest_desc: [
+		"I &bWormhole stabili&r fungono da punti di accesso piazzabili all'&bAttuatore di memoria dimensionale&r. Gli oggetti possono entrarvi e uscirne tramite condotti, ma per evitare lag è consigliato usare uno spirito trasportatore per estrarli."
+		""
+		"Il &bTelecomando per il deposito&r è un semplice dispositivo che ti permette di &6interagire con il tuo deposito&r da lontano. Non ha limiti di distanza né di dimensione, ma il chunk dell'attuatore deve essere caricato."
+	]
+	quest.38E1A4E0A032E377.quest_subtitle: "Trasferimento remoto"
+	quest.38E1A4E0A032E377.title: "Accesso al deposito"
+	quest.3A5A59C7AEA670C7.quest_desc: ["L'&bAviar's Circle&r è il primo pentacolo che preparerai. Serve a &6evocare i Foliot&r. &6Consulta&r il &bDictionary of Spirits&r per sapere come disporlo."]
+	quest.3A5A59C7AEA670C7.quest_subtitle: "Primo rituale"
+	quest.3A5A59C7AEA670C7.title: "Aviar's Circle"
+	quest.4184B4182CFEF694.quest_desc: [
+		"Questo strumento si può &6sintonizzare&r (con Shift + clic destro) su certi blocchi, per trovare i loro corrispettivi nell'Altro Luogo. Questi blocchi &6vanno raccolti mentre si è sotto il Third Eye&r. Ecco i blocchi che puoi cercare:"
+		""
+		"- l'&bAndesite&r cerca la &bpietra dell'altro mondo&r."
+		"- il &btronco di quercia&r cerca il &blegno dell'altro mondo&r."
+		"- la &bNetherrack&r cerca il &bminerale di Iesnium&r."
+	]
+	quest.4184B4182CFEF694.quest_subtitle: "Segnale acquisito"
+	quest.4303A1A434C07540.quest_desc: [
+		"Gli spiriti pulitori possono&6 raccogliere&r gli oggetti e &6depositarli&r nei &bcontenitori&r."
+		""
+		"Sono particolarmente utili per raccogliere i prodotti degli altri spiriti."
+	]
+	quest.4303A1A434C07540.quest_subtitle: "Ordine e pulizia"
+	quest.4303A1A434C07540.title: "Rituale: Evoca Foliot pulitore"
+	quest.448D7A215A175817.quest_desc: [
+		"&bOccultism&r è un'arte basata sull'&6evocazione di spiriti&r che lavorino per te."
+		""
+		"&6Costruirai e perfezionerai&r diversi &bpentacoli rituali&r. Con questi potrai &6evocare e comandare&r, e a volte anche &6combattere&r, una grande varietà di &bspiriti&r."
+		""
+		"Gli spiriti possono &6trasportare&r &boggetti&r per te, &6produrre e lavorare&r i &bminerali&r, darti potenziamenti e proteggerti, e molto altro."
+		""
+		"Leggere il &bDictionary of Spirits&r è &lcaldamente consigliato&r: è una guida molto più completa di quanto potrò mai essere io, soprattutto riguardo ai tanti &bgessi&r."
+		""
+		"Pronto a diventare un occultista?"
+	]
+	quest.448D7A215A175817.quest_subtitle: "Rituali e spiriti"
+	quest.44B09234621BDBA6.quest_desc: ["Questo &bpiccone&r &6speciale,&r pur essendo molto &6fragile&r, ti permette di &6raccogliere&r con più efficacia i materiali dell'altro mondo, come lo &bIesnium&r."]
+	quest.44B09234621BDBA6.quest_subtitle: "Piccone di Sogno di demone"
+	quest.470BC1F9873D4852.quest_desc: ["Questo anello può &6conservare&r al suo interno un &bfamiglio occulto&r, dandoti alcuni dei suoi benefici senza che debba stare al tuo fianco."]
+	quest.470BC1F9873D4852.quest_subtitle: "Non puoi separare un evocatore dalle sue evocazioni"
+	quest.49E73DF03C8D28C7.quest_desc: ["Il &4Gesso Rosso&r attira e lega gli Afrit, permettendoti di farli lavorare per te."]
+	quest.49E73DF03C8D28C7.quest_subtitle: "Controllo degli Afrit"
+	quest.4A0E862883FE42BB.quest_desc: ["Questa gemma può &6conservare&r al suo interno la maggior parte dei &bmob&r, per trasportarli facilmente."]
+	quest.4A0E862883FE42BB.quest_subtitle: "Acchiappali tutti"
+	quest.4E026831A66E0A42.quest_desc: ["Il &1Blue&r Chalk permette di evocare e legare i Marid."]
+	quest.4E026831A66E0A42.quest_subtitle: "Sette mari"
+	quest.4EF9C36CED1EDDC4.quest_desc: ["Le &bpiume&r, i &blibri&r e il &bcolorante nero&r si possono &6trasformare&r nel &5fuoco spiritico&r per ottenere versioni più ricettive al lavoro con gli spiriti."]
+	quest.4EF9C36CED1EDDC4.quest_subtitle: "Il giusto rito dello scrivano giusto"
+	quest.4EF9C36CED1EDDC4.title: "Materiali occulti per la scrittura"
+	quest.4F0F24F222AA434A.quest_desc: ["Lo &eYellow&r Chalk è un po' più potente del semplice bianco. Si usa soprattutto nei rituali di possessione."]
+	quest.4F0F24F222AA434A.quest_subtitle: "Possessione"
+	quest.510EAAAA3E08FCD5.quest_desc: ["Questo spirito minatore non ha rivali: riesce a ottenere &bla maggior parte dei minerali&r. Ogni tanto produrrà anche un oggetto &6speciale&r..."]
+	quest.510EAAAA3E08FCD5.quest_subtitle: "Lavoro da maestro (mine)craft"
+	quest.5358F626FAFBEDD3.quest_desc: ["Il Chimera Familiar &6cresce&r man mano che viene &6nutrito&r. Questo ne aumenta la forza e, quando è cresciuto abbastanza, puoi &6cavalcarlo&r."]
+	quest.5358F626FAFBEDD3.quest_subtitle: "Cavalcatura da battaglia"
+	quest.53A66CA8EFE820D1.quest_desc: ["I Greedy Familiar &6raccolgono&r gli &boggetti&r per te. Se li metti in un Familiar Ring, aumentano il raggio con cui raccogli gli oggetti."]
+	quest.53A66CA8EFE820D1.quest_subtitle: "Per il tesoro"
+	quest.58F3BCF5BFBCF371.quest_desc: [
+		"Di base, lo spazio di deposito dell'attuatore non è dei più grandi."
+		""
+		"Puoi risolvere il problema usando gli &bStabilizzatori&r. Questi &6stabilizzano&r ulteriormente il collegamento dell'attuatore con la dimensione di deposito, permettendogli di &6contenere sempre di più&r."
+	]
+	quest.58F3BCF5BFBCF371.quest_subtitle: "Ne voglio di più"
+	quest.5BBB0BDD45F6FFC0.quest_desc: ["Il Devil Familiar ti dà &bresistenza al fuoco&r."]
+	quest.5BBB0BDD45F6FFC0.quest_subtitle: "Inferno controllato"
+	quest.5BDEC0D157A43D9E.quest_desc: ["Il &5Gesso Viola&r è comune nei rituali che legano gli spiriti agli oggetti."]
+	quest.5BDEC0D157A43D9E.quest_subtitle: "Infusione"
+	quest.5C56A0938613CBC0.quest_desc: [
+		"Questo metallo si &6trova&r nel &bNether&r, camuffato da Netherrack."
+		""
+		"&6Guardare&r attraverso il &bThird Eye&r ne rivela la vera forma. Meglio portarsi dietro una &bDivination Rod&r."
+	]
+	quest.5C56A0938613CBC0.quest_subtitle: "Come si pronuncia?"
+	quest.5FB18A0E7827D203.quest_desc: ["Come c'era da aspettarsi, gli spiriti trasportatori possono &6trasferire oggetti&r tra i contenitori. Compresi il deposito dimensionale e gli &baltri spiriti&r."]
+	quest.5FB18A0E7827D203.quest_subtitle: "Raccolgo le cose e le poso"
+	quest.5FB18A0E7827D203.title: "Rituale: Evoca Foliot Trasportatore"
+	quest.62B0913266F48F45.quest_desc: ["Il Fairy Familiar cura e &6sostiene&r gli altri fa&bmigli&r mentre risucchia la vita dei tuoi nemici."]
+	quest.62B0913266F48F45.quest_subtitle: "Medico! Medico!"
+	quest.64D625C86F3AB75C.quest_desc: ["Il Beholder Familiar fa &bbrillare&r i mob vicini e &6spara&r laser contro i tuoi &bnemici&r."]
+	quest.64D625C86F3AB75C.quest_subtitle: "Fuoco col mio laser!"
+	quest.656CBEFEE317E2E7.quest_desc: [
+		"Di base, lo spazio di deposito dell'attuatore non è dei più grandi."
+		""
+		"Puoi risolvere il problema usando gli &bStabilizzatori&r. Questi &6stabilizzano&r ulteriormente il collegamento dell'attuatore con la dimensione di deposito, permettendogli di &6contenere sempre di più&r."
+	]
+	quest.656CBEFEE317E2E7.quest_subtitle: "Quanto spazio può servire a un occultista?"
+	quest.67ACD099BDB606FA.quest_desc: [
+		"Con questi &bGoggles&r sugli occhi vedrai come se avessi il &bThird Eye&r."
+		""
+		"Però non potrai ancora raccogliere i blocchi, senza uno strumento specializzato..."
+	]
+	quest.67ACD099BDB606FA.quest_subtitle: "Ultraterreno"
+	quest.687A9332533A26E8.quest_desc: ["Il Deer Familiar &6potenzia&r la tua capacità di &bsaltare&r."]
+	quest.687A9332533A26E8.quest_subtitle: "Alto nel cielo"
+	quest.698594BEA9750A4E.quest_desc: ["Il &8Gray&r Chalk stabilizza i pentacoli ancora più del suo predecessore."]
+	quest.698594BEA9750A4E.quest_subtitle: "Terza fondazione"
+	quest.69C0D033A9EE9EA7.quest_desc: ["Il Mummy Familiar si limita a &6combattere&r i tuoi &bnemici&r a mani nude."]
+	quest.69C0D033A9EE9EA7.quest_subtitle: "Dalla sabbia"
+	quest.6B61D20396D57CB8.quest_desc: ["Quando un &bDiamante&r viene &6gettato&r nel &5fuoco spiritico&r, diventa una gemma in sintonia con lo Spirito. Potrebbe servirtene più d'una."]
+	quest.6B61D20396D57CB8.quest_subtitle: "Mille spiriti nelle sue sfaccettature"
+	quest.6EDBFB47B2F8E6BA.quest_desc: ["Il più potente di tutti gli spiriti controllabili: i &bMarid&r offrono molti vantaggi ai maestri evocatori."]
+	quest.6EDBFB47B2F8E6BA.quest_subtitle: "Magistrale"
+	quest.6F9513334361D44E.quest_desc: ["&6Mangiare&r questo frutto aprirà il tuo &bThird Eye&r, permettendoti di vedere cose che altrimenti non potresti."]
+	quest.6F9513334361D44E.quest_subtitle: "Allucinogeni"
+	quest.72E69FF9753D3CEA.quest_desc: ["Il commerciante di pietra dell'altro mondo renderà ottenere &bpietra dell'altro mondo&r molto più comodo, e più efficiente."]
+	quest.72E69FF9753D3CEA.quest_subtitle: "Questa sì che spacca"
+	quest.72E69FF9753D3CEA.title: "Rituale: Evoca commerciante di Pietra dell'altro mondo"
+	quest.741485F43A560FF3.quest_desc: [
+		"È un &bpappagallo&r."
+		""
+		"Ti aspettavi qualcos'altro?"
+	]
+	quest.741485F43A560FF3.quest_subtitle: "*Cip*"
+	quest.7723EF8CE359646F.quest_desc: ["Questo spirito riporterà &bminerali casuali&r, compresi i &bminerali di ardesia profonda&r."]
+	quest.7723EF8CE359646F.quest_subtitle: "Secondo te la dimensione mineraria è come l'Overworld?"
+	quest.7790ABA120E4EBA9.quest_desc: ["Una volta padroneggiate le basi, potrai passare a lavorare con i &bDjinn&r, spiriti di livello intermedio."]
+	quest.7790ABA120E4EBA9.quest_subtitle: "Esperto"
+	quest.786E95EB4ED8C14E.quest_desc: ["Lo spirito minatore più semplice. Riporterà &bblocchi casuali&r, alcuni dei quali potrebbero essere minerali."]
+	quest.786E95EB4ED8C14E.quest_subtitle: "Oh issa"
+	quest.7A5466B9F5C79793.quest_desc: ["I &bFoliot&r sono il primo tipo di spirito con cui lavorerai, e il meno pericoloso."]
+	quest.7A5466B9F5C79793.quest_subtitle: "Apprendimento"
+	quest.7A7F75393420DB4C.quest_desc: [
+		"Raccogliere gli &barboscelli di legno dell'altro mondo&r può essere un fastidio: essendo instabili, puoi vederli e raccoglierli solo sotto il Third Eye."
+		""
+		"Questo spirito mercante risolve il problema &6scambiando&r i tuoi &barboscelli instabili&r con altri che non richiedono il &bThird Eye&r per interagirci."
+	]
+	quest.7A7F75393420DB4C.quest_subtitle: "Arboreto occulto"
+	quest.7A7F75393420DB4C.title: "Rituale: Evoca Mercante di arboscelli dell'altro mondo"
+	quest.7CB7BF24437115A4.quest_desc: [
+		"Gli spiriti frantumatori... &6frantumano&r le cose."
+		""
+		"Il loro uso principale è frantumare i &bminerali&r, che vengono &6raddoppiati&r (o anche di più, a seconda del livello dello spirito)."
+		""
+		"Tuttavia i frantumatori hanno anche diverse ricette più &6particolari&r, necessarie per ottenere i &bgessi&r che servono a contattare spiriti più forti."
+	]
+	quest.7CB7BF24437115A4.quest_subtitle: "Ho una cotta, e frantumo"
+	quest.7CB7BF24437115A4.title: "Rituale: Evoca Foliot Frantumatore"
+	quest.7D36F35D54BD7812.quest_desc: [
+		"Ogni tanto puoi trovare i &bsemi di Sogno di demone&r rompendo l'erba bassa."
+		""
+		"Una volta cresciuta, la pianta si può &6raccogliere&r per ottenere i &bfrutti di Sogno di demone&r, che hanno molti usi nelle faccende occulte."
+	]
+	quest.7D36F35D54BD7812.quest_subtitle: "La demonologia comincia da una fattoria"
+	quest.7FA5112E27A0D70C.quest_desc: ["Questo piccone può essere più utile per creare &bspiriti minatori&r che per te, ma è molto meglio del suo fragile predecessore."]
+	quest.7FA5112E27A0D70C.quest_subtitle: "Piccone spirituale"
+	quest.7FBC6EFE948A0CD2.quest_desc: ["Il Dragon Familiar &6aumenta&r l'&besperienza che guadagni&r."]
+	quest.7FBC6EFE948A0CD2.quest_subtitle: "Questo accumula sapere, non oro"
+	quest.7FD2368444636E93.quest_desc: [
+		"Il Blacksmith Familiar può &6potenziare&r gli altri &bfamigli occulti&r."
+		""
+		"Può anche &6riparare&r il tuo &bequipaggiamento&r mentre scavi la pietra."
+	]
+	quest.7FD2368444636E93.quest_subtitle: "Potenzia"
+	task.0020C1E77C424CB0.title: "Guarda il fuoco spiritico"
+	task.11CC52C63FF1FDE8.title: "Evoca un Beaver Familiar"
+	task.12C4C946FBE466AD.title: "Evoca un Devil Familiar"
+	task.141B9E891675C4BB.title: "Evoca un Chimera Familiar"
+	task.1531CE8CE061AFC3.title: "Qualsiasi #handcrafted:chests"
+	task.1A36A5D48C75BE0D.title: "Qualsiasi #minecraft:candles"
+	task.2103677DA5F292DE.title: "Evoca un Dragon Familiar"
+	task.22E777BE43621489.title: "Qualsiasi #handcrafted:chests"
+	task.2836DAFB8BAF8D7B.title: "Evoca un Headless Ratman Familiar"
+	task.296A456AF1F00270.title: "Evoca un commerciante di pietra dell'altro mondo"
+	task.2DCC056348E9BB4B.title: "Evoca una Demonic Wife"
+	task.318C7D190267976F.title: "Evoca un Blacksmith Familiar"
+	task.336881A8652FA9A0.title: "Evoca un Foliot Frantumatore (non c'è nessun progresso, scusa!)"
+	task.3716986BD12061AA.title: "Qualsiasi #c:raw_materials/gold"
+	task.37DECFA02129E0B8.title: "Evoca un Deer Familiar"
+	task.3C8E0C3D705AB65F.title: "Qualsiasi #c:raw_materials/iron"
+	task.3ED23CC07C23FD76.title: "&bBenvenuto in Occultism"
+	task.4137D2B088325C60.title: "Evoca un Foliot Trasportatore"
+	task.42634C57B87C09DB.title: "Evoca un Fairy Familiar"
+	task.429785464C6CD059.title: "Qualsiasi #minecraft:axes"
+	task.443D8F4CD01CC0C9.title: "Evoca un Pappagallo \"famiglio\""
+	task.4CE3EEAAF41AE050.title: "Evoca un Foliot pulitore"
+	task.4D63FA888F0497B5.title: "Evoca un Cthulhu Familiar"
+	task.52C834FDFA57A474.title: "Evoca un Beholder Familiar"
+	task.5327B3CEDA60D4BE.title: "Qualsiasi #c:raw_materials/silver"
+	task.58AC1E8BBD7EAB5B.title: "Evoca un Mummy Familiar"
+	task.5D5634634E3879E5.title: "Evoca un Bat Familiar"
+	task.61ADF1E6345BC7E1.title: "Qualsiasi #c:raw_materials/copper"
+	task.6544A3FD1B532809.title: "Evoca un Demonic Husband"
+	task.65A43DD683FB39E4.title: "Evoca un Foliot Taglialegna"
+	task.6C6C366D034AF5C7.title: "Evoca un mercante di arboscelli dell'altro mondo"
+	task.73DFBACC98E080BC.title: "Qualsiasi coltello"
+	task.74C6D98426025A18.title: "Evoca un Guardian Familiar"
+	task.7E36340AFD8F91C6.title: "Evoca un Greedy Familiar"
+}

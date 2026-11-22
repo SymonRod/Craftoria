@@ -1,0 +1,216 @@
+{
+	image.016243ADD1F6272C.title: "MI: Era elettrica"
+	image.135CF1D7BEAA9DD0.title: "MI: Era del vapore"
+	image.34720C1FAB96676D.title: "MI: Era quantistica"
+	quest.135FBE79D4415F15.quest_desc: [
+		"  Prima ancora che tu lo chieda, la risposta è no. Queste &bNuke&r &onon&r esplodono. Sono Nuke senza il detonatore. "
+		""
+		"  Servono esclusivamente per l'&bImplosion Compressor&r."
+	]
+	quest.135FBE79D4415F15.title: "Bomba nucleare legalizzata"
+	quest.156575F76CAB51A0.quest_desc: [
+		" Hai raggiunto l'&dINFINITO&r. "
+		""
+		"Non sei più vincolato da ciò che puoi o non puoi fabbricare. "
+		""
+		"Le tue &6capacità&r sono ormai quasi &billimitate&r. "
+		""
+		"Usa la tua &dmateria universalmente utilizzabile&r per &6duplicare&r tutto ciò che desideri, con un solo &dlimite&r. "
+		""
+		"Ricorda, la &dmateria&r non si può creare dal &bnulla&r, quindi cercare di &6duplicare&r blocchi molto &bcompressi&r o uno &bzaino&r pieno di &boggetti&r sarà uno sforzo vano. "
+		""
+		"A parte questo, sei libero di fare ciò che vuoi. Usa con saggezza questo nuovo &6potere&r!"
+	]
+	quest.156575F76CAB51A0.quest_subtitle: "Duplicazione legale"
+	quest.156575F76CAB51A0.title: "&dReplicator (MK I)"
+	quest.186F257352F2E844.quest_desc: ["  Questa macchina richiede un livello di resistenza tutto nuovo. È ora di mettere a frutto quel nuovo &btitanio&r che hai fatto. Il &bPressurizer&r ti permette di pressurizzare l'&bacqua&r &6in &bHP&r&6, cioè acqua &bad alta pressione&6, e lo &r&bSteam&r &6in &bHP Steam&r. Funziona anche al contrario, per depressurizzare i fluidi. Il &bPressurizer&r ti permette anche di &6raccogliere il &bLiquid Air&r &6tramite l'&bAir Intake&r, ed è molto più efficiente del &bVacuum Freezer&r."]
+	quest.186F257352F2E844.title: "Pressurizer"
+	quest.18DED87B3E23350F.quest_subtitle: "Può eseguire in lotti le ricette di qualsiasi macchina multiblocco elettrica gli venga fornita."
+	quest.1AE719655A757BF1.quest_desc: [
+		"  La trivella che ti spingerà ai confini estremi della tecnologia."
+		""
+		"  Fatta di quel &btitanio&r leggero ma resistente di prima, ti permetterà di alimentare i tuoi reattori e di entrare nell'era quantistica."
+	]
+	quest.1AE719655A757BF1.title: "Titanium Drill"
+	quest.1C25114D2AF71C35.quest_desc: [
+		"  Usando &bIndustrial TNT&r, l'&bImplosion Compressor&r è in grado di comprimere le polveri e i lingotti dei materiali più resistenti. Tra questi ci sono il &btungsteno&r, la &bBlastproof Alloy&r, il &bberillio&r e infine i &bdiamanti&r! Alcuni di questi materiali saranno molto importanti per il tuo viaggio verso la fissione nucleare."
+		""
+		"  Ora, avrai probabilmente notato che durante il viaggio sei riuscito a fare &bBlastproof Alloy Plates&b e &rTungsten Nuggets&r nel tuo Compressor di tutti i giorni, anche se è un processo piuttosto inefficiente. Ebbene, con l'&bImplosion Compressor&r potrai farlo più velocemente e in modo ancora più efficiente!"
+	]
+	quest.1C25114D2AF71C35.title: "Implosion Compressor"
+	quest.1CC910880728D896.quest_desc: [
+		"  Ti sei divertito con la &bfissione nucleare&r? Bene, è ora della &bfusione nucleare&r!"
+		""
+		"  Invece di dividere un nucleo pesante e instabile in due nuclei più leggeri, la &bfusione&r unisce due nuclei leggeri e così libera enormi quantità di energia."
+		""
+		"  Questa energia può essere contenuta e usata per produrre &bHelium Plasma&r, un fluido estremamente denso di energia, utilizzabile come la migliore fonte di energia del mondo."
+		""
+		"  Puoi combinare combustibili gassosi come &bDeuterium&r, &bTritium&r e/o &bHelium-3&r per produrre varie combinazioni di Helium Plasma, Tritium, Deuterium e Hydrogen."
+		""
+		"  Tieni presente che questa fusione richiede molta energia per partire, ma ne può produrre molta di più."
+	]
+	quest.1CC910880728D896.title: "Fusion Reactor"
+	quest.21EDEEE1A1B82B53.quest_desc: ["  Lavorando l'&bIridium Ore&r ottenuto dalle tue &bTitanium Drill&r, potrai iniziare a produrre l'&bIridium Dust&r, che servirà per la &bSuperconductor Dust&r, un materiale capace di trasferire e immagazzinare energia in modo straordinario."]
+	quest.21EDEEE1A1B82B53.title: "Raw Iridium"
+	quest.2472B23BC0C28C6C.quest_desc: [
+		"  Ricordi quei \"tick\" di cui parlavamo? Quelli che durano un ventesimo di secondo?"
+		""
+		"  Bene, hai raggiunto &oquel&r livello di lavorazione. Con abbastanza energia in ingresso, ogni ricetta di ogni macchina, purché sia elettrica, richiederà un solo tick."
+		""
+		"  Tieni presente che l'energia che queste macchine possono usare sarà immensa, quindi usale con saggezza."
+	]
+	quest.2472B23BC0C28C6C.title: "Quantum Upgrade"
+	quest.2B1717F5D6E20B79.quest_desc: [
+		"  Con un &bElectrolyzer&r, abbastanza tempo ed energia, e la tua &bSingularity&r appena fatta, puoi estrarre grandi quantità di energia tramite la &bradiazione di Hawking quantistica&r sotto forma di &bmateria universalmente utilizzabile&r, detta semplicemente &dUU Matter&r."
+		""
+		"  Ovvero, il &otessuto&r stesso dell'&9universo&r."
+	]
+	quest.2B1717F5D6E20B79.title: "UU Matter Bucket"
+	quest.2C4CA092A557205E.quest_desc: [
+		"  Il 1985 ha chiamato dal 2015: rivuole indietro la sua tecnologia antigravità!"
+		""
+		"  La &bGravichestplate&r usa un cavo superconduttore avvolto attorno a un nucleo di platino per produrre attorno al giocatore un campo che altera lo spazio e inverte l'attrazione gravitazionale, quanto basta per sollevarlo da terra."
+		""
+		"  Si controlla regolando l'energia inviata alle bobine rivolte in più direzioni. Poiché agisce sul campo gravitazionale, non subirai alcun danno da caduta, ma dato che i componenti della &bGravichestplate&r sono fragili e complessi, non ti proteggerà da altri tipi di danno."
+		""
+		"  &6Per funzionare usa EU (e ne usa tantissimi)&r, quindi si può caricare facendo clic destro su un blocco in grado di fornire energia."
+	]
+	quest.2C4CA092A557205E.title: "Gravichestplate"
+	quest.325D7C592E2FB05A.quest_desc: [
+		"  Lo stato &bdefinitivo&r della materia solida, compressa così tanto da diventare un punto di densità e gravità infinite."
+		""
+		"  Però puoi contenerla e usarla per varie applicazioni. Stai tenendo in mano... l'&bInfinito&r."
+	]
+	quest.325D7C592E2FB05A.title: "Singularity"
+	quest.33D0760B5FEF7C46.quest_desc: [
+		"  &oQuesto&r è il generatore definitivo."
+		""
+		"  La &bPlasma Turbine&r usa l'&bHelium Plasma&r per produrre energia, &6fino a 1.048.576 EU/t&r. Sono circa 100.000 EU per millibucket di &bHelium Plasma&r, con un &6consumo di circa 11 mB/t&r."
+		""
+		"  Finché saprai prenderti cura della tua fabbrica, non dovrai &omai&r più preoccuparti dell'energia."
+	]
+	quest.33D0760B5FEF7C46.title: "Plasma Turbine"
+	quest.3761B64135EA94C0.quest_desc: [
+		"  Finalmente potrai costruire un &bNuclear Reactor&r che usa diversi tipi di &bfluidi&r e &bFuel Rods&r per produrre vari combustibili gassosi, &bSteam&r in quantità enormi e materiali radioattivi."
+		""
+		"  Il &bNuclear Reactor&r non è per i deboli di cuore. Dovrai tenere d'occhio gli indicatori dell'interazione termica e neutronica mentre costruisci uno dei quattro reattori di dimensioni diverse."
+		""
+		"  Se ti arrendi mentre sviluppi le tue conoscenze e i tuoi schemi sul reattore, torna da me e ti spiegherò come funziona."
+		""
+		"  Per ora, ti auguro buona fortuna!"
+	]
+	quest.3761B64135EA94C0.quest_subtitle: "Per te è Mr. Fusion!"
+	quest.3761B64135EA94C0.title: "Nuclear Reactor"
+	quest.3E903D71F66D3DB4.quest_subtitle: "Con il turbo a N2O!"
+	quest.3E903D71F66D3DB4.title: "&6Replicator (MK II)"
+	quest.40915337B7E427F8.quest_desc: ["  Un cavo capace di trasferire energia a sufficienza per tutta la tua fabbrica, &b10 volte&r tanto, in un singolo cavo. Questo è il &bmassimo&r del trasferimento di energia."]
+	quest.40915337B7E427F8.quest_subtitle: "Sono un vero cavo sotto tensione"
+	quest.40915337B7E427F8.title: "Superconductor Cable"
+	quest.454FF6E2926163F7.quest_desc: [
+		"  Onestamente, non ti biasimo. Anche se, se sei venuto qui per curiosità dopo aver costruito il tuo fantastico reattore, ti faccio i complimenti. Ma per quelli di voi che avevano bisogno di aiuto, perché non cominciamo? Fai attenzione!"
+		""
+		"  Il &bNuclear Reactor&r può produrre centinaia di volte più EU/t del diesel. Esiste in diverse dimensioni, da &bpiccolo&r a &bestremo&r."
+		""
+		"  Capire cosa succede sotto il cofano può essere un po' travolgente, ma non serve comprenderne i dettagli per progettare un reattore potente."
+		""
+		"  &6Nota che in questo mondo il &bNuclear Reactor&r &6&onon&r &6può esplodere, emettere radiazioni né danneggiare in alcun modo la zona circostante&r. L'unica cosa che può danneggiare sono gli oggetti che ci metti dentro se la temperatura sale troppo, cosa che spiegherò meglio più avanti. Sentiti libero di sperimentare e goditi la tua nuova vita da scienziato nucleare!"
+		""
+		"  Il componente principale è il &bNuclear Casing&r, fatto con la &bNuclear Alloy&r, una miscela di &bcadmio&r, &bberillio&r e &bblastproof alloy&r."
+		""
+		"  La parte superiore della struttura accetta &bNuclear Item Hatch&r, &bNuclear Fluid Hatch&r o semplici rivestimenti. &6Sono gli ingressi e le uscite del reattore&r."
+		""
+		"  Ogni hatch ha un ingresso, che sia per oggetti o per fluidi, e due uscite. Gli slot di ingresso formano una griglia, mostrata nel pannello di controllo del reattore (accessibile con il clic destro sul controller)."
+		""
+		"  &6Ogni hatch ha una temperatura&r e accumula calore, che può essere dissipato in vari modi. Il calore si sposta naturalmente verso un hatch adiacente o verso l'esterno se l'hatch è sul bordo, anche se in quel caso il calore va perso. La velocità di questo processo è pari al coefficiente di trasferimento del calore del contenuto dell'hatch, che trovi in EMI, moltiplicato per la differenza di temperatura. Il calore può anche essere estratto in un hatch per fluidi &bproducendo vapore&r. &6Una temperatura superiore a quella massima di un oggetto lo distruggerà&r."
+		""
+		"  Gli elementi centrali del reattore nucleare sono i &bneutroni&r. Vengono prodotti dal &bcombustibile nucleare&r. Esistono due tipi di neutroni, &bveloci&r e &btermici&r: quelli veloci trasportano energia, quelli termici no. I neutroni si muovono in linea retta finché non incontrano un elemento o escono dal reattore, anche se i neutroni veloci in quel caso perdono la loro energia. Il flusso dei neutroni è mostrato nel pannello di controllo del reattore."
+		""
+		"  Quando un neutrone incontra un hatch non vuoto possono succedere due cose: il neutrone viene &bassorbito&r oppure &bdiffuso&r. &6Un neutrone diffuso cambia direzione a caso&r. Se il neutrone diffuso è veloce, ha una probabilità di rallentare e diventare termico. In questo modo l'energia del neutrone passa all'hatch sotto forma di calore. Un &6neutrone assorbito interrompe il suo percorso e, se era veloce, trasferisce anch'esso la sua energia&r."
+		""
+		"  Il numero di neutroni assorbiti in un singolo hatch si vede nel pannello di controllo. La probabilità di ogni processo è mostrata in EMI. Dipendono molto dal contenuto dell'hatch e dal tipo di neutrone, veloce o termico.&6 I combustibili nucleari assorbono molto meglio i neutroni termici&r."
+		""
+		"  Quando un neutrone, veloce o termico, viene assorbito dal combustibile nucleare, vengono generati altri neutroni. Sono sempre neutroni veloci e hanno direzione casuale. &6La loro generazione è accompagnata dal rilascio diretto di energia sotto forma di calore aggiuntivo nell'hatch&r."
+		""
+		"  Oltre una certa soglia, il numero di neutroni generati diminuisce con la temperatura fino ad azzerarsi. &6Questo processo spreca un po' di energia, ma garantisce la stabilità del reattore&r. Il numero di neutroni generati, l'efficienza effettiva, l'energia diretta e la soglia di temperatura sono tutti mostrati in EMI."
+		""
+		"  Ogni componente nucleare ha un numero massimo di assorbimenti. &6Quando viene raggiunto, l'oggetto viene distrutto o trasformato in una variante esaurita&r. Questo è particolarmente utile per il combustibile nucleare, perché una parte dell'&6&bU238&r &6viene trasformata in &bplutonio&r &6nella sua variante esaurita&r, il che significa che una parte può essere riconvertita in combustibile."
+		""
+		"  Lo stesso vale per i fluidi, dove un po' di fluido si trasforma dopo ogni assorbimento di neutroni. Questo si può usare per produrre in massa isotopi utili come il &bdeuterio&r e il &btrizio&r. In entrambi i casi, il risultato è mostrato in EMI."
+	]
+	quest.454FF6E2926163F7.title: "Ti arrendi?"
+	quest.640DB4139DF8AFA4.quest_desc: [
+		"  Il &bQuantum Circuit&r. L'apice della tecnologia informatica."
+		""
+		"  L'inizio delle macchine più avanzate che tu possa immaginare."
+		""
+		"  Da qui in poi, &anon ci sono limiti alla tua immaginazione&r."
+	]
+	quest.640DB4139DF8AFA4.title: "&dFine partita"
+	quest.668453E081A6C57B.quest_desc: [
+		"  Forgiato nel cuore delle supernove, il &btitanio&r ha il più alto rapporto tra resistenza e peso. È resistente quanto l'acciaio con il 45% di massa in meno, il che lo rende potentissimo per il suo peso."
+		""
+		"  Non è magnetico, non si corrode e non conduce elettricità, quindi usarlo per i componenti di una macchina può essere estremamente vantaggioso."
+		""
+		"  Il suo colore rosa deriva da qualcosa?"
+	]
+	quest.668453E081A6C57B.title: "Titanio"
+	quest.67F2212453B81446.quest_desc: [
+		"  Un lingotto misto che contiene un &bIridium Ingot&r incastrato tra due &bBlastproof Alloy Ingot&r, pronto per produrre una &bIridium Plate&r resistentissima."
+		""
+		"  A proposito di panini, non ti sembra un po' &bgustoso&r?"
+	]
+	quest.67F2212453B81446.title: "Mixed Iridium Ingot"
+	quest.6C96992416059AC4.quest_desc: [
+		"Per l'&bUltimate Laser Drill&r:"
+		"- Si può &6tingere&r!"
+		"- Premi &6Shift sinistro&r + &6pulsante destro&r per passare da &5Fortune/Looting&r a &5Silk Touch&r."
+		"- Usa &6Alt&r + &6Mouse Scroll&r per cambiare la velocità di scavo."
+		"- Premi &6Y&r mentre la tieni in mano o il &6pulsante destro&r mentre ci passi sopra con il mouse per attivare o disattivare lo &5scavo 3x3&r."
+	]
+	quest.6C96992416059AC4.quest_subtitle: "Lo strumento \"fa tutto\"!"
+	quest.7342F6461382E839.quest_desc: [
+		"Hai &araggiunto&r l'ultimo passo verso l'&binvincibilità&r. "
+		""
+		"Un'&barmatura&r intrisa di &dtecnologia quantistica&r per &6respingere&r ogni attacco &cfisico&r e &5magico&r. "
+		""
+		"Non puoi morire, nemmeno per la &6punizione di un dio&r. "
+		""
+		"Ora puoi &6volare liberamente&r senza bisogno di &eelettricità&r. "
+		""
+		"Questo &binsieme di armatura&r interagisce direttamente con il &dregno quantistico&r per alterare lo spazio e il tempo attorno a te. "
+		""
+		"In teoria resti comunque &6fermo&r, e a &6muoversi&r rispetto a te è solo lo spazio. --Questo-- è il &6potere&r che possiedi."
+		""
+		" Questa &bspada&r può tagliare, e taglierà, &bqualsiasi cosa&r sul suo cammino. "
+		""
+		"Il filo della sua lama ha la &acapacità&r di fendere il tempo e cancellare dall'esistenza qualsiasi &eentità&r tu scelga. Usa questo &6potere&r con responsabilità."
+	]
+	quest.7342F6461382E839.quest_subtitle: "Il vero potere!"
+	quest.7342F6461382E839.title: "&dArmeria quantistica"
+	quest.7436F6599E2D79C1.quest_desc: [
+		"- Si può &6tingere&r e &6decorare con le rifiniture&r!"
+		""
+		"- Attiva o disattiva il &6Creative Flight&r premendo &eN&r."
+	]
+	quest.7436F6599E2D79C1.quest_subtitle: "La Gravichestplate, ma in nero!"
+	quest.74C5FDC3B1E74586.quest_desc: [
+		"Il &bFlux Transformer&r è una macchina potente che ti permette di &6moltiplicare&r praticamente il tipo di energia chiamato &eEU&r nell'energia chiamata &eFE&r. È così potente che &6moltiplica&r la resa per &a50&r (5 volte più del normale)!"
+		""
+		"Tieni presente che non puoi far rientrare l'&aenergia&r in circolo: è un processo &cunidirezionale&r."
+	]
+	quest.74C5FDC3B1E74586.title: "Flux Transformer"
+	quest.768973710C811CB1.quest_subtitle: "Versione 2: stile e altri gadget!"
+	quest.768973710C811CB1.title: "&aSet Quantum Nano"
+	quest.7AF270EF635B11CF.quest_desc: [
+		"  Creata &6comprimendo&r tre dei materiali più resistenti che hai usato nel tuo viaggio fino a qui."
+		""
+		"- Il &btungsteno&r, un metallo con un &6punto di fusione altissimo e una densità&r imbattibile."
+		""
+		"- Il &btitanio&r, un materiale &6resistente alla corrosione&r, &6forte ma leggero&r."
+		""
+		"- L'&bacciaio inossidabile&r, &6resistente alla ruggine&r all'estremo."
+		""
+		"  Questa è la piastra più resistente che forgerai mai. "
+	]
+	quest.7AF270EF635B11CF.title: "Blastproof Alloy Plate"
+}

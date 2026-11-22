@@ -1,0 +1,333 @@
+{
+	image.1125837DBC4ECAB0.title: "MI: Era elettrica"
+	image.5FAF4DEEA7D7FA6A.title: "MI: Era del vapore"
+	image.6BC1BB8F76D8F3E7.title: "MI: Era quantistica"
+	quest.069382B7A2FC7D35.quest_desc: [
+		"Si &6incrosta&r di calcare e &cperde&r efficienza col tempo, fino a un minimo del &e33%&r, quando non usa &bDistilled Water&r. "
+		""
+		"Usare un'&bascia&r sul &bBoiler&r azzera l'incrostazione."
+	]
+	quest.069382B7A2FC7D35.quest_subtitle: "Usa l'energia solare invece dei combustibili fossili."
+	quest.0729CB454B970201.quest_desc: [
+		"  Questa è la &bBronze Drill&r. Ti darà i principali minerali di cui avrai bisogno per espanderti."
+		""
+		"  Controlla i risultati in &6EMI&r e tieni presente che la trivella ha una probabilità di rompersi, quindi non farne solo una."
+	]
+	quest.0729CB454B970201.title: "Bronze Drill"
+	quest.07FE9074247583EE.quest_desc: [
+		"  Ora, avrai notato che ho detto \"di solito\" parlando dell'interazione con il controller. Significa che oggetti e &6fluidi non possono entrare né uscire dal controller&r, ma le informazioni sì, nel senso delle statistiche. Guardando nel controller vedrai alcune cose: Shape Validity, Status, Progress, Recipe Base e Recipe Current."
+		""
+		"  La Shape Validity ti dice se il &6multiblocco è costruito correttamente o no&r. Non ti dice però se mancano hatch o se ce ne sono troppi sul multiblocco, quindi devi controllarlo tu. Tieni presente che le strutture multiblocco &opossono&r condividere dei blocchi tra loro, purché questi blocchi in comune NON contengano un hatch."
+		""
+		"  Lo Status ti dice lo stato attuale del multiblocco: se è inattivo o se è attivo."
+		""
+		"  Il Progress mostra l'avanzamento, con una percentuale che sale lentamente fino al 100%. Più il processo è veloce, più in fretta sale la percentuale."
+		""
+		"  La Recipe Base mostra il &6consumo base di energia/vapore della ricetta&r. A seconda di cosa stai producendo, usa una quantità minima di energia/vapore, ma può usarne di più per velocizzare il processo. Con le macchine a vapore questo non succede, quindi per ora non mi dilungo."
+		""
+		"  La Recipe Current è la&6 quantità di energia/vapore effettivamente consumata in questo momento&r."
+	]
+	quest.07FE9074247583EE.title: "Controller dei multiblocchi"
+	quest.0AC7D844C55119E1.quest_desc: [
+		"  Questa non è una &bchiave inglese&r, ma è meglio che tu speri di muoverti come una scimmia in futuro."
+		""
+		"  Con un &bWrench&r puoi &6ruotare&r &oquasi&r &bqualsiasi macchina&r con il &6clic destro&6 e &rraccogliere&r&o quasi&r qualsiasi &btubo&r, per &bfluidi&r o &bno&r."
+		""
+		"  Puoi fare &6Shift + clic destro&o su una &bmacchina&r per &6configurare&r il &blato di uscita&r. Quando &6tieni in mano&r il &bWrench&r, puoi &6passare il mouse&r su qualsiasi faccia della &bmacchina&r e vedrai una specie di &bgriglia&r. Fare &6Shift + clic destro&o sul &bquadrato centrale&r imposterà la &bfaccia di uscita&r sul lato in cui si trova la &bgriglia&r. Facendolo sui rettangoli, invece, &6l'uscita viene posizionata&r sulla faccia a &690&r gradi rispetto all'angolo scelto, per permettere la &6configurazione&r negli spazi difficili da raggiungere. Infine, i piccoli &bquadrati&r negli angoli imposteranno l'uscita sul lato &bopposto&r a quello della griglia."
+		""
+		"  Ricorda: non puoi &6rompere&r la macchina con il &bWrench&r, la &6distruggerebbe&r e &6non&r la recupereresti. Usa invece il tuo fidato &bpiccone&r."
+	]
+	quest.0AC7D844C55119E1.title: "Wrench"
+	quest.0B2FF8169FD3812D.quest_desc: [
+		"  Gli &bSteel Hatch&r hanno &6il doppio della capacità degli hatch di bronzo&r: portano da 1 a 2 gli slot dell'inventario e aumentano il consumo massimo di vapore di un multiblocco da 2 EU/t a 4 EU/t. Finché c'è anche un solo Steel Fluid Input Hatch che riceve vapore, l'intero multiblocco passa al \"livello d'acciaio\"."
+		""
+		"  Permettere ai multiblocchi di usare 4 EU/t significa esattamente quello che pensi: raddoppia la velocità massima dei processi."
+		""
+		"  Uno &bSteel Boiler&r produce il doppio del vapore di uno di bronzo. Questo significa che arriva a un massimo di &o16 EU/t&r invece di 8. Anche la &bSteel Water Pump&r produce il doppio di &bacqua&r rispetto alla controparte di bronzo, quindi un massimo di 250 mB di &bacqua&r per ogni fonte d'acqua adiacente, fino a 2000 mB di &bacqua&r ogni 5 secondi."
+	]
+	quest.0B2FF8169FD3812D.quest_subtitle: "Aspetti che qualcosa si schiuda?"
+	quest.0B2FF8169FD3812D.title: "Steel Hatches"
+	quest.164F4710E109F7F2.quest_desc: [
+		"  È ora di quel &blingotto arancione&r splendente? Dovrai prendere un po' di &bCopper Dust&r e &bTin Dust&r ottenute dal &bForge Hammer&r. È una semplice miscela &63:1&r di &brame&r e &bstagno&r nella tua griglia di fabbricazione. Andando &6avanti&r, troverai un modo per produrre questa miscela in modo più &6efficiente&r, perché fatta a mano si disperde un po' di &bpolvere&r."
+		""
+		"  Ora che con questo &bbronzo&r entri nell'&aera del vapore&r, ti do qualche &6consiglio&r sulle &bmacchine&r che costruirai. Ricorda che le &bmacchine a vapore&r accettano ingressi da &6qualsiasi lato&r, che si tratti di &boggetti, vapore o altri fluidi&r. Puoi &6bloccare&r i loro slot &6cliccando&r sul pulsante a forma di &blucchetto&r nell'&binterfaccia&r. "
+		""
+		"Gli slot &6bloccati&r garantiscono che la macchina accetti &6solo&r un tipo di &boggetto&r o &bfluido&r per slot."
+		""
+		"  Anche ogni &bmacchina&r ha un &blato di uscita&r, e puoi &6attivare&r l'&buscita automatica&b dall'interno dell'&rinterfaccia&r. Con il tuo fidato &bWrench&r puoi &6regolare&r il lato di uscita con facilità!"
+		""
+		"  Se non vuoi tanti &boggetti&r alla volta negli slot, &6usa&r la &brotellina del mouse&r per &6regolare&r il numero massimo di &boggetti&r conservati."
+		""
+		"  &cP.S.&r Fare clic destro su una &bmacchina a vapore&r con della &7polvere da sparo&r ne raddoppia la &6velocità&r e il &6consumo di vapore&r. Tienilo a mente quando guardi le ricette. Quella &7polvere da sparo&r potrebbe risparmiarti un viaggio all'inferno."
+	]
+	quest.164F4710E109F7F2.title: "Il tuo primo bronzo"
+	quest.16AAEB122CDC1A46.quest_desc: [
+		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
+		"  Un elegante rivestimento di bronzo con una lucida ciotola di metallo in cui calano delle lame per &6mescolare&r una marea di cose diverse! Puoi &6mescolare le polveri&r ottenendone di più, perché non ne verserai più via."
+		""
+		"  Non mescola solo polveri, ma anche fluidi. Per esempio: il &eLubricant&r!"
+	]
+	quest.16AAEB122CDC1A46.title: "Bronze Mixer"
+	quest.1D57C823A1F0203C.quest_desc: [
+		"  Ho lo &bstrumento perfetto&r per te, ci vorrà solo un po' di &6tempo per fabbricarlo&r. È una &bSteam Mining Drill&r! Può &6scavare&r su una griglia &6molto più grande&r dei normali &bpicconi&r: &63x3&r, per la precisione. Non solo &6scaverai in modo più efficiente&r, ma potrai fare splendidi &btunnel&r senza fatica."
+		""
+		"  Vuoi sapere una cosa fantastica? Questa &btrivella&r usa anche il &6&otocco di velluto&r sui blocchi! Incredibile, vero? Una figata! Così otterrai &6&omolto&r più resa abbinandola al &bForge Hammer&r, perché potrai &6frantumare&r i &bblocchi di minerale&r invece di partire dai &bminerali grezzi&r."
+		""
+		"  Un piccolo... lo chiameresti &6svantaggio&r? Bisogna &6alimentarla&r. Per qualche motivo la &btrivella&r in sé &6non&r si &6rompe&r mai, ma dovrai darle &bacqua&r e un qualche tipo di &bcombustibile&r, per esempio &bcarbone&r o &bLignite&r. Basta fare &6clic destro&r con gli &boggetti combustibili&r sulla &btrivella&r nel tuo &binventario&r per&6 riempirla&r!"
+		""
+		"  &aConsigli&r: &6porta sempre con te&r un &bSecchio d'acqua&r. Non solo ti permette di &6annullare il danno da caduta&r, se sei abbastanza abile, ma è anche una fonte di &bacqua&r con cui alimentare la &btrivella&r. Per qualche motivo, a seconda dei casi, le &bfonti d'acqua&r di questo mondo sono infinite: sfruttalo a tuo vantaggio."
+		""
+		"  &aAltri consigli&r: &6accovacciati per scavare&r i &bblocchi singoli&r, se serve! Verranno comunque raccolti con il &6tocco di velluto&r, ma non scaverà in &63x3&r, nel caso ti serva scavare i &bblocchi&r con più delicatezza."
+	]
+	quest.1D57C823A1F0203C.quest_subtitle: "Clin, clan, clin, clan!"
+	quest.1D57C823A1F0203C.title: "Steam Mining Drill"
+	quest.215606B3A894512E.quest_desc: [
+		"  Vedi quelle percentuali su ogni minerale nei risultati della Quarry?"
+		""
+		"  Sono percentuali &oindividuali&r. &6Ogni minerale ha la sua probabilità individuale&r. "
+		""
+		"  Se piazzi un Bronze Item Output Hatch, otterrai un solo minerale, ma la probabilità che ne venga prodotto un altro c'è comunque, e quindi potrebbe andare perso se non c'è spazio."
+		""
+		"  &6Piazza più Item Output Hatch, meglio se d'acciaio, per aumentare il numero massimo di risultati possibili.&r"
+	]
+	quest.215606B3A894512E.title: "Consigli sulla Quarry"
+	quest.21584ECDBB6907DE.quest_desc: [
+		" &aCalma, calma!&r Un &btick&r è la &6più piccola quantità&r di tempo che si possa &6registrare&r."
+		""
+		"  Corrisponde a circa un &6ventesimo&r di &bsecondo&r. Il mondo funziona a questi \"&btick&r\" e puoi &6sfruttarli&r a &btuo&r vantaggio!"
+	]
+	quest.21584ECDBB6907DE.title: "Cos'è un tick?"
+	quest.21939E58707A7756.quest_desc: ["Il &bLarge Macerator&r può &6macinare&r ricette in lotti da un massimo di 8, con il &a25%&r di riduzione del costo in &eEU&r. Tieni presente che &cnon&r mescola ricette diverse: &odevono&r essere dello stesso tipo. Altrimenti ogni tipo di ricetta verrà &6diviso&r nel proprio lotto da un massimo di 8."]
+	quest.21939E58707A7756.quest_subtitle: "Può eseguire le ricette in lotti."
+	quest.2F66F85A601AC908.quest_desc: [
+		"{image:modern_industrialization:block/machines/macerator/overlay_top_active width:32 height:32 align:center}"
+		"  Ora puoi &6raddoppiare e rotti i tuoi minerali&r! Questo significa che avrai il 50% di probabilità di estrarre una polvere in più dal tuo &bminerale grezzo&r. Con il &bMacerator&r puoi anche macinare un &bblocco di minerale&r ed estrarne un sacco di &bminerali grezzi&r."
+		""
+		"  Essendo un &bMacerator&r, puoi buttarci dentro oggetti di metallo per &6riciclarli in polveri&r: un buon modo per recuperare qualcosa da una spedizione o da un vecchio attrezzo."
+	]
+	quest.2F66F85A601AC908.title: "Bronze Macerator"
+	quest.2FB2FE782B1103D6.quest_desc: [
+		"  Il tuo secondo multiblocco: la &bSteam Blast Furnace&r! È quasi identico, con l'unica differenza che è alto un blocco in più e usa &bFire Clay Bricks&r invece dei normali &bmattoni&r."
+		""
+		"  Usa lo stesso trucco con il &bWrench&r &6per vedere dove piazzare i blocchi&r e non dimenticare che stavolta ti serviranno solo &63 hatch&r. Sono gli stessi del &bCoke Oven&r, senza il Fluid Output Hatch, almeno per ora!"
+		""
+		"  Userai questa &bSteam Blast Furnace&r per fare il tuo primo &bacciaio&r!"
+	]
+	quest.2FB2FE782B1103D6.title: "Steam Blast Furnace"
+	quest.3143EA7DF096CE61.quest_desc: [
+		"  Una nuova macchina! Questa si può fare solo in acciaio: ha proprio bisogno di quella resistenza in più."
+		""
+		"  Il &bPacker&r può eseguire per te semplici fabbricazioni. Puoi &6automatizzare Double Ingot, tubi, molti tipi di mattoni e altro&r! Controlla in EMI per altre ricette."
+	]
+	quest.3143EA7DF096CE61.title: "Steel Packer"
+	quest.3357A8B614D477B6.quest_desc: [
+		"  Una nuova macchina, la sorellina del &bPacker&r! Anche questa si può fare solo in acciaio: ha proprio bisogno di quella resistenza in più."
+		""
+		"  &6L'Unpacker può eseguire per te semplici fabbricazioni, come trasformare le polveri in tiny dust&r. Controlla in EMI per altre ricette."
+	]
+	quest.3357A8B614D477B6.title: "Steel Unpacker"
+	quest.39CF27CAC4EE33DB.quest_desc: [
+		"- Fai &6clic destro&r su &9acqua ferma&r o &9acqua corrente&r per riempirla."
+		""
+		"- Inserisci il &8combustibile&r nella &bChainsaw&r con il &6clic destro&r."
+		""
+		"- Attiva o disattiva la modalità &eSilk Touch&r con &6Shift sinistro&r + &6clic destro&r."
+	]
+	quest.39CF27CAC4EE33DB.quest_subtitle: "Brrrr!"
+	quest.39FCE3168C26B863.quest_desc: [
+		"  Quando avrai una scorta di questo &bcarbone super potenziato&r, potrai iniziare ad allontanarti dalle tue macchine di bronzo. Sono lente e di un arancione così acceso da accecare."
+		""
+		"  Fare il &bCoal Coke&r significa semplicemente scaldare il &bcarbone&r in assenza di ossigeno. Così non brucia e subisce un processo di distillazione distruttiva. Una volta ottenuto, potrai iniziare a lavorare l'&bacciaio&r e le macchine d'acciaio, che velocizzano le lavorazioni al prezzo di un maggiore consumo di vapore."
+		""
+		"  &6Presto punterai a costruire una &bQuarry&r che scavi al posto tuo&r. Immagina di non dover mai più andare a cercare minerali!"
+	]
+	quest.39FCE3168C26B863.title: "Coke"
+	quest.3F0097CCBA02804C.quest_desc: ["La &bLarge Steam Furnace&r può &6fondere&r ricette in lotti da un massimo di 8, con il &a25%&r di riduzione del costo in &eEU&r. Tieni presente che &cnon&r mescola ricette diverse: &odevono&r essere dello stesso tipo. Altrimenti ogni tipo di ricetta verrà &6diviso&r nel proprio lotto da un massimo di 8."]
+	quest.3F0097CCBA02804C.quest_subtitle: "Più grande è, meglio è!"
+	quest.439D48E9647FC8C2.quest_desc: [
+		"  Le macchine a vapore hanno bisogno, beh, di &bSteam&r! Per ottenerlo devi costruire uno &bSteam Boiler&r! Lo &bSteam Boiler&r consuma gradualmente quasi qualsiasi &6combustibile&r tu gli dia per scaldarsi. Quando raggiunge una temperatura abbastanza alta, inizia a produrre &bSteam&r a patto che ci sia dell'&bacqua&r nel suo &6serbatoio interno&r; altrimenti sprecheresti solo combustibile."
+		""
+		"  Oppure puoi mettere un &bSecchio d'acqua&r in una &bfornace&r per ottenere un &bSteam Bucket&r. In questo mondo sembra che i contenitori di fluidi conservino qualsiasi fluido al loro interno, con una temperatura costante e legato al contenitore che lo racchiude; quindi non preoccuparti che condensi tornando in acqua o che fugga via. Con lo &bSteam&r già pronto, prima ancora di avere la caldaia, puoi costruire un &bCompressor&r per risparmiare sulle &bBronze Plates&r."
+		""
+		"  Al momento può sembrare un po' costoso, ma ricorda che con il &bForge Hammer&r puoi praticamente triplicare i tuoi minerali. Senza contare che col tempo, quando avrai le tue prime due macchine, costerà meno della metà di prima!"
+		""
+		"  Il &bBoiler&r inizierà automaticamente a produrre &bSteam&r e a inviarlo alle macchine adiacenti o ai tubi collegati, &6fino a 8 millibucket per tick.&r"
+		""
+		"  Le macchine di bronzo possono elaborare solo ricette fino a 2 unità di energia per tick. Usando le macchine lo vedrai scritto come \"2 EU/t\". 1 millibucket di vapore equivale a 1 EU; io per primo sono contentissimo che sia una conversione così semplice, perché la matematica non fa per me. Quando il tuo &bBoiler&r è alla temperatura massima, può rifornire di &bSteam&r 4 macchine contemporaneamente! Ora sì che &oquesto&r è caldo."
+	]
+	quest.439D48E9647FC8C2.title: "Bronze Boiler"
+	quest.43DB398322EF99BD.quest_desc: [
+		"La &bSteel Alloy Smelter&r ti permette di creare &9leghe&r da due lingotti diversi &osenza&r dover prima &6mescolare&r le polveri in un &bMixer&r. Controlla nel tuo &dEMI&r quali leghe si possono fare in questo modo."
+		""
+		"Puoi anche usare qualsiasi &6combinazione&r di quantità uguali di risorse per creare una lega, per esempio &anove&r tiny dust + &anove&r pepite."
+		""
+		"Quello che &onon&r puoi fare è &anove&r tiny dust + &aun&r lingotto, perché le quantità sono diverse."
+	]
+	quest.43DB398322EF99BD.quest_subtitle: "&eDue&r materiali mescolati insieme per fare &6leghe&r."
+	quest.45F0194CF3DCA5DD.quest_desc: [
+		"  La &bLignite&r è un &bcombustibile&r davvero abbondante che si può &6trovare&r nel mondo. È praticamente &bcarbone&r, ma marrone. "
+		""
+		"  Ha un contenuto di carbonio più basso pur &6bruciando&r quanto il &bcarbone&r; si forma anch'essa allo stesso modo."
+		""
+		"  Questo significa che puoi tenere il vero &bcarbone&r per altri &6progetti&r o &6ricette&r e usare la &bLignite&r per &6alimentare&r la tua &bSteam Mining Drill&r."
+	]
+	quest.45F0194CF3DCA5DD.title: "Lignite Coal"
+	quest.469641436BC858D3.quest_desc: [
+		"  Hai letto il &blibro&r? Beh, ti faccio comunque un riassunto di questo &6viaggio tecnologico&r; mi ringrazierai."
+		""
+		"{image:modern_industrialization:item/guidebook width:32 height:32 align:center}"
+		"  Quello che farai è praticamente &o&aModern Industrialization&r&r, con una marea di meccaniche diverse, dalla &blogistica&r alla &6distillazione&r, fino alla &6automazione totale&r. Ti faccio alcuni &6esempi&r:"
+		""
+		"  Avrai a disposizione potenti &bstrumenti di logistica&r come gli &boggetti multiparte&r e i &bFluid Pipe&r, oltre ai &bcavi energetici&r. Questo significa che fino a tre di ciascuno possono stare in un &bsingolo blocco&r!"
+		""
+		"  Non dovrai più andare a cercare risorse, perché potrai costruire &bQuarry&r per la generazione continua di risorse!"
+		""
+		"  Prima o poi dovrai &6alimentare&r tutte le tue &bmacchine&r, a &bSteam&r o no. Dovrai usare lo &bSteam&r e il &bpetrolio&r trasformato in &bDiesel&r tramite &6distillazione&r, la &6fissione nucleare&r e, come dominio meccanico totale, la &6fusione&r. Puoi aumentare la velocità di trasferimento dell'energia usando &bvoltaggi più alti&r."
+		""
+		"  Non vuoi più mettere insieme &6a mano&r un &bingranaggio&r, un &bmartello&r o un'&basta&r? Meno male che questo è un mondo che puoi progettare a modo tuo. Potrai costruire una macchina per quasi tutto! L'automazione totale è del tutto possibile, e puoi farla mentre voli in giro con una &bGravi-Chestplate&r."
+		""
+		"  &aSei pronto per il viaggio della tua vita?&r &cÈ ora di partire!&r"
+		""
+		"  &6P.S.&r Se ti blocchi con una macchina, tieni in mano la tua &bGuide Book&r mentre &6passi il mouse&r su una &bmacchina&r o un &bmultiblocco&r. Ti darà qualche &binformazione in più&r."
+	]
+	quest.469641436BC858D3.title: "Modern Industrialization"
+	quest.4722157BC8D3B965.quest_desc: [
+		"  Un elegante rivestimento di bronzo con una lama rotante micidiale all'interno ti darà &6rese di taglio ancora migliori&r di quelle che hai mai ottenuto con il tuo &bForge Hammer&r. &aÈ il momento di fare altri bulloni, ingranaggi, anelli e barre!&r"
+		""
+		"  Ricorda solo che non si taglia gratis. Questa macchina funziona a &bSteam&r e usa il &bLubricant&r per tagliare in modo pulito senza surriscaldarsi. Il &bLubricant&r si produce nel &bMixer&r, usando &bredstone&r e uno dei vari idrocarburi. Ti consiglio di dare un'occhiata ai prodotti del &bCoke Oven&r. Potresti trovare qualcosa da &6mescolare&r con la &bredstone&r!"
+	]
+	quest.4722157BC8D3B965.title: "Bronze Cutting Machine"
+	quest.475DC864A0BC0F1F.quest_desc: [
+		"  Come detto prima, puoi potenziare le tue macchine di bronzo trasformandole in macchine d'acciaio."
+		""
+		"  Fabbrica lo &bSteel Upgrade&r e installalo su qualsiasi macchina di bronzo &6usando un banco da forgiatura o un Packer&r."
+	]
+	quest.475DC864A0BC0F1F.title: "Macchine più veloci?"
+	quest.47A8E5DC11E846C5.quest_desc: [
+		"  Prima ancora di poter fare il &bbronzo&r, dovrai costruire un &b&oForge Hammer&r. È praticamente un'&bincudine&r più grande, ma con la parte superiore piatta, quindi non potrai usarlo come incudine."
+		""
+		"  Usalo per fare le basi, come &bpiastre&r e &baste&r. Però &6battere&r il &bForge Hammer&r con un &blingotto&r può essere molto &6inefficiente&r e ne ricaverai &6meno&r dal tuo &blingotto&r a causa del metallo &6danneggiato&r o &6scheggiato&r."
+		""
+		"  Se &6fabbrichi&r uno dei vari &bmartelli&r, &6aumenterai l'efficienza&r e la resa; in altre parole, il rapporto aumenta. Una volta usato un &bmartello&r, si apriranno altre lavorazioni per quel &blingotto&r. Usa le risorse con intelligenza, perché il &bmartello&r non dura per sempre: la sua durabilità &6cala&r fino a farlo rompere."
+		""
+		"  Puoi anche usare il &bForge Hammer&r per ricavare più &bminerali grezzi&r dai tuoi &bminerali&r. Anche qui, usare il &bmartello&r ti darà &6di più&r a costo di durabilità."
+	]
+	quest.47A8E5DC11E846C5.title: "Il Compressor dei poveri"
+	quest.4A5466E364B85AEF.quest_desc: [
+		"  Più scuro e più figo del ferro... e circa 1000 volte più resistente. È ora di fare un po' di &bacciaio&r! Usa quel Coke che hai prodotto prima e riducilo in polvere. Poi combinalo con la Iron Dust per ottenere la tua &bUncooked Steel Dust&r. Ricorda, &6usare il &bMixer&r aumenta la resa.&r"
+		""
+		"  Ora, ricorda che l'acciaio migliore deve passare dal fuoco più caldo; quindi useremo la &6Steam Blast Furnace&r per raggiungere le temperature estreme necessarie a fondere la miscela in polvere e a unirne i componenti."
+		""
+		"  Ora che hai l'acciaio, puoi potenziare le tue macchine di bronzo con le &bSteel Machine Upgrades&r. Le macchine d'acciaio possono elaborare ricette fino a 4 EU/t e &6le elaborano al doppio della velocità normale&r finché il consumo di energia non supera 4 EU/t. Con questo tetto di consumo più alto, forse ora puoi fare cose nuove."
+	]
+	quest.4A5466E364B85AEF.title: "&7Il tuo primo acciaio!"
+	quest.4D5787F48ECCB000.quest_desc: [
+		"La &bSteel Brewery&r può &6preparare automaticamente&r &aquattro&r pozioni alla volta, a una velocità decisamente superiore a quella di un normale alambicco."
+		""
+		"Ricorda che richiede &eBlazing Essence&r al posto della &6polvere di blaze&r."
+	]
+	quest.4D5787F48ECCB000.quest_subtitle: "Prepara &e4&r pozioni alla volta."
+	quest.50BFFEAF92B72965.quest_desc: [
+		"  Il &bCoke Oven&r è una grande struttura, più grande di un singolo blocco. Questa &6struttura multiblocco&r serve a prendere &bcarbone&r o &bCoal Dust&r e scaldarli in un luogo privo d'aria, producendo &bCoal Coke&r e, ogni tanto, un po' di &bCreosote Oil&r. Il &bCreosote Oil&r si può usare per produrre il &bLubricant&r, mentre il &bCoal Coke&r serve per i &bLingotti d'Acciaio&r oppure come potente &6combustibile&r che dura 4 volte di più!"
+		""
+		"  Il blocco &bCoke Oven&r qui ha il ruolo di &6controller centrale&r. Ci piazzerai attorno altri blocchi seguendo uno schema che alla fine costruirà il multiblocco completo."
+		""
+		"  Ogni multiblocco è gestito da un controller, ma di solito non puoi interagire direttamente con il controller: lo fai attraverso gli &6hatch di ingresso e di uscita&r che piazzi in certi punti del multiblocco. "
+		""
+		"  Ti servirà un &bFluid Input Hatch&r per fornire &bSteam&r che alimenti il &bCoke Oven&r, un &bItem Input Hatch&r per inserire il &bcarbone&r e un &bItem Output Hatch&r per far uscire il &bCoke&r. Un &bFluid Output Hatch&r non è obbligatorio: il multiblocco funziona anche senza, ma con quello puoi estrarre il &6Creosote  Oil&r dal &bcarbone&r. Normalmente, se non hai gli hatch giusti in numero sufficiente, il multiblocco non funziona."
+		""
+		"  Se tieni in mano un &bWrench&r, dopo aver piazzato il blocco controller comparirà una proiezione dei blocchi necessari per il resto del multiblocco. Ogni blocco olografico scomparirà se piazzi il blocco giusto, oppure diventerà rosso se il blocco in quella posizione è sbagliato."
+		""
+		"  Se tieni in mano un hatch, vedrai delle posizioni evidenziate in verde dove puoi metterlo. Se piazzi l'hatch fuori da quelle posizioni, il multiblocco non lo riconoscerà."
+		""
+		"  Quando il controller del &bCoke Oven&r indica che la sua forma è valida, puoi &6inserire&r &bSteam&r attraverso il &bFluid Input Hatch&r. Mettendo &bcarbone&r o &bCoal Dust&r nell'&bItem Input Hatch&r, il &bCoke Oven&r si accenderà e inizierà a produrre. Se non funziona, ripercorri i tuoi passi e scopri cosa è andato storto."
+	]
+	quest.50BFFEAF92B72965.title: "Coke Oven"
+	quest.5676B5FD97FB10C3.quest_desc: [
+		"  Questa è la &bBronze Furnace&r e, anche se è lenta quanto la normale &bfornace&r, la differenza è che questa &6usa &o20&r&6 volte meno combustibile&r!"
+		""
+		"  Ringrazia lo &bSteam&r per essere così efficiente!"
+	]
+	quest.5676B5FD97FB10C3.quest_subtitle: "È ora di fondere!"
+	quest.5676B5FD97FB10C3.title: "Bronze Furnace"
+	quest.62B245A23CA62678.quest_desc: [
+		"  I &btubi&r che &6fabbricherai&r per &6trasportare&r i tanti &bliquidi&r e &bgas&r &6possono contenere un solo&r tipo di &bfluido&r alla volta e &6non&r si collegano direttamente ai &btubi&r &6vuoti&r né ai &bcontenitori&r e alle &bmacchine&r in automatico, quindi usa quel &bWrench&r per &6configurarli&r a dovere."
+		""
+		"  Puoi &6forzare&r un collegamento facendo &6clic destro&r al centro del &btubo&r con il &bWrench&r, oppure facendo &6clic destro&r su un &bblocco&r con un &btubo&r in &bmano&r; però così il &btubo&r &6non viene consumato&r, si limita a collegarsi."
+		""
+		"  &aOgni tick&r, "
+		"il &bFluid Pipe&r &6tenterà&r di &6estrarre&r in modo uniforme da tutti i &bblocchi collegati&r e poi di &6inserire&r il contenuto in tutti gli altri &bblocchi collegati&r. "
+		""
+		"  &aAlcuni altri consigli che potrebbero piacerti&r:"
+		"Usali con astuzia e sfruttali al &6massimo&r: puoi avere fino a &63&r &btubi&r in &bun solo blocco&r per una compattezza definitiva! Per fortuna i &btubi&r di &bcolore diverso&r &6&onon&r si &6collegano&r mai. Infine, il &6clic destro&r su un &btubo&r con il &bWrench&r &6cambia&r il tipo di collegamento, mentre &6Shift + clic destro&r fa cadere il tubo."
+		""
+		"  &cPronto per un bel piatto di spaghetti?&r"
+	]
+	quest.62B245A23CA62678.title: "Trasporto di fluidi"
+	quest.698235E8EC974A7F.quest_desc: [
+		"Questa macchina è più brava del &6Compressor&r a fare &bCurved Plates &re &bRings&r."
+		""
+		"È più &6veloce&r e &6più efficace&r. Fabbrica al doppio della velocità!"
+	]
+	quest.698235E8EC974A7F.quest_subtitle: "Sarà un attrezzo da palestra?"
+	quest.6EF133E0EC49BC33.quest_desc: [
+		"  Flessibile, non conduttiva e resistente. La &bgomma&r sarà una parte fondamentale di ogni macchina elettrica. Puoi produrla &6mescolando&r della &bcarta&r con &bSynthetic Oil&r oppure &bSynthetic Rubber&r. Mescola il &bCoke Dust&r che hai fatto con l'&bacqua&r in un &bMixer&r per produrre &bRaw Synthetic Oil&r. Usa una &bSteam Blast Furnace&r per produrre questi due fluidi. La &bSynthetic Rubber&r è più difficile da ottenere, &6ma darà più gomma per ogni foglio di carta&r."
+		""
+		"  Ricorda che a lungo andare ti serviranno &otantissime&r &bRubber Sheets&r, quindi dovrai produrle di continuo. Nota che puoi &6macinare&r il &blegno&r per ottenere &bWood Pulp&r, che a sua volta si può trasformare in &bcarta&r con una resa elevata."
+	]
+	quest.6EF133E0EC49BC33.title: "Gomma"
+	quest.6F63B60042A7F6AE.quest_desc: [
+		"{image:modern_industrialization:block/machines/compressor/overlay_front_active width:32 height:32 align:center}"
+		"  Questo è il &bCompressor&r, e probabilmente la prima macchina che vorrai costruire. Poter &6trasformare i lingotti in piastre&r in rapporto 1:1 è utilissimo durante l'era del vapore."
+		""
+		"  Risparmi risorse e non dovrai consumare martelli solo per raccogliere abbastanza piastre per il tuo primo progetto."
+		""
+		"  Può anche prendere quei &bDouble Ingots&r che puoi impilare con il Forge Hammer e ricavarne &o2&r piastre, risparmiando vapore e tempo."
+	]
+	quest.6F63B60042A7F6AE.title: "Bronze Compressor"
+	quest.6F6898DC529D1120.quest_desc: [
+		"  Ricordi quando ti dicevo che potevi costruire una &bQuarry&r per non andare mai più a cercare risorse? Beh, è arrivato il momento! Non ti darà &otutto&r, ma ti darà molti dei minerali principali. &oTutto&r il resto verrà dopo."
+		""
+		"  La &bSteam Quarry&r è una macchina multiblocco a vapore che usa varie &6trivelle&r da installarci per scavare più in profondità della roccia di fondo e recuperare i minerali direttamente da sotto, qualunque cosa ci sia là in fondo."
+		""
+		"  Puoi controllare quali minerali ti darà questo metodo guardando in EMI. Ti consiglio di avere più &bSteam Blast Furnace&r in funzione prima di iniziare a costruire la &bQuarry&r, perché &6consumerà MOLTO &r&bacciaio&r."
+	]
+	quest.6F6898DC529D1120.title: "Risorse infinite?"
+	quest.707EBB99AA8F4C57.quest_desc: [
+		"  È il momento di fare il tuo primo filo: lunghi fili di metalli altamente conduttivi per trasportare l'elettricità. &6Puoi combinare questi fili semplici con le tue &bRubber Sheets&r &6per fare i &bcavi&r. "
+		""
+		"  Assicurati di mettere abbastanza gomma attorno ai fili: meglio non prendere la scossa!"
+	]
+	quest.707EBB99AA8F4C57.quest_subtitle: "Fili! Zap!"
+	quest.707EBB99AA8F4C57.title: "Steel Wiremill"
+	quest.71776A6A96EB037C.quest_desc: [
+		"  La &bFire Clay&r è una &6miscela&r di semplice &bargilla&r di fiume e &bBrick Dust&r come agente temperante, poi &6cotta di nuovo&r per indurirla e renderla resistente a temperature estreme."
+		""
+		"  Per ottenere il &bBrick Dust&r puoi usare il tuo vecchio &bForge Hammer&r e &6frantumare&r dei semplici &bmattoni&r. Puoi anche usare altre macchine, come il &bMacerator&r, per rendere il processo più efficiente. "
+	]
+	quest.71776A6A96EB037C.title: "Fire Clay"
+	quest.742A5BB44F257D8E.quest_desc: [
+		"  Gli &bItem Pipe&r funzionano più o meno come i &bFluid Pipe&r, tranne che &6trasportano oggetti e sono molto più configurabili&r. Come i &bFluid Pipe&r, di base non si collegano agli inventari, ma puoi comunque forzare un collegamento. Se fai clic destro su un collegamento senza un &bWrench&r, vedrai un filtro."
+		""
+		"  Questo filtro può contenere molti oggetti diversi contemporaneamente ed è impostato di base come lista bianca. Significa che solo gli oggetti nel filtro verranno trasportati attraverso il collegamento. La lista nera, invece, impedisce il trasporto degli oggetti impostati nel filtro."
+		""
+		"  Gli Item Pipe inseriscono gli oggetti prima nelle destinazioni con priorità più alta e trasferiscono 16 oggetti &6ogni 3 secondi&r, ma si possono potenziare con i &bMotor&r per una portata maggiore."
+	]
+	quest.742A5BB44F257D8E.title: "Trasporto di oggetti"
+	quest.7533E0212EFE326D.quest_subtitle: "Se piazzato rivolto verso un &ealveare&r, il &6miele&r viene estratto in &bforma fluida&r."
+	quest.7593E582FA928061.quest_desc: [
+		"  Questa è la &bCopper Drill&r. Ti darà &6pietra e terra&r, usate soprattutto come materiali da costruzione."
+		""
+		"  Controlla i risultati in EMI e tieni presente che &6la trivella ha una probabilità di rompersi&r, quindi non farne solo una."
+	]
+	quest.7593E582FA928061.title: "Copper Drill"
+	quest.7BDBE300D4B0B1F7.quest_subtitle: "Overdose di farina d'ossa!"
+	quest.7D0CF81F7E703B71.quest_desc: [
+		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
+		""
+		"  Ti stai chiedendo come pompare l'&bacqua&r in automatico? Per fortuna puoi fare quasi tutto quello che vuoi! Una &bWater Pump&r raccoglie automaticamente l'&bacqua&r e la &6trasferisce ai blocchi adiacenti&r. Assicurati di piazzare fonti d'acqua attorno alla pompa in orizzontale, alimentala con &bSteam&r e inizierà a produrre &bacqua&r a 1 EU/t."
+		""
+		"  La &bBronze Water Pump&r produce &6125 mB di &bacqua&r per ogni fonte d'acqua adiacente ogni 5 secondi&r, per una resa massima di 1000 mB ogni 5 secondi."
+	]
+	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
+}

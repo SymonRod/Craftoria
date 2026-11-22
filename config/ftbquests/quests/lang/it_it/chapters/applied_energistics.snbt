@@ -1,0 +1,341 @@
+{
+	quest.000F7897FF9ED7DC.quest_desc: ["Gli stadi di crescita sono &a4&f, proprio come per gli &baggregati di quarzo certus&f. Nei &aprimi tre stadi&f otterrai &bEntro Dust&f, ma nel &aquarto stadio&f puoi ottenere gli &bEntroized Crystals&f."]
+	quest.00237AB9C48C8A9B.quest_desc: ["Il &bCondensatore di materia &fti permette di &6produrre &bsfere di materia&f per il &bCannone di materia&f e di &6produrre &bsingolarità &fal costo di &aentità oggetto&f."]
+	quest.002410CF49E1E14E.quest_desc: ["Fabbrica con gli &bFE Storage Components &fper immagazzinare &4energia&f."]
+	quest.003C38C78609709B.quest_desc: ["Fabbricato nell'&bIncisore&f, l'&bAccumulation Press&f si usa con i &blingotti di roccia del cielo&f per produrre gli &bAccumulation Circuits&f."]
+	quest.011E9553CDCAE218.quest_desc: ["Quadruplichiamo la capacità, eh?"]
+	quest.011E9553CDCAE218.title: "Componente per immagazzinaggio da 4k ME"
+	quest.0547229FF5334CF5.quest_desc: ["L'&bInterfaccia ME&f si comporta come un baule: puoi &aimpostare un oggetto o un fluido &fdentro l'&bInterfaccia ME&f e lei preleverà quell'oggetto dalla&5 rete &fper tenerne sempre una scorta."]
+	quest.05B2AA73EAEDCCF4.quest_desc: [
+		"Questi &bExport Buses&r hanno funzioni più avanzate rispetto al normale &bBus esportatore ME&r."
+		""
+		"Il &bTag Export Bus&r esporta gli oggetti dai tag filtrati."
+		""
+		"Il &bMod Export Bus&r esporta gli oggetti dalle mod filtrate."
+		""
+		"Il &bPrecise Export Bus&r esporta l'esatta quantità di oggetti che imposti, né più né meno."
+		""
+		"Il &bThreshold Export Bus&r esporta gli oggetti quando la quantità è sopra o sotto la soglia impostata."
+	]
+	quest.05B2AA73EAEDCCF4.title: "Advanced Export Buses"
+	quest.05E7C7E41BA79426.quest_subtitle: "Carica quadrupla"
+	quest.0633D2B1E1DB778B.quest_desc: ["Si ottiene &6fondendo &bpolvere di quarzo certus&f; il &bsilicone&f serve per 3 processori diversi che ti occorrono per andare avanti."]
+	quest.0633D2B1E1DB778B.title: "Silicone"
+	quest.06D66E791A9939DD.quest_desc: ["Costruisci un &bCaricatore&r e alimentalo con una &bCamera vibrante&r o con i generatori di altre mod."]
+	quest.06D66E791A9939DD.quest_subtitle: "Permette di caricare gli attrezzi compatibili tramite la rete ME"
+	quest.06D66E791A9939DD.title: "Caricatore"
+	quest.09B10C121C7E9023.quest_desc: ["Serve a fabbricare gli &bME Energy Storage Components&f e altri accessori."]
+	quest.0B94435972292812.quest_desc: [
+		"La &bPorta IO per spazio &fè il cuore del &bsistema di digitalizzazione spaziale&f. Si piazza nel vertice in cui si incontrano tutti e 3 i &bspigoli di piloni&f. È qui che metti il &bdrive spaziale &fe gli fai &6catturare una costruzione o rilasciarla&f. È anche il blocco da alimentare quando carichi il sistema."
+		""
+		"Puoi anche interagire con la &bPorta IO per spazio con tramogge&f o altri metodi di trasporto per automatizzare il processo, se vuoi. Alla &bPorta IO per spazio&f basta un &6segnale di redstone&f per attivarsi. Stai attento!"
+	]
+	quest.0B94435972292812.title: "Porta IO per spazio"
+	quest.0B98E8AC5CFB0FC2.quest_desc: ["Si ottiene quando lasci che i tuoi&b Entroized Clusters &acrescano&f fino allo &astadio massimo&f."]
+	quest.0FA3C7049E71EA4A.quest_desc: ["Hai intenzione di mettere su una &bQuarry&f a breve?"]
+	quest.0FA3C7049E71EA4A.title: "Componente per immagazzinaggio da 64k ME"
+	quest.123F10122DCC72F9.quest_desc: [
+		"Aggiungendo una &bCompression Card&r alla tua &bBulk Storage Cell&r, questa comprime automaticamente oggetti e blocchi ai livelli di compressione più alti."
+		""
+		"Es. pepite -> lingotti -> blocchi"
+		""
+		"Ti servirà anche un &bDecompression Module&r da qualche parte nella tua rete per decomprimere automaticamente gli oggetti quando servono."
+		""
+		"NOTA: il &bDecompression Module&r &lDEVE&r stare nella stessa rete della tua fabbricazione automatica, altrimenti i tuoi fabbricatori automatici non vedranno quegli oggetti."
+	]
+	quest.123F10122DCC72F9.title: "Compressione delle Bulk Cell"
+	quest.13600E981D85B79D.quest_desc: ["Necessarie per la fabbricazione automatica, perché contengono gli oggetti e i fluidi usati nelle fabbricazioni."]
+	quest.13600E981D85B79D.title: "Memoria di fabbricazione"
+	quest.15008EFBA92CC3DC.quest_desc: [
+		"Puoi aprire la guida di AE2 tenendo premuto G su quasi qualsiasi oggetto di AE2."
+		""
+		"Ecco anche un oggetto &bGuida&r gratuito, nel caso ne volessi uno."
+	]
+	quest.151E812270A52250.quest_desc: ["Le &6Unità di fabbricazione&f servono a fabbricare le &bUnità co-processore per fabbricazione&r e le &bmemorie di fabbricazione&b."]
+	quest.151E812270A52250.title: "Unità di fabbricazione"
+	quest.1523A200F5E4361B.quest_desc: ["L'&bExtended Inscriber &fpermette di eseguire &aquattro lavorazioni &fcontemporaneamente."]
+	quest.1607D3C2384B6CFF.quest_desc: ["L'&bAccumulator Processor&f serve per tutti i &bMEGA Storage Components&f."]
+	quest.17E8751018E9E0F6.quest_desc: ["Uguale a quella di prima, ma con una capacità otto volte maggiore. Non scaricarla per sbaglio! Potrebbe far male."]
+	quest.17E8751018E9E0F6.title: "Cella densa di energia"
+	quest.18956DB32D96ED2B.quest_desc: ["Già un potenziamento? Vuoi portarti dietro casa? Buona idea! Le tende fanno venire il mal di schiena."]
+	quest.18956DB32D96ED2B.title: "Componente per spazio da 16³"
+	quest.18D6860E893D80D2.quest_desc: [
+		"Ti permette di &aspostare gli oggetti&f dalle tue &bcelle di immagazzinaggio &fin altre &bcelle di immagazzinaggio&f. "
+		""
+		"Utile se vuoi &acomprimere gli oggetti&f nelle &bcelle &fo svuotare le &bcelle &fper farne di più grandi."
+	]
+	quest.19A2B9A9862C59F2.quest_desc: [
+		"Serve a &aimpacchettare e spostare&b i drive &fsenza&a rimuovere&f le&b celle di immagazzinaggio&f."
+		""
+		"Funziona sulla maggior parte dei blocchi di AE2."
+	]
+	quest.19C33613F2811BAA.quest_desc: ["Il &bTerminale ME&f ti permette di accedere al tuo &bdeposito&f, ma si può potenziare."]
+	quest.19C33613F2811BAA.title: "Terminale"
+	quest.1B1ED97DF0FE2E3C.quest_desc: ["Il&b Bus di immagazzinaggio&f ti permette di usare un baule o un altro contenitore come deposito a cui la &5rete &fdel tuo &bsistema ME&f si collega, invece di una &bcella di immagazzinaggio&f."]
+	quest.1C7918099D5A55E2.quest_desc: ["La &bConcurrent Press &fsi usa dentro l'&bIncisore &fper fabbricare il &bConcurrent Processor&f."]
+	quest.1EEBC04FABD3B3F2.quest_desc: ["La &bFibra quarzo&f serve a &6trasferire &benergia&f, ma non i &bcanali&f."]
+	quest.1EEBC04FABD3B3F2.title: "Fibra quarzo"
+	quest.20F66D987F15593E.quest_desc: ["Il componente principale per fabbricare le &bFE Storage Cells&r, con cui puoi immagazzinare FE nel tuo sistema ME."]
+	quest.20F99CBAD8D587DA.quest_desc: ["Per ottenere il &bcertus&f devi prima andare al &bmeteorite&f, prendere almeno 5 &bcristalli di quarzo certus&f e &6fabbricare&f 1 &bquarzo di certus gemmante&f. Poi &6piazza&f il &bblocco gemmante &fe aspetta che cresca. Quando i &bcristalli &fcrescono, il &bblocco gemmante &fha una probabilità di &6degradarsi&f fino a diventare un semplice &bblocco di quarzo certus&f, che non crescerà più."]
+	quest.20F99CBAD8D587DA.title: "Quarzo certus"
+	quest.2190034B6F3E2768.quest_desc: ["Sono i componenti principali dei &bdispositivi di ingresso e uscita&f."]
+	quest.2190034B6F3E2768.title: "Il cuore del calcolo"
+	quest.222793DF035B167C.quest_desc: ["Il &bcavo&f più semplice da fabbricare, &6trasporta &benergia&f e &bcanali&f al tuo sistema"]
+	quest.222793DF035B167C.title: "Fluix Cavo di vetro ME"
+	quest.237468FAB20906A8.quest_desc: [""]
+	quest.237468FAB20906A8.quest_subtitle: "Capacità doppia"
+	quest.23CC2667A1269C9C.quest_desc: ["Finora hai usato solo &bdrive &fche contenevano &6dati bidimensionali&f, sotto forma di zeri e uni. Adesso conserviamo &6dati tridimensionali&f, sotto forma di materia grezza. È un tipo di &bdrive&f molto più complesso, quindi sarà costoso e all'inizio non potrai immagazzinare molto. "]
+	quest.23CC2667A1269C9C.title: "Componente per spazio da 2³"
+	quest.24E5FA9129987168.quest_desc: ["Identico al &bTerminale wireless&f, ma con un'&binterfaccia di fabbricazione&f integrata!"]
+	quest.24E5FA9129987168.title: "Terminale di creazione wireless"
+	quest.263FE6D3550CD41C.quest_desc: [""]
+	quest.263FE6D3550CD41C.title: "Aggiornamenti avanzati"
+	quest.2805DA3A1F411588.quest_desc: ["Per &aimmagazzinare &f&4energia&f ti servirà una &bME FE Cell Housing&f."]
+	quest.29CFD0E01542A93D.quest_desc: [
+		"Con una &bQuantum Bridge Card&f puoi accedere al tuo &bsistema ME&f da qualsiasi punto del mondo. Dovrai preparare un &bAnello quantistico ME&f con una &bSingolarità quantistico incrociato&b e un'altra nel tuo &bTerminale wireless&f, dopo aver inserito la &bQuantum Bridge Card&f nel terminale."
+		""
+		"Assicurati che l'&bAnello quantistico ME&f si trovi in un chunk sempre caricato, altrimenti non funzionerà."
+	]
+	quest.2AB5183A0BD8D387.quest_desc: [
+		"Serve a moltiplicare la tua velocità di fabbricazione senza occupare spazio"
+		""
+		"Arriva fino a 1024 co-processori"
+	]
+	quest.2AB5183A0BD8D387.title: "Multi Core Crafting Accelerator"
+	quest.2BB266022C8BFC8C.quest_desc: ["Serve da custodia per contenere il &bMEGA Storage Component&f."]
+	quest.2C92B957A5E8646F.quest_desc: ["Il &bModello vuoto&f serve a &6automatizzare &fle &aricette di fabbricazione&f. Devi &6codificare &fil &bModello vuoto &fnel &bPattern Encoder&f, poi inserirlo in un'&bInterfaccia per modelli ME&f."]
+	quest.2E883FCCA2FB281B.quest_desc: ["Con due &bAnelli quantistici ME&f puoi collegare il tuo &bsistema ME&f a qualsiasi punto del mondo. Collega il primo al tuo &bsistema ME&f e il secondo dove vuoi collegare il tuo &bsistema ME&f. Ti serviranno 2 &bSingolarità quantistico incrociato&f: mettine una in ogni &bAnello quantistico ME&f e saranno collegati tra loro."]
+	quest.2E883FCCA2FB281B.quest_subtitle: "Un'opera d'arte"
+	quest.2E883FCCA2FB281B.title: "Anello quantistico ME"
+	quest.2F6C16939D136BF0.quest_desc: ["Il&b Piano annientatore ME&f &6rompe i blocchi&f e &6raccoglie&6&b gli oggetti&f che si trovano direttamente davanti a sé."]
+	quest.2F6C16939D136BF0.title: "Piani ME"
+	quest.2F993B0F106DB883.quest_desc: ["Serve a fabbricare oggetti usando i vari &bstampi per incisore&f."]
+	quest.2F993B0F106DB883.title: "Incisore"
+	quest.3009C3939976FBD2.quest_desc: ["Il &bTerminale con banco da lavoro&f è la versione potenziata del &bTerminale&f. Ti permette di fabbricare mentre accedi a tutti i tuoi oggetti."]
+	quest.3009C3939976FBD2.title: "Terminale con banco da lavoro"
+	quest.308640ACCC096431.quest_desc: [
+		"Il &bControllore ME &fè il primo grande passo per costruire il tuo &bsistema ME&f. Il &bControllore ME&f deve essere &6alimentato&f, ma non richiede molto."
+		""
+		"Fornisce fino a 32 canali per lato; per usarli tutti devi trasportarli con i &bcavi densi&r, perché i cavi normali ne trasportano al massimo 8."
+		""
+		"NOTA: &lSOLO&r i &bcavi densi&r trasportano più di 8 canali; le &bInterfacce ME&r, le &bInterfacce per modelli ME&r e così via lasciano passare solo 8 canali, anche se collegate a un &bcavo denso&r."
+	]
+	quest.308640ACCC096431.title: "Il centro dell'archiviazione"
+	quest.33F695229D12C6FB.quest_subtitle: "Fai asciugare quella resina"
+	quest.3480351307F0DD04.quest_desc: ["Questi componenti arrivano fino a 256M, ma non ti obbligo a farne di livello più alto."]
+	quest.3504BCE26041D225.quest_desc: [
+		"La &bReaction Chamber &fti permette di &6produrre&b cristalli&r e &blingotti speciali &fdi &bAE2&f al costo di &4POWAH&f."
+		""
+		"Più efficiente delle ricette nel mondo."
+	]
+	quest.35134F538FC7F562.quest_desc: [
+		"Alternativa all'&bAnello quantistico ME&r."
+		""
+		"Ha una portata limitata di 1000 blocchi, a differenza dell'&bAnello quantistico ME&r."
+	]
+	quest.35A5048875097D66.quest_desc: [
+		"Serve a modificare tanti &bmodelli&r in una volta sola."
+		""
+		"Ti consiglio di leggere la &bGuida&r per capire come usarlo."
+	]
+	quest.35CA9D458FD5D791.quest_desc: [
+		"L'&bME Extended Pattern Access Terminal &faggiunge 2 funzioni in più:"
+		""
+		"Prima di tutto aggiunge una barra di ricerca ed evidenzia ciò che stai cercando nel &bTerminale di Accesso Modelli&f."
+		""
+		"In secondo luogo mostra un'evidenziazione &anel mondo&f dell'&bInterfaccia per modelli ME&f che si è bloccata durante le grosse fabbricazioni."
+	]
+	quest.3973F425BD96668A.quest_desc: [
+		"Dovrai fabbricare un &bTerminale per modelli ME&r per poter codificare modelli con le ricette di fabbricazione per il tuo sistema di fabbricazione automatica."
+		""
+		"Il &bTerminale di Accesso Modelli &fè un altro potenziamento del &bTerminale&f. Questo Terminale ti permette di creare un &bmodello&f degli oggetti che vuoi che il tuo sistema fabbrichi."
+	]
+	quest.3973F425BD96668A.title: "Terminale per modelli ME"
+	quest.3A20D522302FE7B9.quest_desc: [
+		"Il &bProcessore logico&f serve proprio all'inizio per ottenere i tuoi primi drive e aggiornamenti."
+		""
+		"I &bProcessori di ingegneria &fservono a fare il &bControllore &fe gli altri componenti per mettere in piedi il tuo primo &bsistema ME&f."
+		""
+		"I &bProcessori di calcolo &fservono per i &bcomponenti di immagazzinaggio&f e per qualche altra cosa."
+	]
+	quest.3A20D522302FE7B9.title: "Processori base"
+	quest.3B82F8F19AF630D5.quest_desc: ["Il&b Bus alternatore ME &fè uguale a un &bcavo di vetro&f, ma serve a &6disattivare temporaneamente&f la parte di sistema a valle quando non è alimentato. &6Alimentandolo &fdati ed energia torneranno a passare."]
+	quest.3B82F8F19AF630D5.title: "Bus alternatore ME"
+	quest.3D9DED933A80CAFA.quest_desc: ["Serve a &6copiare e incollare&r le impostazioni dei &bdispositivi ME&f. Serve anche a &6collegare &ble gallerie P2P ME&f."]
+	quest.3D9DED933A80CAFA.title: "Scheda per la memoria"
+	quest.3E165961635B0C4B.quest_desc: ["Un &6meteorite&r contiene sempre un &bcubo misterioso&r. Quando trovi un &bcubo misterioso&f, devi romperlo per ottenere tutti gli &bstampi per incisore&f."]
+	quest.3E165961635B0C4B.quest_subtitle: "Trova il cubo misterioso"
+	quest.3E165961635B0C4B.title: "Cubo misterioso"
+	quest.3E41681892FA2E44.quest_desc: ["Si usa nelle &bInterfacce per modelli ME&r o nelle &bInterfacce ME&r e fa sì che forniscano energia ai blocchi e ai cavi a contatto."]
+	quest.4047F3E2AD081915.quest_desc: ["L'&bAttrezzo per sistema &fè una &bchiave inglese&f potenziata che mostra le &6informazioni diagnostiche della rete&f e può contenere schede di aggiornamento. Con il &6clic destro&f su una qualsiasi parte di una &brete&f mostra la diagnostica come fa il &bControllore ME&f. Rende anche temporaneamente trasparenti le &bfacciate&f, così puoi trovare i cavi nascosti."]
+	quest.4047F3E2AD081915.title: "Attrezzo per sistema"
+	quest.418659818AD0712B.quest_desc: ["Le &bBulk Storage Cells&f possono contenere una quantità &ainfinita &fdi 1 solo oggetto."]
+	quest.4670BD132DF4A70E.quest_desc: [
+		"Questa è l'ultima CPU di cui avrai mai bisogno: gestisce tutti i lavori di fabbricazione che le assegni."
+		""
+		"Più blocchi &bQuantum Computer Storage&r hai nella struttura, più lavori di fabbricazione può gestire contemporaneamente."
+	]
+	quest.4670BD132DF4A70E.quest_subtitle: "&oTi serve più CPU?"
+	quest.4CD943F9416FB352.quest_desc: ["Questa &bCella di energia &fimmagazzina &benergia&f che il tuo sistema può usare durante i &6blackout&f. Regge anche i &6picchi di richiesta istantanea&f delle macchine che potresti usare più avanti."]
+	quest.4CD943F9416FB352.title: "Cella di energia"
+	quest.4D7F6656A6A38EE0.quest_desc: ["Serve a prelevare &4energia&f dalla&5 rete"]
+	quest.4DAFFFDC31A78665.quest_desc: ["Si fabbrica con un &bblocco di ferro &fin un &bCaricatore &fe serve a fare l'&bEnergy Processor&f."]
+	quest.4E1B3935FC8A1170.quest_desc: ["Un altro 4x! Sei in vena!"]
+	quest.4E1B3935FC8A1170.title: "Componente per immagazzinaggio da 16k ME"
+	quest.4E33ED9C42F906F6.quest_desc: [
+		"Questa cella può contenere sostanze chimiche radioattive, a differenza della normale &bChemical Storage Cell&r."
+		""
+		"Va partizionata prima di poterla usare."
+	]
+	quest.4EC894E7808440AC.quest_desc: [
+		"L'&bExtended Pattern Provider&r contiene il quadruplo dei modelli rispetto a uno normale."
+		""
+		"L'&bExtended Molecular Assembler&r esegue 8 fabbricazioni alla volta al doppio della velocità di uno normale, per un aumento totale di 16 volte della velocità di fabbricazione."
+	]
+	quest.4EC894E7808440AC.quest_subtitle: "Modelli x4, velocità x16"
+	quest.4F6FD689E65509BF.quest_desc: ["La &bScheda base &fè un componente usato per fabbricare gli &baggiornamenti&f."]
+	quest.4F6FD689E65509BF.title: "Scheda base"
+	quest.511E7475AD64A32D.quest_desc: ["L'&bME Crystal Fixer&f può riparare un &bblocco gemmante&f portandolo al livello successivo."]
+	quest.5319FD97D5133E7A.quest_desc: ["Per fabbricare un &bRedstone Crystal&6 getta&b 1 blocco di redstone, 1 polvere di luminite e 1 cristallo di Fluix &fnell'&aacqua &fe goditi la magia."]
+	quest.53A07420D75804AB.quest_subtitle: "Basta caricarlo!!!"
+	quest.54BCC1A0203B2351.quest_desc: ["Se vuoi velocizzare la &6crescita &fdei tuoi &bcristalli&f, puoi &6piazzare &bAcceleratori di Crescita&f adiacenti al &bblocco gemmante&f. L'&bAcceleratore di Crescita&f richiede energia dall'alto o dal basso."]
+	quest.54D178C57E788506.quest_desc: [
+		"L'&bME Caner&f automatizza il &ariempimento di secchi e serbatoi&f con &bfluidi, gas di Mekanism, mana di Botania e POWAH!!!&f"
+		""
+		"NOTA: solo il lato &asuperiore &fe quello &ainferiore&f possono collegarsi alla &5rete &fe all'&4energia&f."
+	]
+	quest.5619683321410B74.quest_desc: ["Altro che casa: ti porti dietro l'intera tana! Ma attenzione, non sarà economico!"]
+	quest.5619683321410B74.title: "Componente per spazio da 128³"
+	quest.59128813386BFDB1.quest_desc: [
+		"Le &bgallerie Point 2 Point (P2P)&f possono essere estremamente complicate, ma allo stesso tempo utilissime. Queste &bgallerie&f permettono di &6trasferire fino a 32 canali da un punto all'altro&f. Ora ti starai chiedendo: \"Ma perché non uso semplicemente un &bcavo denso&f?\""
+		""
+		"E io ti rispondo che puoi! Ma è &6tremendamente inefficiente&f. Quei 32 canali vengono compressi in un solo canale. Questo significa che in teoria puoi far passare &61.024 canali&f attraverso &6un solo cavo denso, invece di soli 32&f."
+		""
+		"Dovrai usare la &bScheda per la memoria&f per &6collegare&f le &bgallerie&f tra loro tramite le frequenze. &6Shift + clic destro &fsulla galleria &b\"d'entrata\" &bimposta la &bscheda per la memoria &fsu quella frequenza. &6Clic destro&f sulla galleria &b\"d'uscita\" &fimposta la &bgalleria &fsulla frequenza di quella &b\"d'entrata\"&f. Tieni presente che puoi avere più gallerie &b\"d'uscita\"&f, purché il totale dei canali usati tra loro non superi il numero di canali immessi nella galleria &b\"d'entrata\"&f."
+		""
+		"Esistono anche diversi tipi di &bgallerie Point 2 Point&f. Oltre a quella che trasporta i &bcanali ME&f, ce ne sono altre che &6trasferiscono &benergia pura&f, &bfluidi&f, &boggetti&f, &bluce&f e perfino &bredstone&f! Funzionano allo stesso modo, tranne per il &btrasporto dei canali&f."
+		""
+		"Ci vuole un po' di pratica, quindi fai prima qualche esperimento. Una volta presa la mano, il tuo &bsistema ME&f avrà un aspetto più che professionale!"
+	]
+	quest.59128813386BFDB1.title: "P2P"
+	quest.5B1D88BFEA39DBAE.quest_desc: ["Per fare i &bcristalli di Fluix &6getta &bcristalli di quarzo certus carichi&f, &bquarzo del Nether&f e &bpolvere di redstone&f in una pozza d'&bacqua &fe aspetta."]
+	quest.5B1D88BFEA39DBAE.quest_subtitle: "Un ingrediente importantissimo "
+	quest.5B1D88BFEA39DBAE.title: "Cristallo di Fluix"
+	quest.5BB4989DC6C5DB7A.quest_desc: ["Usa un &bCaricatore&f per caricare il &bcristallo di quarzo certus&f."]
+	quest.5BB4989DC6C5DB7A.title: "Certus carico"
+	quest.5ECC7F4F5D2591D9.quest_desc: ["La &bScheda avanzata &fè un componente usato per fabbricare gli &baggiornamenti&f."]
+	quest.5ECC7F4F5D2591D9.title: "Aggiornamenti avanzati"
+	quest.61340C2A12FEAA26.quest_desc: ["Il &bDrive ME&f serve a contenere le &bcelle di immagazzinaggio&f."]
+	quest.61340C2A12FEAA26.title: "Drive ME"
+	quest.62FCB2F06126B622.quest_desc: ["Il &bTerminale wireless&f è un &bTerminale normale&f che permette di accedere a un &bsistema ME&b senza fili. Usa un &bPunto d'accesso wireless ME&f per collegare il tuo &bTerminale&f e gli &bAmplificatori wireless&b per aumentare la distanza dal &bPunto d'accesso&f entro cui puoi usare il tuo sistema. Usare più &bPunti d'accesso&f sulla stessa rete in posizioni diverse ti aiuta a coprire un'area più grande."]
+	quest.62FCB2F06126B622.title: "Terminale wireless"
+	quest.6307E15FAAF30712.quest_desc: ["Ti permette di &6creare&b modelli&f che vanno &6inseriti&f in una direzione specifica, per dire attraverso il &bmodello &fda quale lato della macchina importare/esportare."]
+	quest.63327FF2199F01A3.quest_desc: [
+		"Ti servirà per l'accesso wireless al tuo &bsistema ME&f."
+		""
+		"Al tuo &bsistema ME&f puoi collegare anche altri oggetti oltre ai &bTerminali Wireless&f, come i &bBuilding Gadgets&f."
+	]
+	quest.63B54338B8D5823B.quest_desc: [
+		"L'&bApplicatore di colore può essere usato per &6dipingere&b i blocchi colorabili&f: cavi, lana, terracotta, vetro, cemento e qualsiasi altra cosa ti venga in mente&f. Usa &bsfere di vernice o coloranti specifici&b per &6dipingere &fe le &bpalle di neve&6 per togliere la vernice&f. Usa il &bCaricatore&f per caricare l'Applicatore."
+		""
+		"L'&bApplicatore di colore &ffunziona come una &bcella di immagazzinaggio&f, quindi per riempirlo usa il &fBaule ME&f. &6Clic destro &fper applicare un colore e &6rotellina del mouse per cambiare colore tenendo premuto Shift&f. Prova aggiornamenti diversi per vedere se possono migliorare il tuo &bApplicatore di colore&f!"
+	]
+	quest.63B54338B8D5823B.title: "Applicatore di colore"
+	quest.6618D7F353A6FFAD.quest_desc: [
+		"L'&bAssembler Matrix&r può fabbricare centinaia, se non migliaia di oggetti per tick, a seconda di come la configuri."
+		""
+		"Dovresti consultare la &bGuida&r per sapere come costruirla."
+	]
+	quest.6618D7F353A6FFAD.quest_subtitle: "&oEhi, ti serve ancora più velocità di fabbricazione?"
+	quest.6618D7F353A6FFAD.title: "Assembler Matrix"
+	quest.6716C1CE7B7FFA94.quest_desc: ["La &bScheda per capacità &faumenta il numero di slot filtro dei &bbus&f."]
+	quest.6716C1CE7B7FFA94.title: "Aggiornamenti base"
+	quest.6750F4584257BA75.quest_desc: ["Gli &bExtended Buses&f hanno &apiù&f slot per gli aggiornamenti e sono 8 volte &apiù veloci&f."]
+	quest.6750F4584257BA75.title: "Extended Buses"
+	quest.67F060243167F8BF.quest_desc: [
+		"Il &bSky Steel Ingot&f serve a fabbricare le celle &bMEGA Item Storage&f. Si ottiene &6gettando&f &bquarzo certus carico, ferro e roccia del cielo&f nell'acqua."
+		""
+		"Il &bSky Osmium Ingot&f serve a fabbricare le celle &bMEGA Chemical Storage&f. Si ottiene &6gettando&f &bquarzo certus carico, osmio e roccia del cielo&f nell'acqua."
+		""
+		"Il &bSky Bronze Ingot&f serve a fabbricare le celle &bMEGA Fluid Storage&f. Si ottiene &6gettando&f &bquarzo certus carico, rame e roccia del cielo&f nell'acqua."
+	]
+	quest.6976592A2FB069AD.quest_desc: ["Fabbricando con &b4 cristalli di Fluix&f in uno schema 2x2 otterrai un &bblocco di fluix&f."]
+	quest.6ADBF1DFBDF45D7C.quest_desc: [
+		"Si fabbrica con un &bProcessore logico&f, un po' di &bredstone&f e del &bvetro di quarzo&f. "
+		""
+		"Il &bComponente per immagazzinaggio ME&f è il primo passo per contenere tutti i tuoi oggetti."
+	]
+	quest.6ADBF1DFBDF45D7C.title: "Componente per immagazzinaggio da 1k ME"
+	quest.6BE08185BB44CEF8.quest_desc: [
+		"Stesso numero di slot dell'&bExtended Interface&f, ma contiene &a16 volte tanto per slot (1048)&f."
+		""
+		"L'&bME Extended Interface&f contiene 64 oggetti per slot, con il quadruplo degli slot dell'Interfaccia ME normale."
+	]
+	quest.6C8AB8E9A547D1C9.quest_desc: [""]
+	quest.6C8AB8E9A547D1C9.title: "Bus ME"
+	quest.6D18BFC48A82E53E.quest_desc: ["Grazie alla forza di gravità, &6gettando&b 1 lingotto d'oro, 1 lapislazzuli e 1 Entro Dust&f otterrai&b 1 Entro Infused Ingot&f."]
+	quest.6DFA92E319E7DA77.quest_desc: ["Per iniziare la &6fabbricazione automatica&6 devi prima creare un &bmodello&f con un &bTerminale per modelli ME&f, poi &6inserire&f quel &bmodello&f nell'&bInterfaccia per modelli ME&f."]
+	quest.6DFA92E319E7DA77.title: "Interfaccia per modelli ME"
+	quest.6F7A998802C99AD4.quest_desc: ["Sono piloni pensati per delimitare il volume che vuoi immagazzinare nei drive spaziali. Devi usarli per tracciare 3 spigoli di una scatola immaginaria che circonda la costruzione. Ogni linea usa 1 canale e deve essere lunga almeno 2 piloni. Prova a sperimentare con il numero di linee e con il consumo di energia! Potresti riuscire a ottimizzare la digitalizzazione."]
+	quest.6F7A998802C99AD4.title: "Pilone per spazio"
+	quest.70EA0BAAB50E32BF.quest_desc: ["Il&b Circuit Slicer&f è come l'&bIncisore&f, ma fabbrica &a9 oggetti&f alla volta ed è &apiù veloce&f. Ha persino gli slot per gli aggiornamenti."]
+	quest.72481CA0AC8AFD6A.quest_desc: [
+		"Pur somigliando nell'aspetto al &bFluix Cavo coperto ME&r, offrono una funzione diagnostica: visualizzano l'&6uso dei canali&r sui &bcavi&r. I &6canali&r compaiono come linee colorate luminose lungo la striscia nera dei &bcavi&r, così capisci come stai usando i &6canali&r della tua &6rete&r."
+		""
+		"I primi quattro &6canali&r appaiono come linee dello stesso colore del &bcavo&r, i quattro successivi come linee bianche."
+	]
+	quest.72481CA0AC8AFD6A.quest_subtitle: "Il fratello più sveglio"
+	quest.72481CA0AC8AFD6A.title: "Fluix Cavo intelligente ME"
+	quest.7277A0413086D71A.quest_desc: ["&6Clic destro&f su un &bblocco di fluix &fcon una &bEntro Seed&f per trasformarlo in un &bEntroized Fluix Budding&f."]
+	quest.7290F8670BBBF12E.quest_desc: ["L'&bME Active Formation Plane&f funziona come il normale &bPiano di formazione&r, ma preleva blocchi e oggetti dal sistema senza che tu debba inviarglieli. Piuttosto comodo, no?"]
+	quest.72DD0017AC3B1326.quest_desc: [
+		"Il &bCannone di materia&f usa &bsfere di materia &fe diverse &bpepite di metallo&f per &6infliggere danni &fsparandole contro i nemici. Si può caricare nel &bCaricatore &fe ricaricare in un &bBaule ME&f, proprio come una &bcella di immagazzinaggio&f."
+		""
+		"Prova gli &baggiornamenti&f per vedere se qualcuno può rendere il tuo &bCannone di materia migliore&f!"
+	]
+	quest.72DD0017AC3B1326.title: "Cannone di materia"
+	quest.746C3046F10DDD71.quest_desc: ["Non supporta i &6bus&r, quindi prima di usare &6bus&r o &bpannelli&r devi scalare da &bdenso&r a un &bcavo più piccolo&r (come il &bFluix Cavo di vetro ME&r o il &bFluix Cavo intelligente ME&r). Mostra il carico in modo simile al &bFluix Cavo intelligente ME&r: ogni linea illuminata rappresenta quattro &6canali&r in uso."]
+	quest.746C3046F10DDD71.quest_subtitle: "Cavo a capacità maggiore. Trasporta 32 canali"
+	quest.746C3046F10DDD71.title: "Fluix Cavo denso ME"
+	quest.75810CDFB362E0CB.quest_desc: [
+		"Si &6fabbricano&r provocando una &6reazione&r tra una &bperla di ender&r o una &bpolvere d'omega&r e una &bsingolarità&r. Qualsiasi &6forza esplosiva&r dovrebbe bastare a innescarla."
+		""
+		"Va bene quasi qualsiasi &6esplosione&r, anche quella dei &acreeper&r."
+		""
+		"Vengono sempre prodotte in &6coppie abbinate&r: per creare un collegamento metti 1 delle due &bsingolarità quantistico incrociato&r nella &bCamera di collegamento quantistico ME&r del ponte su ciascun lato."
+		""
+		"Potrebbe essere una &6buona idea&r dare loro un &bnome&r appena le crei, usando l'&bincudine&r di Minecraft."
+	]
+	quest.75810CDFB362E0CB.quest_subtitle: "Crea un collegamento!"
+	quest.75810CDFB362E0CB.title: "Singolarità"
+	quest.75FE996305813D68.quest_desc: ["Per trovare un &6meteorite&r dovrai fabbricare la &bBussola per Meteoriti&r. La &bbussola&f ti indicherà il &6meteorite&f più vicino."]
+	quest.75FE996305813D68.quest_subtitle: "Trova un meteorite"
+	quest.75FE996305813D68.title: "Cos'è quel bòli- sas- meteorite?"
+	quest.77978ED3AC1DFA26.quest_desc: ["&aExtendedAE &fè una mod che serve a &avelocizzare ed ampliare &aAE2 &fper renderlo più veloce e più grande."]
+	quest.79F451F9C8D02A69.quest_desc: ["Ora che hai un &bConcurrent Processor &fpuoi fabbricare altri oggetti che ti aiuteranno in &aExtendedAE&f."]
+	quest.7A7A4553203B4A21.quest_desc: [
+		"Il &bCrystal Assembler&f può &7automatizzare la fabbricazione dei &bBudding Entroized Blocks&f e di vari altri oggetti di&b ExtendedAE&f."
+		""
+		"NOTA: se usi il &bCrystal Assembler&f per fabbricare i &bBudding Entroized Blocks&f otterrai un &alivello inferiore&f rispetto alla fabbricazione manuale."
+	]
+	quest.7AC17F66BB030623.quest_desc: [
+		"Puoi trovare il &bquarzo di certus gemmante&f dentro il &bmeteorite &fo fabbricarlo. Quando lo fabbrichi, il &bblocco gemmante&f ha dei livelli: &bdanneggiato&f, &bscheggiato&f, &bimperfetto&f e &bperfetto&f. Ogni volta che lo rompi, scende di uno stadio. "
+		""
+		"-Quando &6raccogli&f il &bblocco gemmante &fpuoi usare l'incantamento &bTocco di seta &fe otterrai il blocco senza che &6peggiori&f. "
+		""
+		"-Per fabbricare il &bquarzo di certus gemmante &fdevi gettare in acqua un &bblocco di quarzo certus&f e un &bcertus carico&f. Otterrai il &bblocco gemmante&f di primo livello; per &6potenziarlo &f&6rigettalo in &bacqua &fcon un altro &bcertus carico&f, e ancora una volta per il terzo livello. Il quarto livello non si può fabbricare, ne parleremo più avanti."
+	]
+	quest.7AC17F66BB030623.title: "Blocchi gemmanti"
+	quest.7C201074DDBAE831.quest_desc: ["Direi che un intero bioma potrebbe sparire nel tuo &bdeposito ME..."]
+	quest.7C201074DDBAE831.title: "Componente per immagazzinaggio da 256k ME"
+	quest.7C8EF2A739AAC1D7.title: "Custodia per cella ME"
+	quest.7D57C6962950AA98.quest_desc: ["Le &bUnità co-processore per fabbricazione&f servono ad accelerare le fabbricazioni e a permettere di fabbricare più di un oggetto alla volta quando le ricette sono più complesse."]
+	quest.7D57C6962950AA98.title: "Co-processori di fabbricazione"
+	quest.7FEBDFAE021B3C56.quest_desc: ["Utile per fabbricazioni davvero &ogrosse&r."]
+	quest.7FEBDFAE021B3C56.title: "Mega Crafting Storage"
+	task.1BEC4027E735B683.title: "Ti serve una guida?"
+	task.253E536043DBF3EA.title: "Quantum Computer Storage"
+	task.3033BCAB98641150.title: "Advanced Pattern Provider"
+	task.3BC634992A1E9BAD.title: "Osserva: &2un qualsiasi Entro Budding&r"
+	task.7A0371393E813129.title: "Osserva: &2un qualsiasi quarzo di certus gemmante&r"
+}

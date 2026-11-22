@@ -1,0 +1,517 @@
+{
+	quest.048328EEBEEC9C94.quest_desc: [
+		"La &6tuta Anti-Radiazioni&r è indispensabile quando lavori con &amateriali radioattivi&r."
+		""
+		"Il set completo ti protegge dalle &cperdite di radiazioni&r accidentali, tenendoti al sicuro mentre lavori vicino al tuo &dReattore a Fissione&r e ne gestisci le scorie."
+		""
+		"Ti conviene avere il &6set completo&r prima di avvicinarti anche solo un po' alla roba pericolosa."
+	]
+	quest.048328EEBEEC9C94.quest_subtitle: "Resta protetto"
+	quest.048328EEBEEC9C94.title: "Tuta Anti-Radiazioni"
+	quest.04C21F7B2F034772.quest_desc: [
+		"La &bBobina sovraccaricata&r è ciò che trasforma l'ASS in una macchina per l'&bantimateria&r."
+		""
+		"Piazzale al centro interno di ogni faccia, rivolte verso il centro. Concentrano enormi quantità di &benergia&r su una fonte pressurizzata di &bgas Polonium&r, spezzando gli atomi pesanti e producendo &dAntimatter&r."
+		""
+		"Una volta posizionate, l'ASS può finalmente esprimere il suo vero potenziale."
+	]
+	quest.04C21F7B2F034772.quest_subtitle: "Potenza oltre ogni limite"
+	quest.04C21F7B2F034772.title: "Bobina sovraccaricata"
+	quest.0C1C61B4554B38E5.quest_desc: [
+		"Il &bCombinatore&r ti permette di &6combinare oggetti&r per ottenere nuovi materiali utili."
+		""
+		"Puoi combinare una &dgemma&r con della &7pietra&r per creare un &8minerale&r, la &ecera&r con il &6rame&r per proteggerlo dagli agenti atmosferici, mescolare &dtinture&r e molto altro."
+		""
+		"Dai un'occhiata all'&dEMI&r per scoprire tutte le ricette e le possibilità offerte dal &bCombinatore&r."
+	]
+	quest.0C1C61B4554B38E5.quest_subtitle: "Metti insieme i pezzi"
+	quest.0C1C61B4554B38E5.title: "Combinatore"
+	quest.110B0C8DD2FD5BE7.quest_desc: [
+		"Benvenuto in &aMekanism&r, dove le risorse grezze diventano il carburante di un'automazione incredibile."
+		""
+		"&6Creerai&r e &6potenzierai&r potenti &bmacchine&r per lavorare &7solidi&r, &bliquidi&r, &9gas&r ed &eenergia&r su una scala sempre maggiore. Parti in piccolo, poi punta a fabbriche avanzate, enorme generazione di energia e attrezzature high-tech."
+		""
+		"Usa l'&dEMI&r per esplorare &6ricette&r, &bcatene di lavorazione&r e i tanti modi in cui i materiali di Mekanism possono essere trasformati."
+		""
+		"Tieni d'occhio l'&3osmio&r, una delle &3risorse&r più importanti di Mekanism. È la base di molte &a macchine&r, &acircuiti&r e &apotenziamenti&r su cui conterai per tutta la partita."
+		""
+		"Dalla semplice &blavorazione dei minerali&r alla &5fissione&r, alla &5fusione&r e all'&dantimateria&r, c'è tanto da scoprire."
+		""
+		"&6Costruisci più in grande. &bLavora più in fretta. &aSpingi Mekanism al limite.&r"
+	]
+	quest.110B0C8DD2FD5BE7.quest_subtitle: "Sfrutta il potere della tecnologia avanzata"
+	quest.110B0C8DD2FD5BE7.title: "&fBenvenuto in &aMekanism"
+	quest.117C9FABE86447D1.quest_desc: [
+		"Il &bTrasportatore quantistico&r ti permette di &6trasportare&r oggetti, &7liquidi&r, &egas&r, &ccalore&r, &dpigmenti&r, &9melme&r, &atipi di infusione&r ed &6energia&r istantaneamente a qualsiasi distanza."
+		""
+		"Come il &bteletrasportatore&r, collega luoghi lontani senza preoccuparti della distanza che li separa."
+	]
+	quest.117C9FABE86447D1.quest_subtitle: "Logistica istantanea"
+	quest.117C9FABE86447D1.title: "Trasportatore quantistico"
+	quest.17C1F2791A6E0676.quest_desc: [
+		"Mekanism offre vari potenziamenti per personalizzare le tue macchine. Installali dalla scheda &bPotenziamenti&r della macchina oppure usa &6Shift + clic destro&r sulla macchina con un potenziamento in mano."
+		""
+		"&bPotenziamento Velocità&r"
+		"Aumenta la velocità di lavorazione, ma fa salire drasticamente il &econsumo di FE&r. Se ne possono installare fino a &a16&r."
+		""
+		"&ePotenziamento Energia&r"
+		"Aumenta la capacità energetica e riduce il consumo di &eFE/t&r della macchina. Sono particolarmente utili insieme ai &bPotenziamenti Velocità&r."
+		""
+		"&dChemical Upgrade&r"
+		"Migliora l'efficienza delle macchine che consumano gas, riducendone il fabbisogno."
+		""
+		"&7Potenziamento Silenziatore&r"
+		"Riduce il rumore prodotto dalle macchine. Se ne possono installare fino a &a4&r, per silenziarle del tutto."
+		""
+		"&6Filtro&r"
+		"Usato dalla &bPompa elettrica&r per separare l'&9acqua&r dall'&bacqua pesante&r."
+		""
+		"&cPotenziamento di Ancoraggio&r"
+		"Mantiene caricati i chunk delle macchine compatibili, così continuano a lavorare anche quando sei lontano."
+		""
+		"&aPotenziamento Generatore Di Pietra&r"
+		"Dà alla &bScavatrice digitale&r una scorta infinita di &7pietra&r e &8pietrisco&r per la sua funzione di sostituzione."
+		""
+		"Scegli i potenziamenti con cura: una macchina ben bilanciata può essere molto più efficiente di una a cui hai montato solo &bPotenziamenti Velocità&r."
+	]
+	quest.17C1F2791A6E0676.quest_subtitle: "Metti a punto le tue macchine alla perfezione"
+	quest.17C1F2791A6E0676.title: "Potenziamenti delle macchine"
+	quest.17E7640F55666577.quest_desc: [
+		"L'&bEstrattore di pigmenti&r ti permette di prendere quasi qualsiasi oggetto &atinto&r ed &6estrarne il colorante&r."
+		""
+		"Il processo distrugge l'oggetto tinto, lasciando la versione originale &7non tinta&r insieme al colorante estratto."
+	]
+	quest.17E7640F55666577.quest_subtitle: "Dai al colore una seconda vita"
+	quest.1B65CA6898CC3F9E.quest_desc: [
+		"Gli Installatori di Livello ti permettono di potenziare le macchine di &eMekanism&r compatibili direttamente nel mondo, senza smontarle e ricostruirle."
+		""
+		"Basta &6accovacciarti + clic destro&r su una macchina con l'&bInstallatore di Livello&r adatto per trasformarla nella Fabbrica corrispondente."
+		""
+		"Ogni installatore potenzia la macchina di &6un livello&r alla volta:"
+		""
+		"&2Base&r → &cAvanzato&r → &bÉlite&r → &dDefinitivo&r"
+		""
+		"Non si possono saltare livelli, quindi tieni le macchine aggiornate man mano che la tua fabbrica cresce."
+	]
+	quest.1B65CA6898CC3F9E.quest_subtitle: "Potenzia la tua linea di produzione"
+	quest.1B65CA6898CC3F9E.title: "Installatori di Livello"
+	quest.1D482F0D9AF8D17E.quest_desc: [
+		"La &dLega Atomica&r è la lega più resistente e più conduttiva che tu possa creare."
+		""
+		"Si ottiene &6infondendo &5Ossidiana raffinata&r nella &bLega Rinforzata&r, e ne esce un materiale in grado di reggere i macchinari più esigenti."
+	]
+	quest.1D482F0D9AF8D17E.quest_subtitle: "Il massimo della tecnologia delle leghe"
+	quest.1D482F0D9AF8D17E.title: "Lega Atomica"
+	quest.21586F8B123BFCC3.quest_desc: [
+		"Il &bBarile di scorie radioattive&r è un modo semplice per smaltire l'eccesso di &afluidi nucleari&r."
+		""
+		"Col tempo lascia &adecadere&r lentamente le scorie contenute a un ritmo fisso, permettendoti di ridurre in sicurezza le scorie radioattive senza altre lavorazioni."
+	]
+	quest.21586F8B123BFCC3.quest_subtitle: "Una soluzione lenta"
+	quest.21586F8B123BFCC3.title: "Vero potere e vero dolore"
+	quest.21E51BEA3B8E3EDC.quest_desc: [
+		"&8Acciaio&r!"
+		""
+		"Il &bLingotto d'Acciaio&r è uno dei materiali più importanti della tua progressione in &6Mekanism&r."
+		""
+		"Ti servirà per &aquasi tutto&r: dalle &bmacchine&r e dai &bcomponenti&r fino alle &6strutture multiblocco&r più grandi."
+		""
+		"L'acciaio si produce con la &6doppia infusione&r di &7ferro&r con &8carbone&r, poi &6fondendo&r il prodotto ottenuto in un Lingotto d'Acciaio."
+		""
+		"Abituati a farlo. Produrrai un sacco di acciaio."
+	]
+	quest.21E51BEA3B8E3EDC.quest_subtitle: "La spina dorsale di Mekanism"
+	quest.21E51BEA3B8E3EDC.title: "Lingotto d'Acciaio"
+	quest.21EE3862F6DA8E09.quest_desc: [
+		"La &bSegheria di precisione&r è una macchina progettata per lavorare &9tronchi&r e altri materiali a base di legno con &eefficienza estrema&r."
+		""
+		"Come sottoprodotto genera &9segatura&r, un materiale in più da impiegare nelle tue catene di lavorazione."
+	]
+	quest.21EE3862F6DA8E09.quest_subtitle: "Trasforma i tronchi in assi e non solo"
+	quest.21EE3862F6DA8E09.title: "Segheria di precisione"
+	quest.22D2716905D415E5.quest_desc: [
+		"La &bCamera di arricchimento&r è una macchina versatile che &6arricchisce i minerali&r ricavandone due o più &bpolveri&r, e si occupa anche di molte altre ricette utili."
+		""
+		"Puoi usarla per cose come:"
+		""
+		"Trasformare i fiori in polveri"
+		"Togliere il muschio dai blocchi"
+		"Togliere l'ossidazione"
+		"E molto altro!"
+		""
+		"Consiglio: &6arricchisci&r i tuoi &dtipi di infusione&r come carbone, redstone, diamanti e ossidiana raffinata per ottenere più &bmateriale d'infusione&r di quanto ne darebbe la semplice gemma o polvere."
+	]
+	quest.22D2716905D415E5.quest_subtitle: "Trasforma le risorse comuni in qualcosa di più"
+	quest.22D2716905D415E5.title: "Camera di arricchimento"
+	quest.27B6C6079B5FE918.quest_desc: [
+		"Il &bCondensatore rotativo&r ti permette di convertire i &egas&r nella loro forma &bliquida&r, oppure di &6condensare&r i liquidi riportandoli allo stato di gas."
+		""
+		"Usa il &6pulsante&r in alto a sinistra della GUI per passare da una modalità all'altra."
+		""
+		"Questa macchina è particolarmente utile quando una ricetta richiede una sostanza chimica in uno &bstato&r diverso: puoi passare da &egas&r a &bliquidi&r a seconda del bisogno."
+		""
+		"Stessa sostanza. Stato diverso. Più possibilità."
+	]
+	quest.27B6C6079B5FE918.quest_subtitle: "Trasforma i gas in liquidi"
+	quest.27B6C6079B5FE918.title: "Condensatore rotativo"
+	quest.2A68AB7D1EDD44BD.quest_desc: [
+		"Il &bvetro strutturale&r è un blocco versatile che può sostituire la maggior parte dei blocchi di un &emultiblocco&r lasciando la struttura completamente visibile."
+		""
+		"È particolarmente utile per le &bcisterne dinamiche&r: ti fa vedere i fluidi all'interno mantenendo intatta l'intelaiatura esterna."
+		""
+		"Usa il vetro strutturale ovunque tu voglia &6guardare le tue macchine al lavoro&r senza sacrificare la funzionalità."
+		""
+		"Se hai costruito qualcosa di complicato, tanto vale che abbia anche un bell'aspetto."
+	]
+	quest.2A68AB7D1EDD44BD.quest_subtitle: "Guarda attraverso i tuoi multiblocchi"
+	quest.2A68AB7D1EDD44BD.title: "Vetro strutturale"
+	quest.2AB012D0C1DCD827.quest_desc: [
+		"L'&eAbsolute Control Circuit&r porta la circuiteria di &bMekanism&r oltre il livello &6Definitivo&r."
+		""
+		"Fabbricati combinando un &6Circuito di Controllo Definitivo&r con la &eRadiant Alloy&r, questi circuiti sono la base della prossima generazione di &5macchinari di fine partita&r."
+		""
+		"Il livello &eAbsolute&r sblocca potenti fabbriche, sistemi energetici, depositi e, alla fine, il &cSupreme Control Circuit&r."
+		""
+		"&6Un passo più vicino al limite assoluto.&r"
+	]
+	quest.2AB012D0C1DCD827.quest_subtitle: "Precisione assoluta"
+	quest.3392424E7E1B68C4.quest_desc: [
+		"Ti serve una &bcentrifuga&r? Ne vuoi una &apiù veloce&r?"
+		""
+		"Che ne dici di una che &6gira come un razzo&r legato a una &9giostra del parco giochi&r?"
+		""
+		"La &bCentrifuga isotopica&r è la soluzione!"
+		""
+		"Usala per trattare le &ascorie nucleari&r e creare il &dcombustibile fissile&r che alimenta il tuo &cReattore a Fissione&r."
+	]
+	quest.3392424E7E1B68C4.quest_subtitle: "Falla girare"
+	quest.3392424E7E1B68C4.title: "Centrifuga isotopica"
+	quest.34B822EC25F66B54.quest_desc: ["Il &bCompressore di osmio&r serve a &6comprimere&r l'&3osmio&r in certe polveri per &6creare&r i rispettivi lingotti."]
+	quest.34B822EC25F66B54.title: "Compressore di osmio"
+	quest.3B0AB80C9FAD48F2.quest_desc: [
+		"Il &bNucleosintetizzatore antiprotonico&r usa l'&dAntimatter&r per alterare nel profondo la struttura molecolare di certi materiali."
+		""
+		"Dagli gli ingredienti giusti e li trasformerà in varianti più &6potenti&r, sbloccando alcuni dei materiali e dei potenziamenti più forti in assoluto."
+	]
+	quest.3B0AB80C9FAD48F2.quest_subtitle: "Il potere dell'antimateria"
+	quest.3B0AB80C9FAD48F2.title: "Nucleosintetizzatore antiprotonico"
+	quest.3BAA7EC7653A7905.quest_desc: [
+		"La &bCamera di iniezione chimica&r prende &9minerali&r e &cminerali grezzi&r e li lavora con &7cloruro di idrogeno&r ricavandone più &eframmenti&r: è il primo passo verso la &alavorazione dei minerali al 400%&r."
+		""
+		"Ha anche molti altri usi pratici. Usa l'&7ossigeno&r per &cossidare&r certi materiali di rame, trasforma il vapore acqueo in cemento solido, annulla la cottura dell'argilla e riidrata perfino i coralli morti."
+	]
+	quest.3BAA7EC7653A7905.quest_subtitle: "La porta d'ingresso alla lavorazione quadrupla dei minerali"
+	quest.3BAA7EC7653A7905.title: "Camera di iniezione chimica"
+	quest.3F6174E82DDC48C3.quest_desc: [
+		"La &bFonderia elettrica&r è una semplice &6fornace alimentata&r che &6fonde&r oggetti e blocchi trasformandoli nelle loro versioni &7cotte&r."
+		""
+		"È la macchina ideale per fondere in modo più rapido e automatico, senza ricorrere a una fornace tradizionale."
+	]
+	quest.3F6174E82DDC48C3.quest_subtitle: "Fondi la strada verso il progresso"
+	quest.3F6174E82DDC48C3.title: "Fonderia elettrica"
+	quest.40EB78C0AF30096E.quest_desc: [
+		"L'&bInfusore metallurgico&r è una delle prime macchine che farai e introduce una delle meccaniche più importanti di Mekanism: l'&6infusione&r."
+		""
+		"Combina i &bmetalli&r con diversi &dtipi di infusione&r per creare materiali avanzati usati in tutta la tua progressione."
+		""
+		"Prendi confidenza subito con le opzioni di &3configurazione&r della macchina. Per ogni tipo di risorsa puoi stabilire quali lati &aaccettano ingressi&r, &cemettono&r prodotti, &eaccettano energia&r o non fanno nulla."
+		""
+		"La scheda delle &3statistiche energetiche&r mostra informazioni utili sul &econsumo di energia&r della macchina, mentre le impostazioni di &6controllo redstone&r ti permettono di decidere come reagisce ai segnali di redstone."
+		""
+		"Troverai anche la scheda del &btrasporto&r, che lavora insieme ai &btrasportatori logistici&r per &6filtrare&r e &ainstradare gli oggetti&r in automatico."
+		""
+		"Impara le basi adesso, perché queste macchine sono il fondamento di tutto ciò che viene dopo."
+	]
+	quest.40EB78C0AF30096E.quest_subtitle: "Impara i macchinari che fanno funzionare tutto"
+	quest.40EB78C0AF30096E.title: "&eLe basi"
+	quest.41604B0C59094F5E.quest_desc: [
+		"La &bMekaSuit&r è il set definitivo di armatura modulare di Mekanism. A differenza delle armature normali non ha durabilità: funziona interamente a &eFE&r."
+		""
+		"Ogni pezzo si può personalizzare con dei &dmoduli&r usando il &ebanco di modifica&r. I moduli possono dare di tutto: volo e movimento potenziato, nutrizione automatica, protezione dalle radiazioni e potenti capacità difensive."
+		""
+		"La &bMekaSuit&r diventa incredibilmente potente una volta potenziata del tutto, ma ogni abilità costa energia. Tieni l'armatura carica per sfruttarla al massimo."
+		""
+		"E non dimenticare il &bMeka-Tool&r! Questo concentrato di potenza modulare riunisce le funzioni di più strumenti in uno solo, con moduli per l'&6estrazione a vene&r, il &dTocco di velluto&r, il &ccombattimento&r, lo &ascavo&r, la &elavorazione dei minerali&r e altro ancora."
+		""
+		"Entrambi si potenziano al &ebanco di modifica&r, così puoi comporre l'equipaggiamento perfetto per il tuo stile di gioco."
+	]
+	quest.41604B0C59094F5E.quest_subtitle: "Diventa la macchina"
+	quest.41604B0C59094F5E.title: "MekaSuit"
+	quest.4351715A36CA0DA6.quest_desc: [
+		"Il &bLiquificatore nutrizionale&r ti permette di &6macinare&r quasi qualsiasi alimento trasformandolo in &dmistura nutrizionale&r."
+		""
+		"Questa &dmistura nutrizionale&r si può conservare in grandi quantità come &bliquido&r, e così gestire molto cibo senza riempire il deposito di pile di oggetti singoli."
+		""
+		"Puoi anche usare lo slot dedicato per riempire le &bborracce&r di &dmistura nutrizionale&r, così la porti comodamente con te e la consumi quando serve."
+		""
+		"Entra il cibo. Esce la mistura nutrizionale. Nessuna masticazione richiesta."
+	]
+	quest.4351715A36CA0DA6.quest_subtitle: "Trasforma il cibo in carburante"
+	quest.4351715A36CA0DA6.title: "Liquificatore nutrizionale"
+	quest.44D8D30BCD48C4C9.quest_desc: [
+		"Il &bCircuito di Controllo Élite&r è una &bscheda di circuito rivestita di diamante&r con un nucleo pulsante di &cLega Infuse&r."
+		""
+		"Il suo design avanzato regge la &6potenza di calcolo&r necessaria per elaborazioni di un &clivello molto più esigente&r, ed è essenziale per i &bmacchinari di Mekanism di alto livello&r."
+	]
+	quest.44D8D30BCD48C4C9.quest_subtitle: "Potenza per le macchine che fanno sul serio"
+	quest.44D8D30BCD48C4C9.title: "Circuito di Controllo Élite"
+	quest.45E16D69D7099581.quest_desc: [
+		"Benvenuto nell'era dei &btelai in acciaio&r!"
+		""
+		"Da ora in poi la maggior parte delle &bmacchine di Mekanism&r richiederà un telaio in acciaio per &6sostenere&r e racchiudere la &ccircuiteria&r e i &7meccanismi&r interni."
+		""
+		"Sono una parte centrale della tua &6progressione&r, quindi fai l'abitudine a fabbricarli: vedrai tanti telai in acciaio mentre avanzi in Mekanism."
+		""
+		"Niente telaio in acciaio, niente macchina."
+	]
+	quest.45E16D69D7099581.quest_subtitle: "Le fondamenta di ogni macchina"
+	quest.45E16D69D7099581.title: "Telaio in acciaio"
+	quest.462944FD21A92AED.quest_desc: [
+		"La &cLega Infuse&r è la prima lega che produrrai per le tue macchine &6Mekanism&r."
+		""
+		"Si ottiene &6infondendo &credstone&r nel &6rame&r, e ne esce un materiale molto conduttivo usato in tutta la &acircuiteria&r e nei componenti delle macchine di Mekanism."
+		""
+		"Ne fabbricherai parecchie andando avanti, quindi conviene tenere sempre a portata di mano una scorta costante di &credstone&r e &6rame&r."
+		""
+		"Le tue macchine hanno bisogno di circuiti. I tuoi circuiti hanno bisogno di leghe."
+	]
+	quest.462944FD21A92AED.quest_subtitle: "Alimenta i tuoi circuiti con leghe conduttive"
+	quest.462944FD21A92AED.title: "Lega Infuse"
+	quest.478A6A8ADA223AEF.quest_desc: [
+		"La &bBorraccia&r serve a contenere la &dmistura nutrizionale&r e te la fa consumare in movimento."
+		""
+		"Mentre consumi la &dmistura&r, riempie la barra della fame quanto serve, senza sprecare l'eccedenza."
+		""
+		"La &bBorraccia&r può contenere fino a &b64.000 mB&r di &dmistura nutrizionale&r: una scorta enorme di cibo in un solo contenitore."
+		""
+		"Ogni volta che consumi la &dmistura&r vengono usati &b128 mB&r, a prescindere da quanta fame devi recuperare."
+	]
+	quest.478A6A8ADA223AEF.quest_subtitle: "Nutrimento portatile, ovunque tu vada"
+	quest.478A6A8ADA223AEF.title: "Borraccia"
+	quest.4910472BC0B2C21F.quest_desc: [
+		"La &dUU Matter&r è un materiale molto avanzato di &bMekanism: MoreMachine&r, creato manipolando l'&bantimateria&r."
+		""
+		"È una risorsa incredibilmente potente, usata per fabbricare alcune delle macchine e dei materiali più avanzati del pack."
+	]
+	quest.4910472BC0B2C21F.quest_subtitle: "Un materiale oltre la materia"
+	quest.4E4D64D09F7C66A5.quest_desc: [
+		"Il &dCosmic Control Circuit&r spinge la circuiteria di &bMekanism&r oltre i limiti convenzionali."
+		""
+		"Fabbricati combinando un &6Supreme Control Circuit&r con la &dShining Alloy&r, questi circuiti servono per alcuni dei macchinari più &5avanzati&r in assoluto."
+		""
+		"Se pensavi che &6Supreme&r fosse il capolinea, ripensaci."
+		""
+		"&dIl cosmo ti aspetta.&r"
+	]
+	quest.4E4D64D09F7C66A5.quest_subtitle: "Controllo su scala cosmica"
+	quest.5021D7D55A0B3533.quest_desc: [
+		"Benvenuto nella &bChimica&r!"
+		""
+		"La &6lavorazione chimica&r di Mekanism ti permette di trasformare le risorse comuni in potenti &bsostanze chimiche&r, &egas&r e altri materiali utili."
+		""
+		"Lavorerai con di tutto, dalle semplici &breazioni chimiche&r a catene di lavorazione sempre più complesse. Molte delle macchine e delle ricette più avanzate di Mekanism dipenderanno dalle sostanze che produrrai lungo la strada."
+		""
+		"Tieni pronti i tuoi &bserbatoi chimici&r, i &btubi pressurizzati&r e le macchine di lavorazione: le cose stanno per farsi &6instabili&r."
+		""
+		"È ora di mescolare cose che probabilmente non dovresti."
+	]
+	quest.5021D7D55A0B3533.quest_subtitle: "Trasforma le risorse in reazioni"
+	quest.5021D7D55A0B3533.title: "È ora di fare chimica!"
+	quest.508A650402DC24F5.quest_desc: [
+		"Il &bTelaio ASS&r forma la struttura centrale dell'&balteratore di stato supercritico&r, costruito per resistere alle condizioni estreme necessarie a generare &bAntimatter&r."
+		""
+		"È costoso, ma ti servirà se vuoi portare la tua &bproduzione di energia&r al livello successivo."
+	]
+	quest.508A650402DC24F5.quest_subtitle: "Spingi l'energia al limite"
+	quest.508A650402DC24F5.title: "Telaio ASS"
+	quest.51AA69CA71174757.quest_desc: [
+		"Il &cSupreme Control Circuit&r porta la circuiteria di &bMekanism&r a tutto un altro livello."
+		""
+		"Fabbricati combinando un &eAbsolute Control Circuit&r con la &cThermonuclear Alloy&r, questi circuiti sbloccano alcune delle macchine e delle infrastrutture più &5potenti&r disponibili."
+		""
+		"Ma Supreme è tutt'altro che la fine."
+		""
+		"Oltre questo livello ti aspettano i circuiti &dCosmic&r e &zInfinite&r, che spingono la tua tecnologia ancora più in là."
+		""
+		"&6Qui inizia la vera fine partita.&r"
+	]
+	quest.51AA69CA71174757.quest_subtitle: "Il livello successivo del controllo"
+	quest.534B63750942C433.quest_desc: [
+		"Il tuo primo passo nella circuiteria di &6Mekanism&r è il &bCircuito di Controllo Base&r."
+		""
+		"Questi componenti compatti si fabbricano &cinfondendo &3osmio&r con &credstone&r e sono la base di molte macchine e componenti di Mekanism."
+		""
+		"Userai i &bCircuiti di Controllo&r per tutta la partita, con livelli sempre più avanzati che si sbloccano man mano che procedi in Mekanism."
+		""
+		"Falli in quantità. Ti serviranno."
+	]
+	quest.534B63750942C433.quest_subtitle: "Il cervello delle tue macchine"
+	quest.534B63750942C433.title: "Circuito di Controllo Base"
+	quest.550B874D9F2D0D5A.quest_desc: [
+		"La &bScavatrice digitale&r è una macchina da scavo automatica che ti fa raccogliere risorse senza dover estrarre a mano ogni blocco."
+		""
+		"Usa i suoi &efiltri configurabili&r per puntare a &9blocchi&r specifici o a interi tag, ottenendo un controllo preciso su ciò che scava."
+		""
+		"Con un raggio massimo di &a32 blocchi&r puoi coprire un'area considerevole e tenere la raccolta delle risorse completamente automatizzata."
+		""
+		"Devi controllare il tag di un blocco? Ci pensa il tuo &bdizionario&r."
+	]
+	quest.550B874D9F2D0D5A.quest_subtitle: "Scavo automatico"
+	quest.550B874D9F2D0D5A.title: "Scavatrice digitale"
+	quest.566D039774A4DB9D.quest_desc: [
+		"Crea &bPellet di Plutonio&r riutilizzando le &ascorie nucleari&r e combinandole con la &bpolvere di fluorite&r."
+		""
+		"Con questi pellet puoi poi produrre &bFissile Fuel&r, trasformando le tue scorie radioattive in qualcosa di molto più utile."
+	]
+	quest.566D039774A4DB9D.quest_subtitle: "Dalle scorie al combustibile"
+	quest.566D039774A4DB9D.title: "Pellet di Plutonio"
+	quest.59451B5DAD78C46F.quest_desc: [
+		"Il &bDisassemblatore Atomico&r è lo strumento definitivo per smontare blocchi, macchine e quasi tutto ciò che ti intralcia."
+		""
+		"È uno strumento tuttofare dai mille usi, e quando serve fare danni sa sferrare un &cbel pugno&r."
+	]
+	quest.59451B5DAD78C46F.quest_subtitle: "Lo strumento definitivo"
+	quest.59451B5DAD78C46F.title: "Disassemblatore Atomico"
+	quest.5BDE55C11519F7F7.quest_desc: [
+		"La &bCamera di purificazione&r è il primo passo della &alavorazione dei minerali al 300%&r: usa l'&7ossigeno&r per purificare &bminerali grezzi&r, &eframmenti di minerale&r e altri materiali trasformandoli in &cgrumi&r."
+		""
+		"Da qui la tua &9catena di lavorazione dei minerali&r può proseguire con altre fasi per moltiplicare le risorse che ottieni da ogni minerale."
+	]
+	quest.5BDE55C11519F7F7.quest_subtitle: "Il primo passo verso la massima efficienza"
+	quest.5BDE55C11519F7F7.title: "Camera di purificazione"
+	quest.5F95D00149FB24FD.quest_desc: [
+		"La &bCamera di dissoluzione chimica&r prende un &9minerale&r e lo &6scioglie&r chimicamente, separando il materiale utile dalle impurità."
+		""
+		"Il risultato è una &dmelma di minerale&r grezza, pronta per essere pulita e raffinata nelle fasi successive della tua catena di &alavorazione dei minerali&r."
+	]
+	quest.5F95D00149FB24FD.quest_subtitle: "Scomporre il minerale"
+	quest.5F95D00149FB24FD.title: "Camera di dissoluzione chimica"
+	quest.5FFDA262D7693860.quest_desc: [
+		"Crea &aPellet di Polonio&r riutilizzando le &ascorie nucleari&r e combinandole con la &bpolvere di fluorite&r."
+		""
+		"Così puoi trasformare le scorie radioattive in un materiale prezioso per i macchinari &cavanzati&r di &bMekanism&r."
+	]
+	quest.5FFDA262D7693860.quest_subtitle: "Scorie recuperate"
+	quest.5FFDA262D7693860.title: "Pellet di Polonio"
+	quest.60F4F5FE0C3748C3.quest_desc: [
+		"La &dPulitrice chimica&r usa l'&9acqua&r per pulire le &dmelme&r e prepararle alla &bcristallizzazione&r."
+		""
+		"È l'ultima fase della &alavorazione dei minerali al 500%&r: trasforma la melma lavorata nei materiali necessari per la &bproduzione di risorse&r avanzata."
+	]
+	quest.60F4F5FE0C3748C3.quest_subtitle: "L'ultimo passo"
+	quest.60F4F5FE0C3748C3.title: "Pulitrice chimica"
+	quest.622ED4F67300C2F5.quest_desc: [
+		"L'&zInfinite Control Circuit&r è l'apice della circuiteria."
+		""
+		"Fabbricato con un &dCosmic Control Circuit&r e la &6Shining Alloy&r, sblocca i macchinari e le infrastrutture più &5avanzati&r a disposizione."
+		""
+		"Dalle &aInfinite Factory&r ai sistemi &4Infinite Induction&r, questo circuito è la chiave per spingere la tua tecnologia oltre i limiti convenzionali."
+		""
+		"&6Non esiste un livello più alto.&r"
+	]
+	quest.622ED4F67300C2F5.quest_subtitle: "Oltre i limiti"
+	quest.632BE5724D2120EB.quest_desc: [
+		"La &bLega Rinforzata&r è un materiale d'élite che si ottiene &6infondendo&r &bdiamante&r nella &cLega Infuse&r."
+		""
+		"Questa potente lega serve a costruire il livello successivo di macchinari &5Mekanism&r, quindi conviene iniziare a produrne una buona scorta."
+	]
+	quest.632BE5724D2120EB.quest_subtitle: "Rinforza le tue leghe per il livello successivo"
+	quest.632BE5724D2120EB.title: "Lega Rinforzata"
+	quest.6387004E98403CCE.quest_desc: [
+		"Il &bCristallizzatore chimico&r prende la &dmelma di minerale purificata&r e la &9cristallizza&r in cristalli solidi."
+		""
+		"È il passo successivo della tua catena di lavorazione dei minerali: prepara il materiale per ulteriori &6lavorazioni&r e raffinazioni."
+	]
+	quest.6387004E98403CCE.quest_subtitle: "Limpido come un cristallo"
+	quest.6387004E98403CCE.title: "Cristallizzatore chimico"
+	quest.67D5ED5703F35A2D.quest_desc: [
+		"L'&bAttivatore di neutroni solare&r convoglia la &cradiazione neutronica&r del &eSole&r in un serbatoio interno, creando specifici &9isotopi&r."
+		""
+		"Usalo per &6riutilizzare le &ascorie nucleari&r trasformandole in utili &3isotopi radioattivi&r, aprendoti le porte di alcune delle catene di lavorazione più avanzate di Mekanism."
+	]
+	quest.67D5ED5703F35A2D.quest_subtitle: "Trasforma la luce del sole in qualcosa di radioattivo"
+	quest.67D5ED5703F35A2D.title: "Attivatore di neutroni solare"
+	quest.68C8CDDDD7EA8A48.quest_desc: [
+		"Il &bPortello ASS&r è il punto da cui fornisci &brisorse&r al tuo &balteratore di stato supercritico&r e ne recuperi i prodotti."
+		""
+		"Te ne serviranno per collegare l'ASS alla tua infrastruttura e mantenere tutto in movimento."
+	]
+	quest.68C8CDDDD7EA8A48.quest_subtitle: "Collegare l'ASS"
+	quest.68C8CDDDD7EA8A48.title: "Portello ASS"
+	quest.693C902E4E926BB4.quest_desc: [
+		"L'&bOssidatore chimico&r serve a convertire i &bsolidi&r nella loro forma &egassosa&r."
+		""
+		"Dagli il materiale solido adatto e l'ossidatore lo &6ossiderà&r trasformandolo in un gas chimico utilizzabile in ulteriori &blavorazioni&r e reazioni."
+		""
+		"È un passo semplice ma importante verso la &blavorazione chimica&r avanzata, soprattutto quando le ricette iniziano a chiedere gas invece di materie prime."
+		""
+		"A volte il modo più facile di gestire un solido è trasformarlo in gas."
+	]
+	quest.693C902E4E926BB4.quest_subtitle: "Trasforma i solidi in gas"
+	quest.693C902E4E926BB4.title: "Ossidatore chimico"
+	quest.69B079DABB860AEF.quest_desc: [
+		"Il &dCircuito di Controllo Definitivo&r è l'apice della circuiteria di &bMekanism&r, pensato per le macchine e i sistemi più esigenti."
+		""
+		"Fabbricato con &5ossidiana raffinata&r, offre la robustezza e l'affidabilità necessarie quando servono le &cmassime prestazioni&r."
+	]
+	quest.69B079DABB860AEF.quest_subtitle: "Costruito per l'estremo"
+	quest.69B079DABB860AEF.title: "Circuito di Controllo Definitivo"
+	quest.6A382549A4C55A5E.quest_desc: [
+		"Il &cCircuito di Controllo Avanzato&r è il livello successivo di &6circuiteria&r, usato per costruire &cmacchinari avanzati&r più potenti."
+		""
+		"Ne servono parecchi man mano che entri nelle parti più impegnative di &5Mekanism&r."
+	]
+	quest.6A382549A4C55A5E.quest_subtitle: "Il passo successivo verso i macchinari avanzati"
+	quest.6A382549A4C55A5E.title: "Circuito di Controllo Avanzato"
+	quest.703C1F1E9A6F4A9E.quest_desc: [
+		"L'&bInfusore chimico&r ti permette di combinare dei &egas&r per ottenere un nuovo &bprodotto unico&r."
+		""
+		"Dagli i gas richiesti e li farà &6reagire&r insieme, producendo sostanze chimiche utili per &blavorazioni&r più avanzate e per le ricette di &6Mekanism&r."
+		""
+		"Andando avanti incontrerai altre ricette che richiedono di combinare i gas in questo modo."
+		""
+		"Due gas entrano. Un prodotto esce."
+	]
+	quest.703C1F1E9A6F4A9E.quest_subtitle: "Combina i gas per ottenere qualcosa di più grande"
+	quest.703C1F1E9A6F4A9E.title: "Infusore chimico"
+	quest.71DD555551705B17.quest_desc: [
+		"Uno dei primi usi dell'&8acciaio&r è la &bcisterna dinamica&r."
+		""
+		"È un sistema di deposito a &emultiblocco&r pensato per contenere quantità enormi di &bfluidi&r, &egas&r compresi. Costruisci la cisterna più grande per aumentarne drasticamente la capacità."
+		""
+		"Le cisterne dinamiche sono particolarmente utili per rifornire sistemi di &blavorazione&r e di &egenerazione di energia&r su larga scala senza affidarsi a decine di contenitori più piccoli."
+		""
+		"Quando un barile non basta, costruisci una cisterna."
+	]
+	quest.71DD555551705B17.quest_subtitle: "Conserva i tuoi fluidi su larga scala"
+	quest.71DD555551705B17.title: "Cisterna dinamica"
+	quest.740B34D7D1AF3FF0.quest_desc: [
+		"Il &bPolverizzatore&r è una macchina che &6frantuma&r oggetti e blocchi riducendoli in &7polveri&r e altri &9materiali&r."
+		""
+		"È una parte semplice ma essenziale della catena di lavorazione di &5Mekanism&r: ti permette di scomporre le risorse in componenti utili per ulteriori &6lavorazioni&r."
+	]
+	quest.740B34D7D1AF3FF0.quest_subtitle: "Riducilo in pezzi, un blocco alla volta"
+	quest.740B34D7D1AF3FF0.title: "Polverizzatore"
+	quest.79515634992D02A3.quest_desc: [
+		"Ora puoi prendere il gas &dAntimatter&r prodotto dall'ASS e solidificarlo in un &dPellet di Antimateria&r."
+		""
+		"Questo materiale incredibilmente potente serve a fabbricare alcuni dei potenziamenti e delle macchine più &6potenti&r a tua disposizione."
+		""
+		"Benvenuto all'apice della tecnologia di &bMekanism&r."
+	]
+	quest.79515634992D02A3.quest_subtitle: "Domare l'antimateria"
+	quest.79515634992D02A3.title: "Antimateria"
+	quest.7BB4CE27736F4C08.quest_desc: [
+		"Il pezzo finale della tua &bcisterna dinamica&r è la &bvalvola dinamica&r."
+		""
+		"Piazzala in un punto qualsiasi del &emultiblocco&r per accedere al contenuto della cisterna. Ti permette di collegare &6tubi&r e &6condotti&r per &apompare fluidi dentro&r o &cpompare fluidi fuori&r dalla cisterna."
+		""
+		"Aggiungi tutte le valvole che ti servono per tenere in movimento la tua rete di fluidi."
+		""
+		"Riempila, svuotala, automatizzala."
+	]
+	quest.7BB4CE27736F4C08.quest_subtitle: "Controlla il flusso della tua cisterna"
+	quest.7BB4CE27736F4C08.title: "Valvola dinamica"
+	task.2A344C35DC371D0C.title: "Installatori di Livello"
+	task.442ACE1521CFC2A5.title: "Potenziamenti"
+}

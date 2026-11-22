@@ -1,0 +1,380 @@
+{
+	quest.023A420F24C515EB.quest_desc: ["Una versione &8rinforzata&r del &bPressure Tube&r: può essere &2camuffata&r e ospitare dei &bTube Modules&r per fornire &efunzionalità extra&r."]
+	quest.04E6DF90BA2FCACB.quest_desc: [
+		"Questo dispositivo &6converte&r l'&7aria compressa&r in &bForge Energy&r (&9compatibile con RF e con l'energia di molti altri mod&r). "
+		""
+		"Ha una &3efficienza di base&r del &a40%&r, cioè &7100 mL di aria&r generano &b40 FE&r. "
+		""
+		"Gli &bSpeed Upgrade&r &criducono&r leggermente questa &aefficienza&r. "
+		""
+		"Anche il &bDynamo&r &6produce&r &4calore&r, che va gestito per evitare una &cperdita&r di &aefficienza&r."
+	]
+	quest.05E2E87CF3F9A5FB.quest_desc: ["Si fabbrica con &4redstone&r e &cDiesel&r e si usa per lo &bSpeed Upgrade&r."]
+	quest.05E2E87CF3F9A5FB.title: "&6Lubricant"
+	quest.07F1FA5EF3E6A7F3.quest_desc: [
+		"Questa &3sostanza&r si può &6lavorare&r in una &bThermopneumatic Processing Plant&r per &6produrre&r &bKerosene&r oppure &4Lubricant&r, aggiungendo &4redstone&r. "
+		""
+		"Funge da &7carburante liquido&r &adiscreto&r e si può anche &6mettere&r in una &8fornace&r."
+	]
+	quest.07F1FA5EF3E6A7F3.title: "&cDiesel"
+	quest.0B4D059EDFD90B5B.quest_desc: [
+		"Riempi l'&bEtching Tank&r con &2Etching Acid&r e inserisci gli &7Empty PCBs&r che sono stati esposti in una &eUV Light Box&r. "
+		""
+		"Se vuoi, puoi &criscaldare&r il serbatoio sopra i &c50&r gradi Celsius per &evelocizzare&r il processo di incisione, anche se così l'&2Etching Acid&r verrà consumato più in fretta. "
+		""
+		"Estrai gli &bUnassembled PCBs&r dai lati e i &cFailed PCBs&r dalla parte superiore o inferiore del serbatoio."
+	]
+	quest.0D44F37BE787CA30.quest_desc: ["Questa &3sostanza&r si può &6lavorare&r in una &bThermopneumatic Processing Plant&r per produrre &eLPG&r, un &7carburante liquido&r &aeccellente&r, paragonabile per qualità al &7Refined Fuel&r di &3Thermal Expansion&r. "]
+	quest.0D44F37BE787CA30.title: "&6Gasoline"
+	quest.0DDE4F5B0FE265B0.quest_desc: [
+		"I &bPressure Tubes&r trasportano l'&7aria&r tra i &bcompressori&r e le &bmacchine&r e possono essere &2mimetizzati&r per fondersi con l'&aambiente&r circostante. "
+		""
+		"Inoltre, ai &btubi&r si possono &6applicare&r dei &bTube Modules&r che offrono &afunzioni extra&r o &efunzionalità&r aggiuntive."
+	]
+	quest.0E89FB32767F03C0.quest_desc: [
+		"Questa è la normale &bMinigun Ammo&r, senza proprietà speciali. "
+		""
+		"Tuttavia, può essere &6fabbricata&r con una &bPozione&r per conferire all'&bAmmo&r gli &ceffetti della pozione&r."
+	]
+	quest.0F7AEC02C0AC86A2.quest_desc: [
+		"Quando la loro &7pressione&r scende &esotto&r una certa soglia, cercano nella loro area designata una &bCharging Station&r dotata di &bDispenser Upgrade&r; se ne trovano una, si &6ricaricano&r automaticamente prima di tornare al proprio compito. "
+		""
+		"Tutti i &bDrones&r possono essere &6potenziati&r con Speed Upgrade, Volume Upgrade, Armor Upgrade, Standby Upgrade, Security Upgrade e Item Life Upgrade, ma a seconda del tipo di drone si possono &6montare&r altri &bpotenziamenti&r:"
+		""
+		"&aTutti:&r            "
+		"- Speed x 10, Volume x 25, Armor x 15, Standby x 1, Security x 3, Item Life x 10"
+		""
+		"&eCollector:&r    "
+		"- Magnet x 6, Range x 16, Inventory x 35"
+		""
+		"&2Harvester:&r   "
+		"- <n/a>"
+		""
+		"&cGuard:&r      "
+		"- Minigun x 1, Range x 16, Muffler x 4"
+		""
+		"&9Logistics:&r    "
+		"- Inventory x 35"
+	]
+	quest.1246838BA3EEE910.quest_desc: ["Questa &3sostanza&r può essere &6lavorata&r in una &braffineria&r per ottenere vari &7carburanti&r, che a loro volta permettono di produrre la &bPlastic&r. "]
+	quest.12A7971658135C90.quest_desc: [
+		"Una &bSentry Turret&r è un'arma difensiva autonoma che &cspara&r a qualsiasi &2entità vivente&r nel raggio di 16 blocchi quando è &6dotata&r di &bMinigun Ammo&r."
+		""
+		"Il raggio può essere &eesteso&r con i &bRange Upgrade&r."
+		""
+		"Puoi specificare quali &2entità&r attaccare impostando dei &3filtri&r nel campo «&7Target Filter&r». "
+		""
+		"Inoltre, se la &bSentry Turret&r è coperta da una &bSecurity Station&r, i giocatori &6autorizzati&r dalla &bSecurity Station&r non verranno &cpresi di mira&r."
+	]
+	quest.15B6718AFA5E6959.quest_desc: [
+		"&6Estrae&r gli &bSpawner Cores&r dai &bgeneratori di mostri vanilla&r. "
+		""
+		"&cPreparati a una sfida…"
+	]
+	quest.166CEF9F03DA14F6.quest_desc: [
+		"- Infligge &4molto&r più &cdanno&r della normale &bMinigun Ammo&r."
+		""
+		"La sua grande massa comporta una gittata cortissima e fa sì che la &bMinigun&r consumi &7aria&r a un ritmo &6maggiore&r."
+	]
+	quest.16B74C92EB86AD0C.quest_desc: [
+		"&6Versa&r il &7liquido&r nel mondo oppure &braffreddalo&r in un &3inventario&r con un &cHeat Frame&r per &6solidificarlo&r in &bPlastic Sheets&r. "
+		""
+		"Usare un &cHeat Frame&r può dare &arisultati migliori&r."
+	]
+	quest.16B74C92EB86AD0C.title: "&7Molten Plastic"
+	quest.1794E588334CB478.quest_desc: [
+		"Questa macchina usa una &6tecnologia avanzata&r per &7comprimere&r gli &boggetti&r fino a &ddimensioni atomiche&r, permettendole di &6accedere&r direttamente all'&9inventario&r di un giocatore e di &6manipolarlo&r. "
+		""
+		"Gli &boggetti&r possono essere &ainseriti&r e &cestratti&r tramite &btramogge&r, e verranno aggiunti o rimossi dall'&9inventario&r del giocatore che ha piazzato la macchina. "
+		""
+		"Puoi anche usare metodi di inserimento più intelligenti, come i &bDrones&r o i &bLogistics Frames&r, oppure altri mod, per gestire automaticamente l'&9inventario&r del giocatore, per esempio tenendolo sempre rifornito con &e64 torce&r."
+	]
+	quest.17FCD3ECDC775E69.quest_desc: ["- &cPenetrazione dell'armatura"]
+	quest.18E944F145FEBB8C.quest_desc: [
+		"- &4Dà fuoco&r al suo &cbersaglio&r "
+		""
+		"Attenzione: può anche appiccare il &6fuoco&r all'&aambiente circostante&r!"
+	]
+	quest.1A368E5AD57C10E1.quest_desc: [
+		"Questa è una &6versione avanzata&r del &bLiquid Compressor&r. "
+		""
+		"Offre una velocità di generazione &emolto più alta&r, di &750 mL/tick&r, ma produce anche &4calore&r. "
+		""
+		"Man mano che la &ctemperatura sale&r, l'&4efficienza cala&r. "
+		""
+		"La freccia in basso sull'&eindicatore di temperatura&r mostra dove l'&aefficienza&r comincerà a diminuire, mentre quella in alto indica il punto di &e0% di efficienza&r. "
+		""
+		"Contrariamente alle aspettative, questa macchina &cnon esploderà&r nemmeno se la temperatura diventa &4eccessivamente alta&r."
+	]
+	quest.1D249BAAD819E83F.quest_desc: [
+		"Questa macchina &6converte&r la &bForge Energy&r (&9compatibile con RF e con l'energia di molti altri mod&r) in &7aria compressa&r. "
+		""
+		"Funziona con una &eefficienza di base&r del &a40%&r, cioè &b100 FE&r generano &740 mL di aria compressa&r. "
+		""
+		"Usare gli &bSpeed Upgrade&r &cdiminuisce&r leggermente questa &aefficienza&r. "
+		""
+		"Inoltre, il &bCompressor&r produce &4calore&r, che va gestito per evitare una &criduzione&r di &aefficienza&r."
+	]
+	quest.1EC75DB7FA07D06B.quest_desc: [
+		"Questo &9modulo&r sfoga &bl'aria&r &8ad alta pressione&r quando la &7pressione del tubo&r raggiunge i &c4,9&r bar (&c19,9&r per gli &bAdvanced Pressure Tubes&r). "
+		""
+		"Aiuta a evitare le &cesplosioni&r, ma comporta una &cperdita di energia&r e uno &cspreco di carburante&r. "
+		""
+		"Con una &bModule Expansion Card&r puoi &6regolare&r con precisione la soglia di pressione dalla &3GUI&r."
+	]
+	quest.23313676FB186028.quest_desc: [
+		"Per &6ruotare&r i blocchi, fai &6clic destro&r su di essi. "
+		""
+		"Per &6alternare&r il lato corrispondente di un &bPressure Tube&r tra &aaperto&r e &cchiuso&r, fai &6clic destro&r sul tubo. "
+	]
+	quest.2689A56675E12245.quest_desc: [
+		"Questa &3sostanza&r si usa in una &bThermopneumatic Processing Plant&r insieme al &8carbone&r per &6produrre&r &7Plastic&r. "
+		""
+		"È un &7carburante liquido&r &esuperiore&r e si può anche &6mettere&r in una &8fornace&r."
+	]
+	quest.2689A56675E12245.title: "&eLPG"
+	quest.26A44EDA4AABFF6F.quest_desc: [
+		"Il &bCompressed Iron Ingot &fsi fabbrica con un &bLingotto di ferro &f&6gettato &fa terra e &6fatto esplodere &fda&b TNT&f, ma non sempre riavrai tutto quello che hai messo. "
+		""
+		"La perdita prevista è del &c25%&r del &7ferro&r gettato."
+		""
+		"- Richiede il &bCasing&r del livello di cavo in cui convertire (&eLV&r di default)."
+		""
+		"Nota: tenendo premuto &6SHIFT&r sopra qualsiasi oggetto &aPNC&r vedrai la descrizione dell'oggetto."
+	]
+	quest.26A44EDA4AABFF6F.title: "&cBenvenuto &ein &aPNC"
+	quest.29AC06B27D6A53C5.quest_desc: [
+		"Un &bDrone&r preprogrammato che raccoglie gli &boggetti&r in un'area di &e17x17x17&r &7(prima dei potenziamenti di raggio)&r centrata sulla posizione da cui viene lanciato. "
+		""
+		"Questo &bDrone&r ha due &3modalità&r di base, a seconda di dove viene lanciato rispetto al suo inventario di deposito:"
+		""
+		"- Lanciandolo sopra un &9inventario&r, il &bDrone&r &6filtrerà&r ciò che raccoglie, prendendo solo gli &boggetti&r uguali a quelli presenti nell'&9inventario&r al momento del lancio."
+		""
+		"- Lanciandolo a terra accanto a un &9inventario&r, il &bDrone&r &6raccoglierà&r qualsiasi &boggetto&r presente nella sua area."
+	]
+	quest.29B59876D04A3772.quest_desc: [
+		"Questo dispositivo &6genera&r &2mob&r usando la &7pressione&r, aggirando le restrizioni sul &elivello di luce&r e permettendo il &4controllo con redstone&r. "
+		""
+		"Per funzionare richiede uno &bSpawner Core&r. "
+		""
+		"Tieni presente che uno &bSpawner Core&r &7parzialmente vuoto&r comporta una &criduzione dell'efficienza&r."
+	]
+	quest.2B8DFC9987083AF7.quest_desc: [
+		"Questa macchina &6produce&r &7aria compressa&r."
+		""
+		"Per farla funzionare, &6metti&r nello slot del carburante qualsiasi oggetto &8combustibile solido&r che possa &cbruciare&r in una &8fornace&r. "
+		""
+		"Nota che i &7secchi di carburante&r non sono compatibili; per i &7carburanti liquidi&r usa invece un &bLiquid Compressor&r."
+	]
+	quest.2E5D9CB5D821E96A.quest_desc: [
+		"Il tipo di &bPressure Tube&r più &8robusto&r. "
+		""
+		"Questi &btubi&r possono essere &2camuffati&r e possono ospitare dei &bTube Modules&r, che permettono &efunzionalità aggiuntive&r."
+	]
+	quest.325A0651CB2D1279.quest_desc: [
+		"Questa macchina espone gli &cEmpty PCBs&r alla &eluce UV&r, preparandoli alla &6lavorazione&r in un &bEtching Tank&r."
+		""
+		"Un &etempo di esposizione&r più lungo migliora la probabilità di una &aincisione riuscita&r, anche se il processo &7rallenta&r col tempo. "
+		""
+		"Puoi impostare una &3soglia&r per decidere quando un &bPCB&r è considerato &acompletato&r; una &esoglia più bassa&r velocizza la &6lavorazione&r ma aumenta il rischio di &cincisione fallita&r. "
+		""
+		"I &cFailed PCBs&r si possono &2riciclare&r in un &8forno fusorio&r per un altro tentativo."
+	]
+	quest.33CEED6232901CE5.quest_desc: ["&6Usata&r con la &bVacuum Pump&r, questa macchina &6aspirerà&r tutti i &7mob&r vicini e li metterà in uno &bSpawner Core&r; perché funzioni, devi prima &6fabbricare&r uno &bSpawner Core&r e &6inserirlo&r nella &bVacuum Trap&r."]
+	quest.3618C8F2EE6E308F.quest_desc: ["La &bVacuum Pump&r serve a creare una &7tenuta a vuoto&r, usata per la &bVacuum Trap&r. "]
+	quest.3696D20B77DF1B24.quest_desc: [
+		"Il &3componente principale&r di un &bgeneratore di mostri&r."
+		""
+		"&6Inseriscilo&r in un &bPressurized Spawner&r per generare &7mob&r dall'&aessenza&r che contiene. "
+		""
+		"Gli &bSpawner Cores&r presi da un &bgeneratore di mostri vanilla&r contengono l'&aessenza pura&r di una specifica &7creatura&r. "
+	]
+	quest.378A3A640EF06FE5.quest_desc: [
+		"&6Genera&r una grande &7quantità di aria&r dai &efulmini&r. "
+		""
+		"Per informazioni dettagliate, consulta la &3GUI&r o la scheda informazioni dell'&dEMI&r."
+	]
+	quest.38D846A79BC43920.quest_desc: [
+		"Questa macchina serve a &6(s)caricare&r gli &boggetti&r che funzionano a &eenergia pneumatica&r, come &bDrones&r, &bPneumatic Wrenches&r e &bVortex Cannons&r. "
+		""
+		"Gestisce anche i &apotenziamenti&r per gli &boggetti&r che possono accettarli."
+	]
+	quest.3D7406A517FA591D.quest_desc: ["Con questi &bMateriali&r potrai &6costruire&r la tua prima &bPressure Chamber&r. "]
+	quest.3D7406A517FA591D.title: "La tua prima Pressure Chamber"
+	quest.40F96E2CB2772CB8.quest_desc: [
+		"Gli &bAmadron Tablets&r ti permettono di &6ordinare &boggetti&r e &7fluidi&r, funzionando come gli &3scambi con i Villici&r ma con il vantaggio della consegna tramite &bDrones&r: molto più figo che trattare con i &aVillici&r. "
+		""
+		"Per usare il &bTablet&r, specifica i punti di &9ritiro&r e di &9consegna&r facendo &6clic destro&r sull'&3inventario&r o sul &bserbatoio&r con il &bTablet&r."
+	]
+	quest.46C3D171AB4AA489.quest_desc: [
+		"Questa &3sostanza&r si può &6lavorare&r in una &bThermopneumatic Processing Plant&r per &6produrre&r &8Gasoline&r, un &7carburante liquido&r di &aalta qualità&r. "
+		""
+		"Si può anche &6mettere&r in una &8fornace&r."
+	]
+	quest.46C3D171AB4AA489.title: "&3Kerosene"
+	quest.486620B859CE9D1F.quest_desc: [
+		"Questo &bdispositivo&r separa l'&7aria&r &ain ingresso&r in una componente &ccalda&r e una &bfredda&r: un lato diventa &ccaldo&r e l'altro &bfreddo&r. "
+		""
+		"La quantità di &7aria&r usata dipende dalla &7pressione&r. "
+		""
+		"Per la &amassima efficienza&r, tieni &cpresente&r che tra il lato &ccaldo&r e quello &bfreddo&r c'è una lieve connessione termica. "
+		""
+		"Per sfruttare al meglio il &4calore&r, &6sfoga&r il &blato freddo&r con un &cHeat Sink&r, e fai il contrario se vuoi &6massimizzare&r il &bfreddo&r."
+	]
+	quest.525658A19130AF37.quest_desc: [
+		"Genera &7aria compressa&r usando vari &7fluidi combustibili&r. "
+		""
+		"Per vedere tutti i &8carburanti&r disponibili, apri la scheda «&9Available Fuels&r», ordinata dal più &aefficace&r al meno &cefficace&r. "
+	]
+	quest.5299134A1144826F.quest_desc: [
+		"Può essere &6(s)caricato&r usando una &bCharging Station&r. "
+		""
+		"È essenziale per &6fabbricare&r la maggior parte degli &boggetti ricaricabili&r pneumatici e si può usare anche per &6caricare&r altri &boggetti&r."
+		"La quantità di energia generata dipende molto dalla velocità del vento (ovviamente), e la velocità del vento aumenta quanto più in alto nel mondo viene piazzata il Wind Generator."
+	]
+	quest.5EEF6110DDBEB146.quest_desc: [
+		"Un &bDrone&r preprogrammato che difende un'area di &e31x31x31&r centrata sulla posizione da cui viene lanciato. "
+		""
+		"Questo &bDrone&r ha due &3modalità&r di base, a seconda di come viene lanciato:"
+		""
+		"- Lanciandolo a terra, il &bDrone&r &cattaccherà&r qualsiasi &2mob&r entri nella sua area usando ciò che ha già a bordo."
+		""
+		"- Lanciandolo sopra un &9inventario&r contenente un'&cArma&r o delle &7Minigun Ammo&r (supponendo che il drone abbia un potenziamento minigun), il &bDrone&r si armerà con gli &boggetti&r dell'&9inventario&r prima di &edifendere&r la sua area."
+	]
+	quest.6070283AEA8DFA7E.quest_desc: [
+		"La &braffineria&r è un &3multiblocco&r in cui &6metti&r il &bRefinery Controller&r in basso e i &bRefinery Output&r sopra di esso, &adue&r per cominciare. "
+		""
+		"Ne puoi &6mettere&r fino a &a4&r, ma questo &cnon aumenta&r la &evelocità&r della &braffineria&r: le permette invece di &6produrre&r altri &7fluidi&r dal &8Crude Oil&r. "
+		""
+		"Con i soli due &bRefinery Output&r sopra di esso comincerai a &6produrre&r &8Diesel&r e &eLPG&r; man mano che raccogli le &brisorse&r, aggiungendo un altro &bRefinery Output&r otterrai il &bKerosene&r e con un'altra ancora la &8Gasoline&r."
+		""
+		"Per usare la &braffineria&r ti serve &4calore&r. Il &4calore&r può venire dalle &btorce&r attorno alla &bmacchina&r per una &abassa efficienza&r, dalla &4lava&r per una &eefficienza media&r, o dal &ccalore prodotto&r da un &bVortex Tube&r che usa la &7pressione&r."
+	]
+	quest.6070283AEA8DFA7E.title: "Raffineria"
+	quest.6127E7FBC4ABF307.quest_desc: [
+		"Una &bThermopneumatic Processing Plant&r serve a &6convertire&r i &7liquidi&r in altri &7liquidi&r. "
+		""
+		"Per esempio, combinando &eLPG&r e &8carbone&r in questa macchina si può &6produrre&r &7Molten Plastic&r. "
+		""
+		"Inoltre, la &bTPP&r può &6eseguire&r il &7cracking dei carburanti&r, in cui i &ccarburanti più pesanti&r vengono &6trasformati&r in &aquelli più leggeri&r. "
+		""
+		"Cioè:"
+		" "
+		"&cDiesel&r -> &3Kerosene&r "
+		""
+		"&3Kerosene&r -> &6Gasoline&r"
+		""
+		"&6Gasoline&r -> &eLPG&r."
+	]
+	quest.6762C357EEDE8D10.quest_desc: [
+		"Un compressore avanzato che sfrutta la &eluce solare&r per &7pressurizzare l'aria&r. "
+		""
+		"La sua &aefficienza&r migliora man mano che si &cscalda&r, ma un eccessivo accumulo di &4calore&r farà &8spegnere&r il compressore, rendendo necessaria una &6riparazione manuale&r."
+	]
+	quest.67B17617F57B247F.quest_desc: [
+		"L'&bElevator&r usa la &7pressione&r per portarti su e giù tra piani diversi tramite l'&bElevator Caller&r. Con un solo &bElevator&r puoi salire in &etotale&r di sei blocchi; se impili gli &bElevator Bases&r uno sopra l'altro oltre l'&caltezza massima&r, questa &aaumenta&r di sei per ognuno che metti."
+		""
+		"Puoi anche &aaumentare&r larghezza e profondità dell'&bElevator&r aggiungendo lo stesso numero di &bElevator Bases&r del posizionamento iniziale. "
+		""
+		"L'&bElevator Caller&r va piazzato &eall'altezza degli occhi&r, a un blocco da terra, a sinistra o a destra ma adiacente all'&bElevator&r, a contatto con l'&bElevator Frame&r, e va messo a ogni blocco perché l'&bElevator&r salga, dato che si muove sulle &brotaie&r. "
+		""
+		"Se vuoi che l'&bElevator&r salga di &330 blocchi&r con &atre piani&r ti serviranno:"
+		""
+		"&96&r &bElevator Bases&r x larghezza e profondità."
+		""
+		"&930 &bElevator Frame&r x larghezza e profondità."
+		""
+		"&91&r &bElevator Caller&r per ogni piano, quindi tre. "
+		""
+		"La &7pressione&r richiesta dall'&bElevator&r arriva al massimo a &c5,0&r e non aumenta in base agli &bElevator Bases&r."
+	]
+	quest.67B17617F57B247F.title: "Elevator"
+	quest.688DEE1D1C4F9BDA.quest_desc: [
+		"Questo &9modulo&r emette un &4segnale di redstone&r di intensità proporzionale alla &7pressione&r all'interno dei &btubi&r. "
+		""
+		"Se &6dotato&r di una &bModule Expansion Card&r, puoi &6regolare&r con precisione la soglia dalla &3GUI&r."
+	]
+	quest.6E2932D7D8228910.title: "&7Pressure &cGauge"
+	quest.6F5731A4490A537F.quest_desc: [
+		"Aggiungi &2Etching Acid&r a un &bEtching Tank&r per convertire: "
+		""
+		"&7Empty PCBs&r -> &bUnassembled PCBs&r."
+	]
+	quest.6F5731A4490A537F.title: "&2Etching Acid"
+	quest.7342ABDAD6467123.quest_desc: [
+		"I Logistics Frames semplificano i compiti di logistica all'interno della loro rete, tramite drone o tubi pressurizzati ad almeno 3 bar. Per lavorare con tutti i Logistics Frames serve un &4Logistics Configurator&r."
+		""
+		"I frame operano nella loro rete nei modi seguenti, in ordine di priorità:"
+		""
+		"- I frame Active Provider inviano oggetti ai frame Requester, Storage e Default Storage"
+		"- I frame Default Storage inviano oggetti ai frame Requester e Storage, e accettano oggetti dai frame Active Provider"
+		"- I frame Storage inviano oggetti ai frame Requester, e accettano oggetti dai frame Active Provider e Default Storage"
+		"- I frame Passive inviano oggetti solo ai frame Requester, e non accettano oggetti da nessun altro frame"
+		"- I frame Requester non inviano oggetti a nessun altro frame, e accettano oggetti dai frame Active Provider, Passive e Storage."
+		""
+		"{@pagebreak}"
+		"Per ogni frame si possono impostare dei filtri usando i filtri Classify o Tag, definendoli con il Tag Workbench. "
+		""
+		"La funzione dipende dal frame a cui si applica il filtro:"
+		""
+		"- Frame Active Provider: i filtri controllano quali fluidi/oggetti vengono inviati alla rete"
+		"- Frame Default Storage: i filtri controllano quali fluidi/oggetti vengono accettati dalla rete"
+		"- Frame Storage: i filtri controllano quali fluidi/oggetti vengono accettati dalla rete"
+		"- Frame Passive: i filtri controllano quali fluidi/oggetti vengono inviati ai frame Requester della rete"
+		"- Frame Requester: i filtri controllano quali fluidi/oggetti vengono accettati dalla rete"
+		""
+		"In particolare per i frame Requester si possono usare entrambi i tipi di filtro e scorrere/cliccare per impostare la quantità desiderata (vedi i suggerimenti nell'interfaccia del frame Requester). I filtri possono sovrapporsi (per esempio uno specifica 32 tronchi e un altro 32 di qualsiasi combustibile), ma questo può farli sommare, dando 32 tronchi + altri 32 tronchi come combustibile."
+		""
+		"{@pagebreak}"
+		"Per tutti i Logistics Frames, non verrà trasportato nulla se non c'è spazio in nessuno degli inventari/serbatoi della rete. "
+		""
+		"Inoltre, anche se i compiti di logistica possono essere svolti da droni logistici o da moduli logistici applicati a tubi pressurizzati ad almeno 3 bar, i droni non possono accedere ai frame una volta che questi sono bloccati dai moduli logistici; tuttavia, se vuoi, più frame possono essere applicati allo stesso blocco/inventario/serbatoio."
+	]
+	quest.7342ABDAD6467123.title: "Logistics Frames"
+	quest.77897C0A26941E97.quest_desc: [
+		"- &3Congela&r i bersagli."
+		""
+		"- Li &7rallenta&r e può &8intrappolarli&r temporaneamente nel ghiaccio. "
+		""
+		"I mob &6resistenti al fuoco&r sono particolarmente &cvulnerabili&r a questa munizione."
+	]
+	quest.79C075FFF796FE16.quest_desc: [
+		"Un &bDrone&r preprogrammato che &2raccoglie&r le &acolture&r completamente cresciute in un'area di &e17x17x17&r centrata sulla posizione da cui viene lanciato. "
+		""
+		"Questo &bDrone&r ha due &3modalità&r di base, a seconda di come viene lanciato:"
+		""
+		"- Lanciandolo a terra, il &bdrone&r &2raccoglierà&r qualsiasi &acoltura&r completamente cresciuta nella sua area."
+		""
+		"- Lanciandolo sopra un &3inventario&r contenente una &bzappa&r, il drone &6ripianterà&r ogni &acoltura&r che raccoglie nella sua area."
+	]
+	quest.7BD7F5E46151B2EB.quest_desc: [
+		"Un &bDrone&r preprogrammato che svolge compiti di logistica in un'area di &e31x31x31&r centrata sulla posizione da cui viene lanciato. "
+		""
+		"Guarda il &7capitolo di quest&r successivo per scoprire come vengono usati i Logistics Frames applicati ai &9blocchi/inventari/serbatoi&r nella sua area."
+	]
+	quest.7C31082BB88384BF.quest_desc: [
+		"- Causa &cesplosioni&r all'&eimpatto&r. "
+		""
+		"Evita di usarla a distanza ravvicinata!"
+	]
+	quest.7C57D76FDBD784F8.quest_desc: ["Puoi &6collegare&r dei &bserbatoi&r sopra e sotto usando una &bWrench&r, purché uno dei due &bserbatoi&r sia &cvuoto&r oppure entrambi contengano lo stesso &7fluido&r."]
+	quest.7D155344A5A6CEF7.quest_desc: [
+		"Un &bThermal Compressor&r sfrutta le &edifferenze di temperatura&r sui lati opposti del blocco per comprimere l'&7aria&r. "
+		""
+		"Per farlo funzionare, metti un blocco &cad alta temperatura&r su un lato e un blocco &aa bassa temperatura&r sul lato opposto. "
+		""
+		"Nota: le facce &3Nord-Sud&r sono collegate &etermicamente&r tra loro, così come le facce &3Est-Ovest&r, ma non c'è alcuna &econnessione termica&r tra i lati &3Nord-Sud&r e &3Est-Ovest&r. "
+		""
+		"I lati &ecollegati termicamente&r cercheranno di pareggiare le proprie &btemperature&r, quindi è importante mantenere una differenza di temperatura &csignificativa&r per un funzionamento &aefficace&r."
+	]
+	quest.7D58D814C99CB2F6.quest_desc: [
+		"Questo &bdispositivo&r si può &6mettere&r su qualsiasi &2inventario&r. "
+		""
+		"Quando viene &criscaldato&r da una &4fonte di calore&r adiacente, tenterà di &8fondere&r qualsiasi &boggetto&r nell'&2inventario&r, e &bcongelerà&r gli oggetti quando viene &3raffreddato&r. La &8fusione&r &ariesce&r solo se nell'&2inventario&r c'è spazio per l'&boggetto&r risultante. "
+		""
+		"La velocità di fusione &aaumenta&r con la quantità di &ccalore&r applicato, fino a un &6massimo&r di un oggetto al secondo. "
+		""
+		"Allo stesso modo, il &3processo di congelamento&r &esi accelera&r con un maggiore &3raffreddamento&r."
+	]
+	task.4F4699F9117BC270.title: "Drones preprogrammati"
+}

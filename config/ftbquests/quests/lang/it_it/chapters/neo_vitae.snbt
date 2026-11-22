@@ -1,0 +1,212 @@
+{
+	quest.03107F356240B036.quest_desc: ["Crea il &bDominus Orb of Vitae&r e amplia la tua &bAnima&r a un livello davvero formidabile."]
+	quest.03107F356240B036.quest_subtitle: "Comanda il sangue. Comanda il potere."
+	quest.03107F356240B036.title: "Dominus"
+	quest.03A2DAC1A090CC65.quest_desc: ["Usa la tua &bHellfire Forge&r per realizzare la tua prima creazione infusa di &bSpiritus&r."]
+	quest.03A2DAC1A090CC65.quest_subtitle: "Ci sono forze che nemmeno il sangue riesce a spiegare."
+	quest.03A2DAC1A090CC65.title: "Qualcosa oltre il sangue"
+	quest.0935BFDC4F0B4C6C.quest_desc: [
+		"È ora di ampliare la tua Ara Vitae."
+		""
+		"Aggiungi un secondo anello di &d16 Rune&f, un livello più in basso e più lontano del primo."
+		""
+		"Le nuove posizioni ti danno più spazio per le &dRune specializzate&f e ti permettono di personalizzare ancora di più il tuo altare."
+		""
+		"Completa i quattro pilastri e coronali con il &dBlood Stained Glass&f."
+		""
+		"Ora il tuo altare contiene &d24 Rune&f."
+	]
+	quest.0935BFDC4F0B4C6C.quest_subtitle: "L'altare cresce"
+	quest.0935BFDC4F0B4C6C.title: "Il secondo cerchio"
+	quest.0B7267B31A1CCECA.quest_desc: [
+		"Usa il &bRitual Diviner&r per imparare la disposizione di un rituale e attivare la tua prima &bMaster Ritual Stone&r."
+		""
+		"Esegui il &2Ritual of Overgrowth&r e accelera la crescita della natura intorno a te."
+		""
+		"Esegui il &eRitual of Harvest&r e trasforma i doni della natura in una risorsa affidabile."
+		""
+		"Esegui il &6Ritual of Fallen Trees&r e automatizza la raccolta degli alberi vicini."
+	]
+	quest.0B7267B31A1CCECA.quest_subtitle: "Traccia il cerchio. Pronuncia le parole. Paga il prezzo."
+	quest.0B7267B31A1CCECA.title: "Il tuo primo rituale"
+	quest.0BB01161ABEFCC8A.quest_desc: ["Usa la &bHellfire Forge&r per creare la tua prima &bSentient Weapon&r e nutrila con le anime dei tuoi nemici."]
+	quest.0BB01161ABEFCC8A.quest_subtitle: "Dai alle tue armi una fame tutta loro."
+	quest.0BB01161ABEFCC8A.title: "Sentient Weapon"
+	quest.0DD2816485683CE6.quest_desc: ["Forgia un set completo di &bSentient Armour&r e inizia a nutrirlo con le anime dei tuoi nemici."]
+	quest.0DD2816485683CE6.quest_subtitle: "L'armatura non ti serve più. Combatte al tuo fianco."
+	quest.0DD2816485683CE6.title: "Sentient Armour"
+	quest.0FC1A7168D389575.quest_desc: [
+		"La tua Ara Vitae continua a crescere."
+		""
+		"Aggiungi un quarto anello di &d48 Rune&f, ancora una volta un livello più in basso e più lontano."
+		""
+		"Usa le &dRune specializzate&f per adattare l'altare alle tue esigenze, oppure le loro varianti &5Reinforced&f per effetti ancora più forti."
+		""
+		"Completa i quattro pilastri con gli &4Hellforged Block&f."
+		""
+		"Ora il tuo altare contiene &d100 Rune&f."
+	]
+	quest.0FC1A7168D389575.quest_subtitle: "Nelle profondità"
+	quest.0FC1A7168D389575.title: "Il quarto cerchio"
+	quest.108E216EC6911B77.quest_desc: ["Potenzia la tua &bAra Vitae&r e crea il &bDiscipulus Orb of Vitae&r per ampliare enormemente la tua &bAnima&r."]
+	quest.108E216EC6911B77.quest_subtitle: "Inizia la tua prima ascesa."
+	quest.108E216EC6911B77.title: "Il Discipulus"
+	quest.26C7705667EB55E8.quest_desc: [
+		"Ora l'Ara Vitae pretende più del sangue."
+		""
+		"Aggiungi un altro anello di &d28 Rune&f, un livello più in basso e più lontano."
+		""
+		"Si aprono altre posizioni per le rune, che ti danno ancora più controllo sul tuo altare."
+		""
+		"Metti i &cBloodstone Brick&f ai quattro angoli per chiudere il cerchio."
+		""
+		"Ora il tuo altare contiene &d52 Rune&f."
+	]
+	quest.26C7705667EB55E8.quest_subtitle: "Oltre il sangue"
+	quest.26C7705667EB55E8.title: "Il terzo cerchio"
+	quest.3376D278202F2B4C.quest_desc: [
+		"Lega il tuo &bNovicius Orb of Vitae&r a te stesso e crea la tua prima rete di &bAnima&r."
+		""
+		"Impara a incanalare l'&bEssentia Vitae&r tra il tuo altare di sangue e i componenti collegati, ponendo le basi di tutto ciò che verrà."
+	]
+	quest.3376D278202F2B4C.quest_subtitle: "Il tuo potere deve scorrere prima di poter crescere."
+	quest.3376D278202F2B4C.title: "La rete del sangue"
+	quest.35D797292DAB5C89.quest_desc: ["Ottieni la &bScriptura Vitae&r e inizia a generare &4Essentia Vitae&r."]
+	quest.35D797292DAB5C89.quest_subtitle: "Impara a trasformare la vita stessa in energia."
+	quest.35D797292DAB5C89.title: "Il sangue è potere"
+	quest.384E0A6178B5AA5B.quest_desc: ["Fabbrica la tua prima &bReinforced Rune&r e sblocca modifiche più potenti per la tua &bAra Vitae&r."]
+	quest.384E0A6178B5AA5B.quest_subtitle: "Le vecchie rune non bastano più."
+	quest.384E0A6178B5AA5B.title: "Reinforced Rune"
+	quest.3A3B3EACB9321FF3.quest_desc: [
+		"Costruisci la &bHellfire Forge&r e sblocca un nuovo modo di trasformare la &bVitae&r in potere."
+		""
+		"Usa la &bHellfire Forge&r per iniziare a creare equipaggiamento e materiali più avanzati."
+	]
+	quest.3A3B3EACB9321FF3.quest_subtitle: "Certe cose si possono forgiare solo nel fuoco infernale."
+	quest.3A3B3EACB9321FF3.title: "La Hellfire Forge"
+	quest.3B7D0C01193B6FB3.quest_desc: ["Fabbrica il tuo primo set di &bRune&r e inizia a modificare velocità, capacità ed efficienza della tua &bAra Vitae&r."]
+	quest.3B7D0C01193B6FB3.quest_subtitle: "Plasma il flusso della vitae a tuo piacimento."
+	quest.3B7D0C01193B6FB3.title: "Rune"
+	quest.418CB5EC1FE8CB1A.quest_desc: ["Usa l'&bAra Vitae&r per creare il tuo primo &bNovicius Orb of Vitae&r."]
+	quest.418CB5EC1FE8CB1A.quest_subtitle: "Il sangue è il prezzo. Il potere è la ricompensa."
+	quest.418CB5EC1FE8CB1A.title: "Il primo sacrificio"
+	quest.42C757350BE9280A.quest_desc: ["Sconfiggi i vari &bDaemonium&r che abitano il regno demoniaco e raccogli il loro bottino esclusivo."]
+	quest.42C757350BE9280A.quest_subtitle: "Se l'inferno vuole battaglia, dagliela."
+	quest.42C757350BE9280A.title: "Cacciatore di demoni"
+	quest.42D39031CFD335C9.quest_desc: ["Esegui il &bRitual of Fallen Trees&r e automatizza la raccolta degli alberi vicini."]
+	quest.42D39031CFD335C9.quest_subtitle: "Anche la foresta si può raccogliere con la forza."
+	quest.49BDD5CCF648A04D.quest_desc: [
+		"Fai ascendere la tua &bAra Vitae&r e crea il &bVeneficus Orb of Vitae&r, ampliando la tua &bAnima&r a una nuova scala."
+		""
+		"La struttura di &6livello 3&r usa Bloodstone/Bloodstone Brick e richiede il Tau Fruit del rituale &4Breaching the Edge of Demon Realm&r"
+	]
+	quest.49BDD5CCF648A04D.quest_subtitle: "Il tuo potere ha superato il suo primo contenitore."
+	quest.49BDD5CCF648A04D.title: "Veneficus"
+	quest.4CFB8A6C9DF9988A.quest_desc: ["Crea il &bSigil of Teleposition&r e inizia a manipolare la tua posizione con la &bVitae&r."]
+	quest.4CFB8A6C9DF9988A.quest_subtitle: "La distanza è solo un inconveniente."
+	quest.4DE8993F6A7F096B.quest_desc: [
+		"Ottieni la &bLex Vitae&r e impugna una delle creazioni più potenti di Neo Vitae."
+		""
+		"Padroneggia sia le capacità di scavo sia quelle di combattimento della &bLex Vitae&r e dimostra di saperne usare tutto il potere."
+		""
+		"Modalità:"
+		""
+		"* Modalità scavo"
+		"* Modalità danno"
+	]
+	quest.4DE8993F6A7F096B.quest_subtitle: "Il culmine di sangue, spirito e sofferenza."
+	quest.4DE8993F6A7F096B.title: "La Lex Vitae"
+	quest.4F144C6D995FED7E.quest_desc: ["Crea il &bMagus Orb of Vitae&r e amplia la tua &bAnima&r per sostenere creazioni sempre più potenti."]
+	quest.4F144C6D995FED7E.quest_subtitle: "La magia si piega a chi è disposto a pagarne il prezzo."
+	quest.4F144C6D995FED7E.title: "Magus"
+	quest.52CA774E9F825514.quest_desc: ["Esegui il &bRitual of Harvest&r e trasforma i doni della natura in una risorsa affidabile."]
+	quest.52CA774E9F825514.quest_subtitle: "Non sprecare niente."
+	quest.52CA774E9F825514.title: "&6Ritual of Harvest"
+	quest.53C28D1A140CA4A6.quest_desc: ["Scopri i cinque aspetti dello &bSpiritus&r e impara a sfruttarne le diverse proprietà."]
+	quest.53C28D1A140CA4A6.quest_subtitle: "Cinque spiriti. Cinque poteri. Una sola via."
+	quest.53C28D1A140CA4A6.title: "I cinque aspetti"
+	quest.5946631C59C788DC.quest_desc: ["Crea il &bSigil of Holding&r e impara a portare più &bSigil&r contemporaneamente."]
+	quest.5946631C59C788DC.quest_subtitle: "Porta il tuo potere ovunque tu vada."
+	quest.5A52426AC47A1FE3.quest_desc: [
+		"L'Ara Vitae ha raggiunto la sua forma finale."
+		""
+		"A ogni cerchio completato si aprono altre posizioni per le rune, che ti permettono di specializzare ancora di più il tuo altare con le &dRune specializzate&f e le loro varianti &5Reinforced&f."
+		""
+		"Completa l'ultimo cerchio e porta la tua Ara Vitae al suo potenziale &5trascendente&f."
+		""
+		"Non esiste un cerchio più alto."
+		""
+		"Qualunque cosa venga dopo, dovrai scoprirla da solo."
+	]
+	quest.5A52426AC47A1FE3.quest_subtitle: "Oltre i limiti mortali"
+	quest.5A52426AC47A1FE3.title: "Il sesto cerchio"
+	quest.5E978B85065D1E32.quest_desc: ["Fabbrica gli strumenti necessari per eseguire i rituali e inizia a manipolare il mondo con la &bVitae&r."]
+	quest.5E978B85065D1E32.quest_subtitle: "Il solo sangue non basta più."
+	quest.5E978B85065D1E32.title: "Il ritualista"
+	quest.5EC47502FEDE944B.quest_desc: ["Crea il &bDivinus Orb of Vitae&r e raggiungi il limite assoluto della tua rete di &bAnima&r."]
+	quest.5EC47502FEDE944B.quest_subtitle: "Oltre di te non resta quasi più nulla."
+	quest.5EC47502FEDE944B.title: "Divinus"
+	quest.61AAFF003014ABBC.quest_desc: ["Fabbrica la &bTabula Vitae&r e sblocca la possibilità di creare potenti &bSigil&r, &bfiasche&r e altri oggetti utili."]
+	quest.61AAFF003014ABBC.quest_subtitle: "La conoscenza dà uno scopo al sangue."
+	quest.695071B9E6FB490A.quest_desc: ["Esegui il &bRitual of Overgrowth&r e accelera la crescita della natura intorno a te."]
+	quest.695071B9E6FB490A.quest_subtitle: "Costringi la natura a obbedire."
+	quest.6AD3F5CE39D98B03.quest_desc: ["Attraversa la &bHighway to Hell&r ed entra per la prima volta nell'infinito regno demoniaco."]
+	quest.6AD3F5CE39D98B03.quest_subtitle: "Benvenuto in un luogo dove i morti non riposano."
+	quest.6AD3F5CE39D98B03.title: "Entra nel regno demoniaco"
+	quest.6C86EFABDB60BE68.quest_desc: ["Crea il &bSigil of the Blood Lamp&r e illumina il mondo con la tua &bAnima&r."]
+	quest.6C86EFABDB60BE68.quest_subtitle: "Anche l'oscurità si piega al tuo volere."
+	quest.6F92D6C797F9C931.quest_desc: ["Costruisci il &bCrystallarium&r e usa l'&bAura di Spiritus&r per creare energia spirituale concentrata."]
+	quest.6F92D6C797F9C931.quest_subtitle: "Ciò che era informe ora si può tenere in mano."
+	quest.6F92D6C797F9C931.title: "Essenza cristallizzata"
+	quest.73FC0402BA6033FA.quest_desc: ["Crea il &bSigil of Phantom Bridge&r e impara ad attraversare vuoti che sembrerebbero invalicabili."]
+	quest.73FC0402BA6033FA.quest_subtitle: "Attraversa l'impossibile."
+	quest.7997AD44CC428BDC.quest_desc: ["Costruisci il &bVas Maleficum&r e inizia a generare l'&bAura di Spiritus&r necessaria per creazioni più avanzate."]
+	quest.7997AD44CC428BDC.quest_subtitle: "Dai forma agli spiriti che ti circondano."
+	quest.7997AD44CC428BDC.title: "Il Vas Maleficum"
+	quest.7A0A29CC4F524CEE.quest_desc: [
+		"L'Ara Vitae può essere ampliata oltre le sue umili origini."
+		""
+		"Costruisci il primo cerchio con &d8 Rune&f, un livello sotto l'altare."
+		""
+		"Le quattro posizioni cardinali possono essere riempite con &dRune specializzate&f, mentre quelle diagonali restano per ora inattive."
+		""
+		"Scegli con cura le tue rune: ognuna può cambiare le prestazioni del tuo altare."
+	]
+	quest.7A0A29CC4F524CEE.quest_subtitle: "L'inizio di qualcosa di più grande"
+	quest.7A0A29CC4F524CEE.title: "Il primo cerchio"
+	quest.7C8727CEB9850F24.quest_desc: ["Ottieni l'&bAra Vitae&r e inizia il tuo viaggio nelle arti proibite."]
+	quest.7C8727CEB9850F24.quest_subtitle: "Ogni grande potere nasce da un singolo sacrificio."
+	quest.7C8727CEB9850F24.title: "&4Uno strano potere"
+	quest.7D740352BE81EBAD.quest_desc: ["Esplora il regno demoniaco e ottieni la tua prima &bDemonite&r dalle sue profondità corrotte."]
+	quest.7D740352BE81EBAD.quest_subtitle: "Ricava potere da chi non avrebbe mai dovuto vivere."
+	quest.7D740352BE81EBAD.title: "Sangue dei dannati"
+	quest.7E88E36EDE4C0BF0.quest_desc: [
+		"Resta un'ultima espansione."
+		""
+		"Aggiungi l'anello più ampio, di &d72 Rune&f, un livello sotto e più lontano del cerchio precedente."
+		""
+		"Con così tante posizioni a disposizione, puoi specializzare molto il tuo altare con rune di &dvelocità&f, &bcapacità&f, &ecarica&f, &csacrificio&f e altre rune specializzate."
+		""
+		"Corona i quattro pilastri con &5Crystal Cluster&f o &5Crystal Cluster Brick&f."
+		""
+		"Ora la tua Ara Vitae contiene &d172 Rune&f e ha raggiunto il suo massimo livello di costruzione."
+	]
+	quest.7E88E36EDE4C0BF0.quest_subtitle: "L'ascesa finale"
+	quest.7E88E36EDE4C0BF0.title: "Il quinto cerchio"
+	quest.7F5D66A96BCE339D.quest_desc: ["Attiva il &bRitual of Sentient Evolution&r e porta la tua &bSentient Armour&r oltre i suoi limiti originali."]
+	quest.7F5D66A96BCE339D.quest_subtitle: "Ciò che hai creato ha imparato a evolversi."
+	quest.7FAF52B083F86C57.quest_desc: ["Esegui il rituale &bHighway to Hell&r e apri un varco verso il regno demoniaco."]
+	quest.7FAF52B083F86C57.quest_subtitle: "Esiste una strada per l'inferno. Devi solo aprirla."
+	quest.7FAF52B083F86C57.title: "Apri il portale"
+	task.38084EDBEB9647AD.title: "Sentient Evolution"
+	task.43CE51B3EC9945C1.title: "&aRitual of Fallen Trees"
+	task.46DBAE66F97438E6.title: "Rune"
+	task.480E9CFA1CEE6479.title: "Spiritus Gem"
+	task.51B280AD931A2CF4.title: "Demonite"
+	task.537A156153014C88.title: "&2Ritual of Overgrowth"
+	task.66A70863F595A874.title: "Ritual of Harvest"
+	task.72F89F43852EBF65.title: "Crystal Cluster"
+	task.74EA288EED7CCE71.title: "Reinforced Rune"
+	task.753B3D09A302E973.title: "Raw Spiritus Crystal"
+	task.7617B5CAABCD437A.title: "Bloodstone"
+}

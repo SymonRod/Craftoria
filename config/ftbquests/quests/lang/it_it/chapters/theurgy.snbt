@@ -1,0 +1,117 @@
+{
+	quest.02D3AFC713077502.quest_desc: ["Rende i processi di fermentazione più &6efficienti&r. &aTi conviene automatizzarlo&r."]
+	quest.077658D04D0D4AB3.quest_desc: [
+		"Il &bSal Ammoniac Tank&r va &6piazzato sotto&r il &bSal Ammoniac Accumulator&r. Insieme, questi due dispositivi creano &dsolvente di Sal Ammoniac&r dall'&9acqua&r."
+		""
+		"Se vuoi il solvente &apiù in fretta&r, puoi &6fornire&r all'Accumulator dei &bSal Ammoniac Crystal&r per accelerare moltissimo il processo."
+	]
+	quest.077658D04D0D4AB3.quest_subtitle: "È velenoso?"
+	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
+	quest.0D1AFCAD90FAA4F9.quest_desc: ["Questa Rod è già sintonizzata per trovare un materiale &aCommon&r."]
+	quest.0E30CFA6C5B58BEA.quest_desc: ["Questo &bVat&r ti permette di convertire il tuo &bAlchemical Niter&r da un livello all'altro."]
+	quest.0E30CFA6C5B58BEA.quest_subtitle: "Potenziamenti?"
+	quest.19F7B6A670D4A707.quest_desc: ["Ottenuto dal &bDistiller&r, è il &bMercury&r nella sua forma più grezza."]
+	quest.19F7B6A670D4A707.quest_subtitle: "Mercurio grezzo"
+	quest.19F7B6A670D4A707.title: "Mercurio cristallizzato"
+	quest.1CD1F5A08AE6E557.quest_desc: [
+		"Si ottiene dal &3minerale&r che si trova comunemente intorno al &6livello del mare&r. Il &bSal Ammoniac&r è un cristallo ricco di proprietà utili."
+		""
+		"Te ne servirà una buona scorta."
+	]
+	quest.1CD1F5A08AE6E557.quest_subtitle: "Scintillante nelle profondità"
+	quest.1EBE2B9A6CCE5A69.quest_desc: [
+		"Le &3Divination Rod&r permettono all'alchimista di &6localizzare&r da lontano i blocchi di valore."
+		""
+		"&6Usare da accovacciato&r la Rod su un blocco la &6sintonizza&r su quel blocco. Quando &6carichi&r la Rod, invia una particella verso il blocco bersaglio più vicino che ha trovato: &cconsuma durabilità&r. &6Usala&r normalmente per \"pingare\" di nuovo quella posizione. La gemma diventa sempre più viola quanto più sei vicino al blocco."
+		""
+		"La Glass Rod, essendo la più economica, può localizzare solo blocchi &8Abundant&r e &aCommon&r."
+	]
+	quest.1EBE2B9A6CCE5A69.quest_subtitle: "Trovo la mia strada"
+	quest.1FF9FB01DBE735FC.quest_desc: [
+		"La natura di un &bSulfur&r può essere &6cambiata&r. È la base della trasmutazione."
+		""
+		"Questo &bVat&r, con gli ingredienti giusti, è in grado di &6trasformare&r lo Sulfur in uno stato molto più malleabile: l'&bAlchemical Niter&r."
+	]
+	quest.1FF9FB01DBE735FC.quest_subtitle: "Scambio equivalente?"
+	quest.22822DD2E10F65EA.quest_desc: ["Questo dispositivo, se &6piazzato&r su un &bMercury Catalyst&r, può alimentare il &bReformation Array&r."]
+	quest.248175A1E0825C2F.quest_desc: ["Questa Rod può localizzare i materiali &dPrecious&r."]
+	quest.2B2D3B338662F02C.quest_desc: ["Questa variante di oro particolarmente pura serve a &6modificare&r il &alivello&r di uno &bSulfur&r."]
+	quest.2F7A213261682E1B.quest_desc: [
+		"Il &bLiquefaction Cauldron&r &6immerge&r le risorse nel &dsolvente&r per ricavarne &bSulfur&r. Per la reazione serve &6calore&r."
+		""
+		"Nota che alcune risorse, come i minerali, &aproducono più di uno Sulfur&r."
+	]
+	quest.30FB66E92909D4B9.quest_subtitle: "Tutti i Niter"
+	quest.30FB66E92909D4B9.title: "&bAlchemical Niter"
+	quest.367A013744D689E4.quest_desc: [
+		"Questa macchina permette al &6calore&r di &6purificare&r la materia trasformandola in &bAlchemical Mercury&r."
+		""
+		"Per ora devi piazzare un &bPyromantic Brazier&r sotto il Distiller e &6alimentarlo&r con combustibile da fornace per fornire calore. &aI combustibili durano il doppio rispetto a una fornace&r."
+	]
+	quest.367A013744D689E4.quest_subtitle: "Alchemical Mercury?"
+	quest.376DD70A2C14F9A9.quest_desc: ["Le risorse &aCommon&r sono un po' più rare delle loro controparti &8Abundant&r, ma sono comunque relativamente facili da trovare."]
+	quest.376DD70A2C14F9A9.title: "Common Sulfur"
+	quest.392EC503FD52E32A.quest_desc: ["Esistono vari tipi di &bSulfur&r, suddivisi in molti &6livelli&r."]
+	quest.392EC503FD52E32A.title: "Sulfur"
+	quest.3B117FA99DD7558F.quest_desc: ["Ti conviene &6automatizzarne&r la produzione."]
+	quest.3B117FA99DD7558F.title: "Solvente"
+	quest.3DC47060EEAB8975.quest_desc: ["Il &bReformation Array&r è un insieme di macchine in grado di &6produrre quantità infinite&r di un dato &bSulfur&r, usando altri tipi di &bSulfur&r dello stesso &alivello&r e &atipo&r."]
+	quest.3DC47060EEAB8975.quest_subtitle: "Magnum Opus"
+	quest.3DC47060EEAB8975.title: "Reformation Array"
+	quest.45013F74F5B4A93E.quest_desc: ["Questa Rod può localizzare i materiali &9Rare&r."]
+	quest.4E6BB4279E8E793A.quest_desc: ["Le risorse &8Abundant&r tendono a trovarsi ovunque e in grandi quantità."]
+	quest.4E6BB4279E8E793A.title: "Abundant Sulfur"
+	quest.4E8963E1C18ADBAB.quest_desc: [
+		"L'&bIncubator&r è un piccolo multiblocco usato per ricombinare i Principi della materia in oggetti."
+		""
+		"È composto da un &brecipiente&r per ciascun tipo piazzato sui lati (&bSalt&r, &bSulfur&r e &bMercury&r), dall'&bIncubator&r stesso e da una fonte di &6calore&r, in questo caso un &bPyromantic Brazier&r, sotto."
+	]
+	quest.4E8963E1C18ADBAB.quest_subtitle: "Attenzione: non serve per le uova"
+	quest.4F2C4595C25E23E1.quest_desc: ["Questa Rod è già sintonizzata per localizzare un materiale &9Rare&r."]
+	quest.508E110FF82365E3.quest_desc: ["Gli &bInserter&r e gli &bExtractor&r &6spostano oggetti&r rispettivamente dentro e fuori dai contenitori attraverso la &6rete Mercurial Logistics&r."]
+	quest.508E110FF82365E3.title: "Manipolazione Mercurial degli oggetti"
+	quest.5143D5FD55C819CA.quest_desc: [
+		"A differenza della Glass Divination Rod, questa &3Pre-Attuned Rod&r è &6già sintonizzata&r sul tipo di blocco indicato dallo &bSulfur&r usato per fabbricarla."
+		""
+		"Per il resto si comporta esattamente come la Glass Divination Rod. Questa in particolare è sintonizzata per trovare un materiale &8Abundant&r."
+	]
+	quest.5143D5FD55C819CA.quest_subtitle: "Bersaglio acquisito"
+	quest.51E386BC7692D06C.quest_desc: ["Per &6creare&r una &6rete Mercurial Logistics&r bisogna usare questi &bWire&r per &6collegare&r ingressi e uscite. I &bConnection Node&r permettono, se serve, di far convergere più cavi in un unico punto."]
+	quest.51E386BC7692D06C.title: "Collegamenti Mercurial"
+	quest.53DEE3EF1297B630.quest_desc: ["Questo &bEmitter&r usa il &dMercury Flux&r per generare &6calore&r, utilizzabile al posto del &bPyromantic Brazier&r."]
+	quest.53DEE3EF1297B630.quest_subtitle: "Una nuova fonte di calore"
+	quest.55391FF509DA53A5.quest_desc: [
+		"L'arte alchemica della &3Theurgy&r offre i mezzi per aumentare la resa dei minerali, trasmutare un materiale in un altro e generare quantità infinite di una moltitudine di risorse."
+		""
+		"Questo &blibro&r, The Hermetica, sarà la tua guida, insieme a ciò che ti insegnerò io."
+	]
+	quest.55391FF509DA53A5.quest_subtitle: "La via più facile all'alchimia"
+	quest.55391FF509DA53A5.title: "&dBenvenuto in Theurgy"
+	quest.58E5ADE9A50BDF29.quest_desc: ["Questa Rod è già sintonizzata per trovare l'&bametista gemmante&r. L'&bametista&r si usa parecchio in alchimia ed è &6necessaria&r per le Divination Rod migliori."]
+	quest.5B9BFD4F72E79F5B.quest_desc: ["Le più rare di tutte: le risorse &dPrecious&r hanno spesso un valore eccezionale."]
+	quest.5B9BFD4F72E79F5B.title: "Precious Sulfur"
+	quest.5C98D9127F4CEB74.quest_desc: [
+		"Esistono vari tipi di &bSalt&r, ognuno usato per creare alla fine &6risorse diverse&r."
+		""
+		"Alcuni Salt si possono &6calcinare&r di nuovo per ottenerne altri tipi."
+	]
+	quest.5C98D9127F4CEB74.quest_subtitle: "Non quello da tavola"
+	quest.5C98D9127F4CEB74.title: "Alchemical Salt"
+	quest.5D584858B61E534B.quest_desc: ["Questo &bCatalyst &ftrasforma lentamente il &bMercury &fin &dMercury Flux&r, una fonte di &6energia&r per i dispositivi alchemici."]
+	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
+	quest.6DA3C5DEE0F6438D.quest_desc: ["Questa Rod è già sintonizzata per localizzare un materiale &dPrecious&r."]
+	quest.6DA3C5DEE0F6438D.quest_subtitle: "Cercatore di diamanti"
+	quest.79A693466BF51105.quest_desc: ["Questa Rod può localizzare i materiali &dPrecious&r e ha una durabilità molto superiore."]
+	quest.79A693466BF51105.quest_subtitle: "Vedo tutto"
+	quest.7A6C1605F32F695F.quest_desc: [
+		"Questo forno permette di &6calcinare&r vari materiali trasformandoli in &bAlchemical Salt&r."
+		""
+		"Per ora devi piazzare un &bPyromantic Brazier&r sotto il forno e &6alimentarlo&r con combustibile da fornace per fornire calore. &aI combustibili durano il doppio rispetto a una fornace&r."
+	]
+	quest.7A6C1605F32F695F.quest_subtitle: "È solo un forno?"
+	quest.7C38A9BA01CA3772.quest_desc: ["Le risorse &9Rare&r richiedono più impegno per essere trovate o create e in alcuni casi non si trovano in natura."]
+	quest.7C38A9BA01CA3772.title: "Rare Sulfur"
+	quest.7DD81584380EE8F7.quest_desc: ["Questa &bbacchetta&r serve a interagire con la &6Mercurial Logistics&r."]
+	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
+	task.601F7C69458E7589.title: "Benvenuto in Theurgy"
+}
