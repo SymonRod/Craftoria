@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "cb8cc5682de7419eaf72c1f0b14652d0189c3dac"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AJQBwNIi/versions/N7HOAO7o/Medieval_Style_Lootr.zip"
 
 [update]
 [update.curseforge]

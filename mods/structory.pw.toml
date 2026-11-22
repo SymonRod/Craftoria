@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "8a9a1a1b3f74398310420b6fbe2c26ef142bed42"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/TUbwu7eG/Structory_26.2_v1.3.7.jar"
 
 [update]
 [update.curseforge]

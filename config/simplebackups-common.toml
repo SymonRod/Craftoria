@@ -1,5 +1,5 @@
 #If set false, no backups are being made.
-enabled = true
+enabled = false
 #Experimental setting available, look at 'simplebackups-common-experimental.toml' to help testing
 #Defines the backup type.
 #- FULL_BACKUPS - always creates full backups

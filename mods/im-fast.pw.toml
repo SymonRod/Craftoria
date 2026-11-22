@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "f8e92ef61de3751f619238eed5ae9952b5a049d0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/FWI4gJ6y/imfast-NEOFORGE-1.21.1-1.0.3.jar"
 
 [update]
 [update.curseforge]
