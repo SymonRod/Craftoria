@@ -20462,7 +20462,7 @@ hash = "7b8881ca8bbb426755fd8d5907052713377c87b91b51b3376ba159d9a2570251"
 
 [[files]]
 file = "kubejs/server_scripts/amici_kit_iniziale.js"
-hash = "e704e0ce7cae6379a487ba7983efd61db62a4ae50622512aef60b8caeb7bc7b9"
+hash = "59a379be97f711d0028fa2d5badc7f5d96137ddf071c0fefb180edb923c24420"
 
 [[files]]
 file = "kubejs/server_scripts/first_join.js"
