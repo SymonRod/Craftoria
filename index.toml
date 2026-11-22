@@ -20445,6 +20445,10 @@ file = "kubejs/server_scripts/Mods/XyCraft/Recipes.js"
 hash = "7b8881ca8bbb426755fd8d5907052713377c87b91b51b3376ba159d9a2570251"
 
 [[files]]
+file = "kubejs/server_scripts/amici_kit_iniziale.js"
+hash = "e704e0ce7cae6379a487ba7983efd61db62a4ae50622512aef60b8caeb7bc7b9"
+
+[[files]]
 file = "kubejs/server_scripts/first_join.js"
 hash = "0fb0dae878951b98aeaad30c6cc2361f695729d0613596c8bab24b5dd667000a"
 
