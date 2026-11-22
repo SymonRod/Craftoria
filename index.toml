@@ -6946,7 +6946,7 @@ hash = "a1934a76de70de73fce91b89835ee6687110ae3898b3ba4850618094dfe300ca"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "c948927cd992f4534f738a9eef43c96d0654fb4e003cdd396b2418076d3df827"
+hash = "49002fec6c514f464421f918e0d62e12395dc666f2d9bfcc853e17f589467473"
 
 [[files]]
 file = "config/simplebackups-server.toml"
