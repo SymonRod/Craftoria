@@ -4802,7 +4802,7 @@ hash = "36da5c47357f45c88c331e4c950c986bc9676071be48ff12172001cfa0de94be"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "512a3ca27dcc70891d3a85b0ca5feb7fc6cd657ffb2330e445d392724abb9f61"
+hash = "bccb56977103b2b40426f9d9a631b7b6569b650318723b9f3e65e18a3109f91f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt"
@@ -4842,11 +4842,11 @@ hash = "6a21700156d8c98d49cc8e0bb51d29f74543f0aaf20fb6c22eb3002d6db50e65"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_aeronautica.snbt"
-hash = "f69c9af91af703790ad96968da0a17dcd636c04e0d81a9473a3455e69b4c24ae"
+hash = "d9e545b6f01e43b7a02b9992e19129981ec96a8b4b9f2593709b747a95348620"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_mecha.snbt"
-hash = "56671fbd2c73338c9a07a0b9956ec4f790ce3b58983ba17412c938af662943da"
+hash = "dd1a3b07ae49c15c9f95618db512e9a610df4dc06895b3d0bbe917a04f8453ea"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/apotheosis.snbt"
@@ -5063,6 +5063,18 @@ hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/reward_table.snbt"
 hash = "8a36ff9a950edef5a23eece0934469e79b4209f685a0badce22d7f95b5f9164d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/it_it.snbt"
+hash = "e35937bfbb197e4dc2601ce69a4e21f62738d7d4087e9d5c3a506edd508371cd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/it_it/chapters/amici_aeronautica.snbt"
+hash = "f69c9af91af703790ad96968da0a17dcd636c04e0d81a9473a3455e69b4c24ae"
+
+[[files]]
+file = "config/ftbquests/quests/lang/it_it/chapters/amici_mecha.snbt"
+hash = "56671fbd2c73338c9a07a0b9956ec4f790ce3b58983ba17412c938af662943da"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
@@ -7803,6 +7815,14 @@ hash = "04b87ed0e500bfa74479177b17336c20f75544697b135d982d7441b24bc1b173"
 [[files]]
 file = "kubejs/assets/advancementplaques/textures/gui/plaques.png"
 hash = "33ad3c43923f711f56bdadc77bd6a424effc3b46e4190d9da51a0f1d51351031"
+
+[[files]]
+file = "kubejs/assets/amici/lang/en_us.json"
+hash = "4570b83d77c3ce2d483df9e7cc4d3d0f2ec13df58e7f92b06ab13b02a7ecfa9e"
+
+[[files]]
+file = "kubejs/assets/amici/lang/it_it.json"
+hash = "8f34a994c98ad8da42d757a02bf65b7706160cf320fde82751e71209f0dedd5d"
 
 [[files]]
 file = "kubejs/assets/animal_pen/guideme_guides/guide_book.json"
@@ -20462,7 +20482,7 @@ hash = "7b8881ca8bbb426755fd8d5907052713377c87b91b51b3376ba159d9a2570251"
 
 [[files]]
 file = "kubejs/server_scripts/amici_kit_iniziale.js"
-hash = "59a379be97f711d0028fa2d5badc7f5d96137ddf071c0fefb180edb923c24420"
+hash = "dd94b0a6a965669d022b9ffd3e60abdf0097de7f346a6842212891841a5f36a3"
 
 [[files]]
 file = "kubejs/server_scripts/first_join.js"

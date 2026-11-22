@@ -17,7 +17,7 @@ const KIT_INIZIALE = [
 function kitInizialeDai(player) {
   KIT_INIZIALE.forEach(item => player.give(Item.of(item)));
   player.persistentData.putLong(KIT_INIZIALE_ULTIMO, Date.now());
-  player.tell(Text.gold('Hai ricevuto un mini kit di sopravvivenza. Buona fortuna!'));
+  player.tell(Text.translatable('amici.kit_iniziale.ricevuto').gold()); // testi in kubejs/assets/amici/lang
 }
 
 PlayerEvents.loggedIn(event => {
@@ -41,7 +41,7 @@ ServerEvents.commandRegistry(event => {
         const totaleMinuti = Math.ceil(mancano / 60000);
         const ore = Math.floor(totaleMinuti / 60);
         const minuti = totaleMinuti % 60;
-        player.tell(Text.red(`Puoi riprendere il kit tra ${ore} h e ${minuti} min.`));
+        player.tell(Text.translatable('amici.kit_iniziale.attesa', `${ore}`, `${minuti}`).red());
         return 0;
       }
 

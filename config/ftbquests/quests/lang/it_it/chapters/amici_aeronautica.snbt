@@ -1,0 +1,125 @@
+{
+	quest.0302F397C83897F8.quest_desc: ["Spara un ortaggio da un cannone a patate montato."]
+	quest.0302F397C83897F8.title: "Artiglieria pesante"
+	quest.0D0600B2080F56D6.quest_desc: [
+		"Allinea e collega due &eConnettori d'attracco&r."
+		""
+		"Per agganciare una navetta a una nave madre, o un rimorchio a un camion."
+	]
+	quest.0D0600B2080F56D6.title: "Attracco"
+	quest.1020E2B6B6D7C193.quest_desc: ["Piazza un'elica e dalle rotazione per generare spinta."]
+	quest.1020E2B6B6D7C193.title: "A ogni azione..."
+	quest.160363C4C544B76E.quest_desc: ["Lastra e pepite di ferro. Serve per le sospensioni delle ruote e per la molla a torsione."]
+	quest.160363C4C544B76E.title: "Molla"
+	quest.185743ECF5BB7329.quest_desc: ["Assemblaggio in sequenza a partire da un blocco di ferro industriale."]
+	quest.185743ECF5BB7329.title: "Gruppo motore"
+	quest.1D3A346E895B329C.quest_desc: [
+		"Riempi d'aria calda un involucro ermetico."
+		""
+		"Il primo dirigibile! Gli occhiali da aviatore li offre la casa."
+	]
+	quest.1D3A346E895B329C.title: "Testa tra le nuvole"
+	quest.2751519880F3D236.quest_desc: [
+		"Messa in rotazione, spinge: è quello che fa muovere aerei e dirigibili."
+		""
+		"C'è anche in legno: si passa dall'una all'altra nel banco da lavoro."
+	]
+	quest.2751519880F3D236.title: "Elica"
+	quest.314D3DB4E5D37CC8.quest_desc: [
+		"Il &eVolante&r si afferra e si gira, e trasmette la rotazione."
+		"La &eLeva dell'acceleratore&r regola il segnale come una leva analogica, ma la si tiene in mano."
+		""
+		"Insieme bastano per guidare quasi tutto."
+	]
+	quest.314D3DB4E5D37CC8.title: "Volante e acceleratore"
+	quest.33F6909507BCD56F.quest_desc: [
+		"Imposta come destinazione di un tavolo di navigazione un punto a oltre &e5000 blocchi&r."
+		""
+		"Il bordo del mondo è a 5000 blocchi dallo spawn: la meta è oltre il confine. Ma il viaggio, quello, si può fare."
+	]
+	quest.33F6909507BCD56F.quest_subtitle: "Destinazione: oltre l'orizzonte"
+	quest.33F6909507BCD56F.title: "&bLontano da casa"
+	quest.3DE7EB59108EC62B.quest_desc: [
+		"Assemblaggio in sequenza con ruote dentate, lastre di ferro e pepite di ottone."
+		""
+		"Serve per l'elica intelligente, il cuscinetto giroscopico e il sensore cardanico."
+	]
+	quest.3DE7EB59108EC62B.title: "Meccanismo giroscopico"
+	quest.42B9871FD0C8368F.quest_desc: [
+		"Fai cristallizzare la miscela di Levitite."
+		""
+		"La &eLevitite&r galleggia: un velivolo costruito con lei vola senza palloni né eliche."
+	]
+	quest.42B9871FD0C8368F.title: "Oggetto volante non identificato"
+	quest.4413FF03C20D81A8.quest_desc: ["Alghe essiccate e un albero. C'è anche in versione piccola, grande e &omostruosa&r."]
+	quest.4413FF03C20D81A8.title: "Pneumatico"
+	quest.465B5F72B649DAE8.quest_desc: [
+		"Uccidi un &ePhantom&r con un cannone a patate montato."
+		""
+		"Di notte, in volo, dopo qualche notte insonne."
+	]
+	quest.465B5F72B649DAE8.title: "Acchiappafantasmi"
+	quest.466C6CFCF9FADE11.quest_desc: [
+		"Ci si monta sopra un pneumatico, e sotto una macchina assemblata."
+		""
+		"Motore portatile, volante, quattro supporti con ruote: avete una macchina."
+	]
+	quest.466C6CFCF9FADE11.quest_subtitle: "Quattro ruote e un motore"
+	quest.466C6CFCF9FADE11.title: "Supporto per ruota"
+	quest.493A6BC46BE46C76.quest_desc: ["Eliche che si &eorientano da sole&r: tengono dritto un velivolo senza doverlo correggere a mano."]
+	quest.493A6BC46BE46C76.title: "Eliche giroscopiche"
+	quest.4AC278E435F97D9E.quest_desc: ["Il &eCuscinetto trivellatore&r con le &eRuote tagliaroccia&r: una talpa che scava mentre avanza."]
+	quest.4AC278E435F97D9E.title: "Trivella"
+	quest.4C5C5AEB09CD4838.quest_desc: [
+		"Gruppo motore e altoforno: un motore che brucia combustibile e dà rotazione &esenza vapore&r."
+		""
+		"Piazzalo e accendilo: è il motore giusto per una macchina che si sposta."
+	]
+	quest.4C5C5AEB09CD4838.title: "Motore portatile"
+	quest.4DDDCF19BB5DF580.quest_desc: [
+		"Con l'&eAssemblatore fisico&r una struttura incollata diventa una &emacchina con la fisica vera&r: cade, galleggia, si ribalta, si scontra."
+		""
+		"È la base di tutto il capitolo: barche, auto, dirigibili, aerei."
+		""
+		"Incolla i blocchi con la &eSuper colla&r di Create, poi attiva l'assemblatore."
+	]
+	quest.4DDDCF19BB5DF580.quest_subtitle: "Il cuore di ogni macchina fisica"
+	quest.4DDDCF19BB5DF580.title: "Assemblatore fisico"
+	quest.555167933D6060F9.quest_desc: ["Nel miscelatore &escaldato&r: polvere di pietra dell'End, pepite di zinco e acqua."]
+	quest.555167933D6060F9.title: "Miscela di Levitite"
+	quest.610910A9C8628DFA.quest_desc: [
+		"L'&eInvolucro&r si fa con lana e bastoni; si tinge come la lana."
+		"Il &eBruciatore ad aria calda&r va sotto e scalda l'aria dentro."
+		""
+		"L'involucro deve essere &echiuso ermeticamente&r, altrimenti l'aria scappa."
+	]
+	quest.610910A9C8628DFA.title: "Pallone ad aria calda"
+	quest.634F270E169FF316.quest_desc: [
+		"Collega un &eConnettore per funi&r o un &eArgano&r con una fune."
+		""
+		"Per trainare, sollevare carichi sotto un dirigibile o ormeggiare."
+	]
+	quest.634F270E169FF316.title: "Funi"
+	quest.6B0A7173DE31FAE3.quest_desc: ["Assembla un cuscinetto dell'elica per generare più spinta."]
+	quest.6B0A7173DE31FAE3.title: "Spinta a volontà"
+	quest.70EB3B390DF4FF9F.quest_desc: [
+		"&eSensore cardanico&r: inclinazione. &eAltimetro&r: quota. &eSensore di velocità&r: velocità."
+		""
+		"Danno un segnale redstone: con un po' di logica fanno da pilota automatico."
+	]
+	quest.70EB3B390DF4FF9F.title: "Strumenti di bordo"
+	quest.71DFFF804D163C31.quest_desc: ["Ci si costruiscono sopra pale grandi a piacere: molta più spinta di un'elica sola."]
+	quest.71DFFF804D163C31.title: "Cuscinetto dell'elica"
+	quest.72176E28CFFF764E.quest_desc: [
+		"Una lastra di ferro riempita di miele con lo &eSpruzzatore&r."
+		""
+		"Incolla di colpo un gruppo di blocchi da assemblare, senza doverli segnare uno per uno."
+	]
+	quest.72176E28CFFF764E.title: "Colla al miele"
+	quest.756B44FB52C2E784.quest_desc: ["Il cannone a patate di Create, in versione da montare su un velivolo. Si fa nel &eBanco meccanico&r."]
+	quest.756B44FB52C2E784.title: "Cannone a patate montato"
+	quest.784BE73BABBD1B1F.quest_desc: ["Pietra dell'End nelle &eRuote frantumatrici&r. Serve essere stati nell'End."]
+	quest.784BE73BABBD1B1F.title: "Polvere di pietra dell'End"
+	quest.78EDA075F5FB67F9.quest_desc: ["Indica la direzione verso le coordinate che gli dai. Con un po' di redstone guida da solo."]
+	quest.78EDA075F5FB67F9.title: "Tavolo di navigazione"
+}
