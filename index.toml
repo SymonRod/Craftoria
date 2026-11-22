@@ -4665,38 +4665,6 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "fdad1adb6a6efb3d86b88d0b5dd957ecbc967bd2c2f6471e6dce0761a013851b"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/Completionist.snbt"
-hash = "4458954f5f99686db81a152bdd7dc5838c3871e0eed4fcf158e97a585ab46a8f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Create.snbt"
-hash = "5f9eb4ea8ba89948e54345046574d7ac493b47b274ba19565d7f66644ee68453"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Mekanism.snbt"
-hash = "83783ed150c110ec853fd2ea578ee28ff511cf807c77202b3571cef4f687921d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Occultism.snbt"
-hash = "a2291adf8cc785834c5cad58f63bc63bab0faa869e133b64869144c83fe69f74"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/PneumaticCraft.snbt"
-hash = "7727882b3ec1068d4643419b3894ab9a4610954db3eb54405188af229becda0d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Powah.snbt"
-hash = "e92a898643a9abf2dad1c10a4c6d6fb78d5d155a4487589e59ff0256ed2616fb"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Theurgy.snbt"
-hash = "3797063aa6ed274db2fa183633317327ca5210d723fadfe2dd667ef962631433"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/Welcome.snbt"
-hash = "67256ab5ace5a5423d9e7edac5aaa78e0415aafdd2987eccae87dc24b920bd2e"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/amici_aeronautica.snbt"
 hash = "e9054137aa7e6eca384e443c36722adf51d27da007bb03eb524f12e47007858b"
 
@@ -4721,8 +4689,16 @@ file = "config/ftbquests/quests/chapters/bosses.snbt"
 hash = "e9e0782c8f7f25805e75fcb16db72c20012963f9a23642f587fd05698096b1dc"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/completionist.snbt"
+hash = "4458954f5f99686db81a152bdd7dc5838c3871e0eed4fcf158e97a585ab46a8f"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/core.txt"
 hash = "3d013efb8fe1e7c8e297050a3c33fb11654600c15615f992ec5fac08c59103f3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "5f9eb4ea8ba89948e54345046574d7ac493b47b274ba19565d7f66644ee68453"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/endgame.snbt"
@@ -4761,6 +4737,10 @@ file = "config/ftbquests/quests/chapters/just_dire_things.snbt"
 hash = "2fc12095a4b49194ef7eb0a1c7ed09e40e713d6cc64bb9b7a9a4cf3c50e3d663"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "83783ed150c110ec853fd2ea578ee28ff511cf807c77202b3571cef4f687921d"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/mekanism_generators.snbt"
 hash = "9d56fefab58d3b85b0f6dc0303fa31449529524668ff517dfb9600909b9d5d45"
 
@@ -4789,12 +4769,32 @@ file = "config/ftbquests/quests/chapters/neo_vitae.snbt"
 hash = "d445e4c1f6b78c8cfa8cab5b1915f46255af9e6d44fa2f61ffa5b164842b3bbd"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/occultism.snbt"
+hash = "a2291adf8cc785834c5cad58f63bc63bab0faa869e133b64869144c83fe69f74"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pneumaticcraft.snbt"
+hash = "7727882b3ec1068d4643419b3894ab9a4610954db3eb54405188af229becda0d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/powah.snbt"
+hash = "e92a898643a9abf2dad1c10a4c6d6fb78d5d155a4487589e59ff0256ed2616fb"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/relics_and_artifacts.snbt"
 hash = "a158edce86e094230595f0ec27157b7b39cabbd55777a57440d6b2e30b43686e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/replication.snbt"
 hash = "268a3d431cbccef4b626bb9e06500e94c6b112dcb7311a0e5c0e409d53b12076"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/theurgy.snbt"
+hash = "3797063aa6ed274db2fa183633317327ca5210d723fadfe2dd667ef962631433"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome.snbt"
+hash = "67256ab5ace5a5423d9e7edac5aaa78e0415aafdd2987eccae87dc24b920bd2e"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -5177,63 +5177,63 @@ file = "config/ftbquests/quests/lang/pt_br/reward_table.snbt"
 hash = "a36692b739d6e4363eaf60daaca8b0abc183d202c3212fbc01211648f4db00fb"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/0414572B7C36F04F.snbt"
+file = "config/ftbquests/quests/reward_tables/0414572b7c36f04f.snbt"
 hash = "a6efa307dfd0dd2d7de33041d267dc3b22d8195b05c636e53760c1d5e0fcd04d"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/0DF6EBF90213BF49.snbt"
+file = "config/ftbquests/quests/reward_tables/0df6ebf90213bf49.snbt"
 hash = "133d151b998aa20baae4bda0f79dcd3ab619bfa5073d43cf7c26549b594f0857"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/1CD342FEDCDF6159.snbt"
+file = "config/ftbquests/quests/reward_tables/1cd342fedcdf6159.snbt"
 hash = "9bcf4c3aa01b98eea8701473ae68ddeeb2f25a12e305021a016a50ab2cb6611e"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/1D192DA13A51FB61.snbt"
+file = "config/ftbquests/quests/reward_tables/1d192da13a51fb61.snbt"
 hash = "922bc3fcb54d466a4bd4101a3fe270edb350dd4b19f7ee5971e10d31155f8ab2"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/1D6F040D6822FC7F.snbt"
+file = "config/ftbquests/quests/reward_tables/1d6f040d6822fc7f.snbt"
 hash = "21e2d80ea852a53c93c39c3fabd8b0ff3fc29ef8532c9244487834ab7bd803f2"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/28958DE08ADA052A.snbt"
+file = "config/ftbquests/quests/reward_tables/28958de08ada052a.snbt"
 hash = "d530fb0ced82012db969c4a21276725acb8bf5bcfd50d41ea9d8753a524166c1"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/2C400654E7B41B6A.snbt"
+file = "config/ftbquests/quests/reward_tables/2c400654e7b41b6a.snbt"
 hash = "4381e7d9cb738d4496aaabb42e6e717bbace2a95d20ccb09269ab6605e4278b4"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/303299C956CA9C80.snbt"
+file = "config/ftbquests/quests/reward_tables/303299c956ca9c80.snbt"
 hash = "2aacf0a88dfcf94a882b0f7841c9d335b53c43194436868b15bdf8544e5a01a0"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/3D4D6E8E82099676.snbt"
+file = "config/ftbquests/quests/reward_tables/3d4d6e8e82099676.snbt"
 hash = "c858fb921098fdeca9ce41177bfd7776f301dbfef1780d7bda940070c67f6d72"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/454E88165C7B2106.snbt"
+file = "config/ftbquests/quests/reward_tables/454e88165c7b2106.snbt"
 hash = "01a73eb1dfd77750d60a3889125850269830975ea3b2fff4c991fce344ca1807"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/47FED5AC73CDB8BF.snbt"
+file = "config/ftbquests/quests/reward_tables/47fed5ac73cdb8bf.snbt"
 hash = "88a63b6140720e4511d7a7e6d915d09d28fbebc891d202d7c53f3ccc6e8809d7"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/55C75A71A401F6F9.snbt"
+file = "config/ftbquests/quests/reward_tables/55c75a71a401f6f9.snbt"
 hash = "ce05c780394d3bc0503d0cea684610666dfbb2b4ca74c6a99b03abdb650d9d98"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/59C15B9D0F7ED5E1.snbt"
+file = "config/ftbquests/quests/reward_tables/59c15b9d0f7ed5e1.snbt"
 hash = "42fb6864e2301d52a4d42b3791e82308d869956ad2515957e203ff1fb4a0fb6a"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/769C9AEC3DB2FA42.snbt"
+file = "config/ftbquests/quests/reward_tables/769c9aec3db2fa42.snbt"
 hash = "5152ea16ede92f5a2fc1fa9d585207ea6de75b014b6fb53f84e6a1300ed99fca"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/7D1F93D6860D4667.snbt"
+file = "config/ftbquests/quests/reward_tables/7d1f93d6860d4667.snbt"
 hash = "8919340842225f2db6a5489212459f8169a243df78e8732570c7d8a800625586"
 
 [[files]]
