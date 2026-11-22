@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "38012122e012278c22e40321f85aaa8ccdaffce4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rp7ooqvq/versions/lsOrQAr5/Loot%20Beams%20Refork-neoforge-1.21.1-3.4.7.jar"
 
 [update]
 [update.curseforge]

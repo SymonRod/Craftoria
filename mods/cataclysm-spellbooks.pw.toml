@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "568d798862a61a374ab1e55dcddf5b2e3326b8b5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3FEg0A8D/versions/RhD1njZh/cataclysm_spellbooks-1.1.14-1.21.jar"
 
 [update]
 [update.curseforge]

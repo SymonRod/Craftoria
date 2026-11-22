@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "72e114d581618d67e9c3915f18284f1ba971bf67"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/7ndXqAZv/waveycapes-neoforge-1.11.2-mc1.21.1.jar"
 
 [update]
 [update.curseforge]
