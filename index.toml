@@ -4697,6 +4697,14 @@ file = "config/ftbquests/quests/chapters/Welcome.snbt"
 hash = "67256ab5ace5a5423d9e7edac5aaa78e0415aafdd2987eccae87dc24b920bd2e"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/amici_aeronautica.snbt"
+hash = "e9054137aa7e6eca384e443c36722adf51d27da007bb03eb524f12e47007858b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/amici_mecha.snbt"
+hash = "140c6642d32bce9f434dc9c4205c5ddfa593e6d51a0f554299a210277ab49c88"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/apotheosis.snbt"
 hash = "70c65c67e33eb47f868ef95c8afb2fb2fd1ba52ee08f4bcdf1031498d52f0d07"
 
@@ -4794,7 +4802,7 @@ hash = "36da5c47357f45c88c331e4c950c986bc9676071be48ff12172001cfa0de94be"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "64e73c7b75cfb4ecb1e38c43581cec8eeba4d55d74ecbdb2daca02aaab2d38fe"
+hash = "512a3ca27dcc70891d3a85b0ca5feb7fc6cd657ffb2330e445d392724abb9f61"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt"
@@ -4831,6 +4839,14 @@ hash = "ed881dcba25464756803567134233c46770ab41619bd11fcf3c2dd1fec44147a"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Theurgy.snbt"
 hash = "6a21700156d8c98d49cc8e0bb51d29f74543f0aaf20fb6c22eb3002d6db50e65"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/amici_aeronautica.snbt"
+hash = "f69c9af91af703790ad96968da0a17dcd636c04e0d81a9473a3455e69b4c24ae"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/amici_mecha.snbt"
+hash = "56671fbd2c73338c9a07a0b9956ec4f790ce3b58983ba17412c938af662943da"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/apotheosis.snbt"

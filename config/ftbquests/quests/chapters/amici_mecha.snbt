@@ -1,0 +1,660 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 1.5d
+	filename: "amici_mecha"
+	group: "066C799B2F5452CD"
+	icon: {
+		id: "let_it_walk:walker_core"
+	}
+	id: "326531903C13DED0"
+	images: [ ]
+	order_index: 1
+	quest_links: [
+		{
+			id: "4A0BC3C7846D9D40"
+			linked_quest: "0888176AF1BEA68D"
+			shape: "circle"
+			size: 1.0d
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "2479FA4BCFABDD40"
+			linked_quest: "0541F90AD95B4B5E"
+			shape: "circle"
+			size: 1.0d
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			id: "735A5FE7236FE5F9"
+			linked_quest: "0EFB32C64C146682"
+			shape: "circle"
+			size: 1.0d
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			id: "446E8759C37DFF35"
+			linked_quest: "017309CDB87F2A1E"
+			shape: "circle"
+			size: 1.0d
+			x: -7.0d
+			y: 4.5d
+		}
+		{
+			id: "07D57F6DA106587A"
+			linked_quest: "6227304103E32C74"
+			shape: "circle"
+			size: 1.0d
+			x: 7.0d
+			y: 4.5d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["0888176AF1BEA68D"]
+			id: "5139A05F918E99F9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "682D71A10F083F88"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [
+				{
+					id: "6091761FA4275184"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5139A05F918E99F9"]
+			id: "3F823FD905AD03D4"
+			rewards: [
+				{
+					id: "58C353C550CEA8A9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					id: "0A092AFCC51DB865"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_nugget"
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"5139A05F918E99F9"
+				"0541F90AD95B4B5E"
+			]
+			id: "46369D7E53F51ACA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4A5EF0F5241F9012"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6186ABC8BE081D49"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["46369D7E53F51ACA"]
+			id: "73FC39A58843E7C0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3FF689B90CB7B959"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7B34B77EA7AA34DB"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_casing"
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"46369D7E53F51ACA"
+				"0EFB32C64C146682"
+			]
+			id: "6A36457AA93157DF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "21EBC54636A178CC"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A7ADB8818759C04"
+					item: {
+						count: 1
+						id: "let_it_walk:articulation_unit"
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"017309CDB87F2A1E"
+				"3F823FD905AD03D4"
+			]
+			id: "5CCB39CC549319B2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69D5EDED6E3DA691"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0108334091B5A600"
+					item: {
+						count: 1
+						id: "let_it_walk:stabilization_module"
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"46369D7E53F51ACA"
+				"3F823FD905AD03D4"
+			]
+			id: "618242F2BFE27FB0"
+			rewards: [
+				{
+					id: "434B66491853F7FE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "67A8E22F71E2E9B6"
+					item: {
+						count: 1
+						id: "let_it_walk:leg_positioner"
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6A36457AA93157DF"]
+			id: "35BE3162FB27D960"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AC761F71513B83B"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "766CAACBC0C68652"
+					item: {
+						count: 1
+						id: "let_it_walk:leg_hinge"
+					}
+					type: "item"
+				}
+				{
+					id: "7364ECB8CC2A5276"
+					item: {
+						count: 1
+						id: "let_it_walk:leg_swivel"
+					}
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["46369D7E53F51ACA"]
+			id: "6A315ED36E740961"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5167CF3D350D0AED"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F481889B870D4A1"
+					item: {
+						count: 1
+						id: "let_it_walk:leg_foot"
+					}
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"73FC39A58843E7C0"
+				"5CCB39CC549319B2"
+			]
+			id: "4036DEA0C58892A1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BA67A161B4CD251"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [
+				{
+					id: "0F4248E8E896F44A"
+					item: {
+						count: 1
+						id: "let_it_walk:walker_core"
+					}
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73FC39A58843E7C0"]
+			id: "4FFD10247BE9EBCE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "74BA5A753D82D886"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "44A8091C4A22FFCF"
+					item: {
+						count: 1
+						id: "let_it_walk:pilot_controls"
+					}
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"4036DEA0C58892A1"
+				"35BE3162FB27D960"
+				"6A315ED36E740961"
+				"4FFD10247BE9EBCE"
+			]
+			id: "5768CD5D09D9E9CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DB32C9ABDFDEDE9"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+				{
+					id: "2125F34C8FDC665B"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 8
+					id: "4FA89D4537E6884E"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.5d
+			tasks: [
+				{
+					advancement: "let_it_walk:first_step"
+					criterion: ""
+					icon: {
+						id: "let_it_walk:walker_core"
+					}
+					id: "75CF50EDA47440DA"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5768CD5D09D9E9CE"]
+			id: "14C455D7DCDD094D"
+			rewards: [
+				{
+					id: "1C46E5B25669065B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					id: "7D31056788C3FD5A"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_spike"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["14C455D7DCDD094D"]
+			id: "7A357BDB4830AE8D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "11960A002463E349"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "49CFC3E9CAC997F5"
+					item: {
+						count: 1
+						id: "let_it_walk:climbing_foot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7A357BDB4830AE8D"]
+			id: "2772D9AFFD78A30E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4B8DE4B7F0D67926"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+				{
+					id: "3B2D5D0A608F9446"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					advancement: "let_it_walk:up_the_wall"
+					criterion: ""
+					icon: {
+						id: "let_it_walk:climbing_foot"
+					}
+					id: "1C0A29475535AA87"
+					type: "advancement"
+				}
+			]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"5768CD5D09D9E9CE"
+				"6227304103E32C74"
+			]
+			id: "7C564E8261245264"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FA59FE54047136B"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+				{
+					id: "23AED1D459C3B0CF"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "26B217759DFA50F9"
+					item: {
+						count: 1
+						id: "let_it_walk:jet_nozzle"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7C564E8261245264"]
+			id: "4937636A065F1135"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5ECC580D82492EA9"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "654650D0664F930C"
+					item: {
+						count: 1
+						id: "let_it_walk:jet_foot"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4937636A065F1135"]
+			id: "5991BDAE721BE0BC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "58699A86A361B8BA"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+				{
+					id: "5BAB4FBB0EAC8578"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					advancement: "let_it_walk:liftoff"
+					criterion: ""
+					icon: {
+						id: "let_it_walk:jet_foot"
+					}
+					id: "694F97222F7A98CD"
+					type: "advancement"
+				}
+			]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5768CD5D09D9E9CE"]
+			id: "26A4B2D8291B03E5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C2D8255DD170BF8"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "70ED526B6D4E5A0D"
+					item: {
+						count: 1
+						id: "let_it_walk:jet_mount"
+					}
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5768CD5D09D9E9CE"]
+			id: "5CD4A630F58E3853"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C0BC549B035AA35"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "148B6B91D10C906B"
+					item: {
+						count: 1
+						id: "let_it_walk:remote_pilot_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"2772D9AFFD78A30E"
+				"5991BDAE721BE0BC"
+			]
+			id: "59A62C1473A99EFD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1367A7C4C39D200D"
+					table_id: 4417308367866402422L
+					type: "random"
+				}
+				{
+					id: "1B28E6AC857544C8"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					count: 32
+					id: "2AB6BA1043E19BA5"
+					item: {
+						count: 1
+						id: "let_it_walk:klaxium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "6B1ABEA587D3705B"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 3.5d
+			tasks: [
+				{
+					advancement: "let_it_walk:colossus"
+					criterion: ""
+					icon: {
+						id: "let_it_walk:walker_core"
+					}
+					id: "62120CBD323129E1"
+					type: "advancement"
+				}
+			]
+			x: 13.5d
+			y: -0.5d
+		}
+	]
+}

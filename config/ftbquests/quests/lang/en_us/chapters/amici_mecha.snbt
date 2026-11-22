@@ -1,0 +1,123 @@
+{
+	quest.14C455D7DCDD094D.quest_desc: ["Un lingotto di Klaxium nella &eSega meccanica&r."]
+	quest.14C455D7DCDD094D.title: "Chiodo di Klaxium"
+	quest.26A4B2D8291B03E5.quest_desc: [
+		"Una piastra sul lato di qualsiasi blocco per un &emotore a getto&r o un &epiede chiodato&r. Fino a tre affiancati diventano un'unica piattaforma."
+		""
+		"Mentre guidi: &fF&r fa sparare un colpo a tutti i motori, per uno scatto o una schivata; &fR&r fa afferrare ai piedi chiodati sui supporti il blocco davanti, come uno Sticker."
+	]
+	quest.26A4B2D8291B03E5.title: "Supporto"
+	quest.2772D9AFFD78A30E.quest_desc: ["Fai salire un mecha su un muro con i piedi chiodati."]
+	quest.2772D9AFFD78A30E.title: "Su per il muro"
+	quest.35BE3162FB27D960.quest_desc: [
+		"&eCerniera&r: piega la parte successiva della gamba su un piano, come un'anca o un ginocchio."
+		""
+		"&eSnodo&r: fa ruotare tutto ciò che sta oltre attorno alla direzione in cui punta. Messo in giù sotto lo scafo è un'anca che sposta la gamba di lato."
+		""
+		"Un giunto guarda lontano dal blocco su cui lo piazzi: tutto ciò che costruisci oltre si muove con lui."
+	]
+	quest.35BE3162FB27D960.title: "Giunti delle gambe"
+	quest.3F823FD905AD03D4.quest_desc: ["Le pepite servono per i moduli di stabilizzazione, i supporti e il posizionatore."]
+	quest.4036DEA0C58892A1.quest_desc: [
+		"Costruisci uno scafo attorno al &eNucleo&r, appendi le gambe con cerniere e snodi, e cammina."
+		""
+		"Si muove finché la &efaccia anteriore&r riceve rotazione da un albero. Più l'albero gira veloce, più marce si sbloccano: 16, 32, 64 e 128 RPM per le marce dalla 2 alla 5."
+		""
+		"Lo stress cresce col peso e con quello che fa: marce alte, volo e chiodi sui muri costano di più."
+		""
+		"&eClic destro a mano vuota&r: assembla il mecha; dopo, lo parcheggia o lo rimette in marcia."
+	]
+	quest.4036DEA0C58892A1.quest_subtitle: "Il cuore della macchina"
+	quest.4036DEA0C58892A1.title: "Nucleo del mecha"
+	quest.46369D7E53F51ACA.quest_desc: ["Il lingotto sotto la &ePressa meccanica&r diventa una lastra. Ne servono tante: quasi ogni componente ne usa almeno una."]
+	quest.4937636A065F1135.quest_desc: [
+		"Con piedi a getto su almeno metà delle gambe, &fG&r fa decollare il mecha e lo fa &evolare&r: più va veloce, più si inclina. Un salto caricato accende i getti e va tre volte più in alto."
+		""
+		"&eCarburante&r: lava, pompata con tubi nel nucleo da qualsiasi faccia tranne quella dell'albero, oppure da un &eSerbatoio per fluidi&r appoggiato al suo retro."
+		""
+		"&cIn acqua i getti si spengono subito.&r G li riaccende una volta fuori."
+	]
+	quest.4937636A065F1135.title: "Piede a getto"
+	quest.4FFD10247BE9EBCE.quest_desc: [
+		"Clic destro per prendere i comandi:"
+		"&fW/S&r avanti e indietro, &fA/D&r gira, &frotellina&r cambia marcia, &fSpazio&r salta, &fCtrl&r galoppa, &fX/Z&r alzano e abbassano lo scafo, &fAlt&r più il mouse lo inclina, &fV&r cammina di lato, &fG&r vola o ritira i chiodi. &fShift&r per scendere."
+		""
+		"Clic destro sul nucleo coi comandi in mano li &ecollega&r: piazzati ovunque, lo guidano a distanza."
+		"Shift + clic destro apre il menu per comandare frequenze di &eRedstone Link&r mentre guidi."
+	]
+	quest.4FFD10247BE9EBCE.title: "Comandi del pilota"
+	quest.5139A05F918E99F9.quest_desc: [
+		"Il &6Klaxium&r è la lega con cui si costruisce ogni pezzo di un mecha."
+		""
+		"Nel &eMiscelatore meccanico&r sopra un &eBacino&r: &f1 lingotto di ferro&r, &f2 lingotti di rame&r, &f2 sabbia delle anime&r e &f100 mB di lava&r. Non serve calore."
+		""
+		"La sabbia delle anime si trova nel Nether: conviene fare scorta."
+	]
+	quest.5139A05F918E99F9.quest_subtitle: "Tutto comincia nel bacino"
+	quest.5139A05F918E99F9.title: "Lega di Klaxium"
+	quest.5768CD5D09D9E9CE.quest_desc: [
+		"Nucleo, scafo, almeno due gambe con giunti e piedi, comandi del pilota: assembla e cammina."
+		""
+		"Il primo mecha non deve essere bello. Deve stare in piedi."
+		""
+		"&7Consiglio: provalo lontano dalla base, la prima volta."
+	]
+	quest.5768CD5D09D9E9CE.quest_subtitle: "Monta un mecha e fallo camminare"
+	quest.5768CD5D09D9E9CE.title: "Primi passi"
+	quest.5991BDAE721BE0BC.quest_desc: ["Fai volare un mecha sui piedi a getto."]
+	quest.5991BDAE721BE0BC.title: "Decollo"
+	quest.59A62C1473A99EFD.quest_desc: [
+		"Assembla un mecha di &e1000 blocchi o più&r."
+		""
+		"Più peso vuol dire più stress sul nucleo: servirà parecchia rotazione, e un albero veloce."
+		""
+		"Quando ci riuscite, portatelo allo spawn. Lo vogliamo vedere."
+	]
+	quest.59A62C1473A99EFD.quest_subtitle: "1000 blocchi che camminano"
+	quest.59A62C1473A99EFD.title: "&6Colosso"
+	quest.5CCB39CC549319B2.quest_desc: [
+		"Assemblaggio in sequenza a partire da un &eMeccanismo di precisione&r, con &ftubi elettronici&r e &fpepite di Klaxium&r."
+		""
+		"Tiene in equilibrio il mecha: senza, il nucleo non si costruisce."
+	]
+	quest.5CCB39CC549319B2.title: "Modulo di stabilizzazione"
+	quest.5CD4A630F58E3853.quest_desc: [
+		"Guida un mecha a mano da qualsiasi punto del mondo."
+		""
+		"Serve un &eRedstone Link&r di Create per costruirlo."
+	]
+	quest.5CD4A630F58E3853.title: "Telecomando del pilota"
+	quest.618242F2BFE27FB0.quest_desc: [
+		"Guardando un giunto mostra il suo angolo; con la &erotellina&r lo gira di 5 gradi (1 grado tenendo Ctrl)."
+		""
+		"È l'angolo da cui la gamba parte e cammina: con questo si decide la postura del mecha."
+	]
+	quest.618242F2BFE27FB0.title: "Posizionatore"
+	quest.6A315ED36E740961.quest_desc: [
+		"Chiude una gamba: il mecha sta in piedi e cammina sui piedi."
+		""
+		"Una catena di giunti senza piede è un &obraccio&r: tiene la posa e oscilla mentre il mecha cammina."
+	]
+	quest.6A315ED36E740961.title: "Piede"
+	quest.6A36457AA93157DF.quest_desc: [
+		"Assemblaggio in sequenza: parte da una &flastra di Klaxium&r e passa per &fruota dentata&r e &flega di andesite&r."
+		""
+		"Serve per i giunti delle gambe. Il percorso esatto lo mostra EMI."
+	]
+	quest.6A36457AA93157DF.title: "Unità di articolazione"
+	quest.73FC39A58843E7C0.quest_desc: ["Clic destro con una lastra di Klaxium su un tronco o un legno &oscortecciato&r."]
+	quest.7A357BDB4830AE8D.quest_desc: [
+		"Un piede con quattro chiodi che si piantano in quello su cui poggia."
+		""
+		"Con piedi chiodati su almeno metà delle gambe il mecha &esale sui muri&r e cammina sui &esoffitti&r come in piano. &fG&r ritira e fa uscire i chiodi."
+		""
+		"Tenersi coi chiodi aggiunge stress al nucleo, e mollano la presa un secondo dopo che la rotazione si ferma."
+	]
+	quest.7A357BDB4830AE8D.title: "Piede chiodato"
+	quest.7C564E8261245264.quest_desc: [
+		"Assemblaggio in sequenza: lastra di ferro, lastra di Klaxium, tubo per fluidi e lava."
+		""
+		"I getti bruciano &clava&r: preparati a portarne parecchia."
+	]
+	quest.7C564E8261245264.title: "Ugello a getto"
+}
