@@ -5,25 +5,46 @@
 	quest.11CAACE359987926.quest_desc: ["From &eInferium Ore&r, or from mobs."]
 	quest.11CAACE359987926.quest_subtitle: "Grow your own resources"
 	quest.11CAACE359987926.title: "Mystical Agriculture"
-	quest.24C3918C250542DF.quest_desc: ["The top tier."]
+	quest.15C0512A53A12945.quest_desc: ["Endgame component: &dPolonium Pellet&r from Mekanism."]
+	quest.15C0512A53A12945.title: "Niotic Crystal Seeds"
+	quest.16CBC15FCDC83011.quest_desc: ["Endgame component: &dAtomic Alloy&r from Mekanism."]
+	quest.16CBC15FCDC83011.title: "Platinum Seeds"
+	quest.24C3918C250542DF.quest_desc: ["The top tier. Add a &eQuantum Circuit&r (MI) to the grid: it is not consumed."]
+	quest.24C3918C250542DF.quest_subtitle: "Requires the Quantum Age"
 	quest.24C3918C250542DF.title: "Supremium"
 	quest.27C80F54B06C33A2.quest_desc: ["&ePurification Chamber&r with &foxygen&r."]
 	quest.27C80F54B06C33A2.quest_subtitle: "&aHigh yield"
 	quest.27C80F54B06C33A2.title: "Purifying"
+	quest.2E31B638860C1F4E.quest_desc: ["Add a &ePrecision Mechanism&r to the grid: it is not consumed."]
+	quest.2E31B638860C1F4E.quest_subtitle: "Requires Create"
 	quest.2E31B638860C1F4E.title: "Tertium"
 	quest.30BFB749801EBF04.quest_desc: ["Plant them: every harvest gives more essence."]
 	quest.30BFB749801EBF04.title: "First Seeds"
+	quest.38F4B07DD269D12D.quest_desc: ["Add an &eAnalog Circuit&r (MI) or an &eAdvanced Control Circuit&r (Mekanism) to the grid: it is not consumed."]
+	quest.38F4B07DD269D12D.quest_subtitle: "Requires the Electric Age"
 	quest.38F4B07DD269D12D.title: "Imperium"
 	quest.40316484243D1839.quest_desc: ["4 essences + crystal = 1 essence of the next tier."]
 	quest.40316484243D1839.title: "Infusion Crystal"
+	quest.4C4E0D7A0CE8FCC9.quest_desc: ["Endgame component: &dNitro Crystal&r from Powah."]
+	quest.4C4E0D7A0CE8FCC9.title: "Spirited Crystal Seeds"
 	quest.540702A34808AF57.quest_desc: ["Shards from the ore, then the base for every seed."]
 	quest.540702A34808AF57.title: "Prosperity"
+	quest.57BDBB3BD015B0DC.quest_desc: ["Endgame component: &dQuantum Upgrade&r from Modern Industrialization."]
+	quest.57BDBB3BD015B0DC.title: "Netherite Seeds"
+	quest.59B16D2EC13DA58A.quest_desc: [
+		"The strongest seeds are not infused like the others."
+		"On the pedestals: &e2 materials&r, &e4 Supremium essences&r and &d2 endgame components&r."
+	]
+	quest.59B16D2EC13DA58A.quest_subtitle: "&dThe final goal"
+	quest.59B16D2EC13DA58A.title: "Legendary Seeds"
 	quest.5D96EFD9D6AF7200.quest_desc: ["&eCrushing Wheels&r, then washing or smelting."]
 	quest.5D96EFD9D6AF7200.quest_subtitle: "&7Low yield"
 	quest.5D96EFD9D6AF7200.title: "Crushing"
 	quest.5DDE1EB6AB649837.quest_desc: ["&eChemical Dissolution Chamber&r, then washer and crystallizer."]
 	quest.5DDE1EB6AB649837.quest_subtitle: "&bMax yield"
 	quest.5DDE1EB6AB649837.title: "Dissolving"
+	quest.63893AAF6CACE4D5.quest_desc: ["Endgame component: &dReplica Ingot&r from Replication."]
+	quest.63893AAF6CACE4D5.title: "Iridium Seeds"
 	quest.65CBB744233B4C14.quest_desc: ["Only here do resource crops drop an extra seed."]
 	quest.65CBB744233B4C14.title: "Essence Farmland"
 	quest.6C8D30A76F3BF1C5.quest_desc: [
@@ -32,6 +53,8 @@
 	]
 	quest.6C8D30A76F3BF1C5.quest_subtitle: "Metals and gems need refining"
 	quest.6C8D30A76F3BF1C5.title: "No Free Ingots"
+	quest.6E33DD4A637D6EFA.quest_desc: ["Endgame component: &dUltimate Control Circuit&r from Mekanism, plus the soul jars."]
+	quest.6E33DD4A637D6EFA.title: "Wither Skeleton Seeds"
 	quest.6E3BB972649945A2.quest_desc: ["&eChemical Injection Chamber&r with &fhydrogen chloride&r."]
 	quest.6E3BB972649945A2.quest_subtitle: "&bMax yield"
 	quest.6E3BB972649945A2.title: "Injecting"

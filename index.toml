@@ -4670,7 +4670,7 @@ hash = "e9054137aa7e6eca384e443c36722adf51d27da007bb03eb524f12e47007858b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/amici_agricoltura_mistica.snbt"
-hash = "990ee6b90cae73f5c50ee69ed0e4a0260276013d5e35d7c5dc4c9bdf59b51b2a"
+hash = "5a76d2b9822bd8c505b93525101ff6ef511d44fb7c8b8fd01fd2878e828811c7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/amici_mecha.snbt"
@@ -4850,7 +4850,7 @@ hash = "d9e545b6f01e43b7a02b9992e19129981ec96a8b4b9f2593709b747a95348620"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_agricoltura_mistica.snbt"
-hash = "c03e28e78d18a533335f342fb64053c0d3b824bfbc3ae55f4e3a7e0672c0b190"
+hash = "6dc7bdad840b9ca6a560c38c8393730ee80b327aa2850c38bbffa65aac1867d4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_mecha.snbt"
@@ -5090,7 +5090,7 @@ hash = "f69c9af91af703790ad96968da0a17dcd636c04e0d81a9473a3455e69b4c24ae"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/amici_agricoltura_mistica.snbt"
-hash = "a2786d65af7624d0649bde04c954d6e227c0ef3e0f21bf0435142bf2f75145db"
+hash = "2b98a8c1d895a067e4054ad3767749c66c44d0b4b277bddf489ddafbea4b79da"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/amici_mecha.snbt"
@@ -20434,7 +20434,7 @@ hash = "2f751e25e1dc8597dd9813208de66308b8ff7cd506cc4fc8859fff775c3cbe73"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/FarmingForBlockheads/market.js"
-hash = "2290b38566dedb9eb9d1606fd37036e42617f1e483ce0dd7e18d3acf2343760b"
+hash = "c7544060bcf3b0dc18d6b0b303850ae4ca9e085f7ca27820bd9b24a5112bc815"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/FunctionalStorage/Recipes.js"
@@ -20607,6 +20607,10 @@ hash = "7b8881ca8bbb426755fd8d5907052713377c87b91b51b3376ba159d9a2570251"
 [[files]]
 file = "kubejs/server_scripts/amici_kit_iniziale.js"
 hash = "dd94b0a6a965669d022b9ffd3e60abdf0097de7f346a6842212891841a5f36a3"
+
+[[files]]
+file = "kubejs/server_scripts/amici_mystical_bilanciamento.js"
+hash = "4f654825871029ae36985e5eaba60cafe8a0eeaab783afe3d57ac51ef5576b24"
 
 [[files]]
 file = "kubejs/server_scripts/amici_mystical_raffinazione.js"

@@ -490,5 +490,167 @@
 			x: 2.5d
 			y: 4.5d
 		}
+		{
+			dependencies: ["24C3918C250542DF"]
+			id: "59B16D2EC13DA58A"
+			rewards: [
+				{
+					id: "4F36EE73A7ACE732"
+					type: "xp"
+					xp: 250
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "2631C44728F00481"
+					item: {
+						count: 1
+						id: "mysticalagriculture:master_infusion_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "57BDBB3BD015B0DC"
+			rewards: [
+				{
+					id: "5508CDCF16BC1732"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "404F233DDA679F81"
+					item: {
+						count: 1
+						id: "mysticalagriculture:netherite_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: -2.75d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "6E33DD4A637D6EFA"
+			rewards: [
+				{
+					id: "13C3E06F2F960063"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "1CEA934A12E74F7B"
+					item: {
+						count: 1
+						id: "mysticalagriculture:wither_skeleton_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: -1.25d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "63893AAF6CACE4D5"
+			rewards: [
+				{
+					id: "6D16EF41458BFED0"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "66477F091C5989F1"
+					item: {
+						count: 1
+						id: "mysticalagriculture:iridium_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 0.25d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "16CBC15FCDC83011"
+			rewards: [
+				{
+					id: "3BCB5338482C590E"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "64992C777777682C"
+					item: {
+						count: 1
+						id: "mysticalagriculture:platinum_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "15C0512A53A12945"
+			rewards: [
+				{
+					id: "17C53D5FF2E91AC7"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "32D60B5CC20DBC21"
+					item: {
+						count: 1
+						id: "mysticalagriculture:niotic_crystal_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 3.25d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B16D2EC13DA58A"]
+			id: "4C4E0D7A0CE8FCC9"
+			rewards: [
+				{
+					id: "7E9770A8D2840277"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "585A00D3C1CC0AFF"
+					item: {
+						count: 1
+						id: "mysticalagriculture:spirited_crystal_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 4.75d
+			y: -7.5d
+		}
 	]
 }
