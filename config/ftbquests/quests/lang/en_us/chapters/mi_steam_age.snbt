@@ -330,4 +330,9 @@
 		"  The &bBronze Water Pump&r will produce &6125mb of &bWater&r for every adjacent water source every 5 seconds&r, allowing for a maximum output of 1000mb every 5 seconds."
 	]
 	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
+	quest.C410BFCF95FA624C.quest_desc: [
+		"In the &bMixer&r: the stone you want + 1 bucket of &bwater&r + 1 of &clava&r. None are consumed."
+		"Works with &6Create&r stones too. Check &dEMI&r."
+	]
+	quest.C410BFCF95FA624C.title: "Infinite Stone"
 }

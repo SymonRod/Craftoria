@@ -330,4 +330,9 @@
 		"  La &bBronze Water Pump&r produce &6125 mB di &bacqua&r per ogni fonte d'acqua adiacente ogni 5 secondi&r, per una resa massima di 1000 mB ogni 5 secondi."
 	]
 	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
+	quest.C410BFCF95FA624C.quest_desc: [
+		"Nel &bMixer&r: la pietra che vuoi + 1 secchio d'&bacqua&r + 1 di &clava&r. Non si consumano."
+		"Vale anche per le pietre di &6Create&r. Vedi &dEMI&r."
+	]
+	quest.C410BFCF95FA624C.title: "Pietra infinita"
 }
