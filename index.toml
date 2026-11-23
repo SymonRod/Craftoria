@@ -21164,6 +21164,11 @@ hash = "26417511c261edad66f06d6c531bf8db132ce0ef911e67b011d9f764993e6071"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
 hash = "16eeff7ac55f4014d6b77c23fb1ae5d1c5e0291880284088f5a9295a93a3c231"
 metafile = true
@@ -21336,6 +21341,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5da319d9e27ab401cc918184bde91666325bf7c1c9921b1b4e59c2ab4409a0c1"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
@@ -22886,6 +22896,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
