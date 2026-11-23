@@ -7,8 +7,9 @@
 -- blocchi alla sua destra e scende di [livelli] (senza numero: fino alla bedrock).
 -- Il livello di partenza è il primo scavato. Dietro la turtle va messa una cassa:
 -- ci torna a scaricare quando è piena e a fine lavoro.
--- Carburante: lo prende da ciò che scava (carbone ecc.); se non basta torna
--- alla partenza e aspetta che glielo si metta nell'inventario.
+-- Carburante: lo prende da ciò che scava (carbone ecc.) e ne tiene sempre una
+-- pila di scorta quando scarica; se non basta torna alla partenza e aspetta
+-- che glielo si metta nell'inventario.
 --
 -- Riavvii: posizione e avanzamento stanno nel file `.scava`, riscritto prima di
 -- ogni mossa. Alla riaccensione (riavvio del server, chunk ricaricato) il file
@@ -237,11 +238,31 @@ local function buttaScarti()
   turtle.select(1)
 end
 
-local function scarica()
+-- Slot con la scorta di carburante da non scaricare: carbone se c'è,
+-- altrimenti il primo oggetto che brucia.
+local function slotScorta()
+  local altro
+  for s = 1, 16 do
+    local oggetto = turtle.getItemDetail(s)
+    if oggetto then
+      turtle.select(s)
+      if turtle.refuel(0) then
+        if oggetto.name:find("coal") then return s end
+        altro = altro or s
+      end
+    end
+  end
+  return altro
+end
+
+-- Svuota l'inventario nella cassa; con `tieniScorta` conserva una pila di
+-- carburante per il resto del lavoro.
+local function scarica(tieniScorta)
   gira(2)
+  local scorta = tieniScorta and turtle.getFuelLevel() ~= "unlimited" and slotScorta()
   for s = 1, 16 do
     turtle.select(s)
-    while turtle.getItemCount(s) > 0 do
+    while s ~= scorta and turtle.getItemCount(s) > 0 do
       if not turtle.drop() then
         print("Cassa piena: svuotala, riprovo tra poco.")
         sleep(5)
@@ -257,7 +278,7 @@ local function casa(motivo, serve)
   print(motivo)
   if not vai(0, 0, 0) then error("Bloccata mentre tornavo alla partenza.", 0) end
   carburante(serve) -- prima di scaricare, usa il carbone appena scavato
-  scarica()
+  scarica(true)
   while not carburante(serve) do
     print("Serve carburante: mettilo nel mio inventario.")
     os.pullEvent("turtle_inventory")
