@@ -20757,6 +20757,10 @@ file = "kubejs/startup_scripts/Globals.js"
 hash = "140fdb26a63fbd5300962dde5283283ed0d1d3563ff52bf7b11258d0f5ca9c68"
 
 [[files]]
+file = "kubejs/startup_scripts/amici_mystical_tier.js"
+hash = "c30323b89ca1561b2df9cab9a7ae98e4301194d49f7cd256c8274a49626bb354"
+
+[[files]]
 file = "kubejs/startup_scripts/blocks.js"
 hash = "a4e0ca901c8eec45c34bc25c48c0085188dee3052230310d107b9f5c130092d0"
 
