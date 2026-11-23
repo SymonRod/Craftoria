@@ -1,0 +1,44 @@
+{
+	quest.11872ACC42F58CDD.quest_desc: ["Seed base on the altar, ingredients on the 8 pedestals, then a redstone signal."]
+	quest.11872ACC42F58CDD.quest_subtitle: "Where seeds are born"
+	quest.11872ACC42F58CDD.title: "Infusion Altar"
+	quest.11CAACE359987926.quest_desc: ["From &eInferium Ore&r, or from mobs."]
+	quest.11CAACE359987926.quest_subtitle: "Grow your own resources"
+	quest.11CAACE359987926.title: "Mystical Agriculture"
+	quest.24C3918C250542DF.quest_desc: ["The top tier."]
+	quest.24C3918C250542DF.title: "Supremium"
+	quest.27C80F54B06C33A2.quest_desc: ["&ePurification Chamber&r with &foxygen&r."]
+	quest.27C80F54B06C33A2.quest_subtitle: "&aHigh yield"
+	quest.27C80F54B06C33A2.title: "Purifying"
+	quest.2E31B638860C1F4E.title: "Tertium"
+	quest.30BFB749801EBF04.quest_desc: ["Plant them: every harvest gives more essence."]
+	quest.30BFB749801EBF04.title: "First Seeds"
+	quest.38F4B07DD269D12D.title: "Imperium"
+	quest.40316484243D1839.quest_desc: ["4 essences + crystal = 1 essence of the next tier."]
+	quest.40316484243D1839.title: "Infusion Crystal"
+	quest.540702A34808AF57.quest_desc: ["Shards from the ore, then the base for every seed."]
+	quest.540702A34808AF57.title: "Prosperity"
+	quest.5D96EFD9D6AF7200.quest_desc: ["&eCrushing Wheels&r, then washing or smelting."]
+	quest.5D96EFD9D6AF7200.quest_subtitle: "&7Low yield"
+	quest.5D96EFD9D6AF7200.title: "Crushing"
+	quest.5DDE1EB6AB649837.quest_desc: ["&eChemical Dissolution Chamber&r, then washer and crystallizer."]
+	quest.5DDE1EB6AB649837.quest_subtitle: "&bMax yield"
+	quest.5DDE1EB6AB649837.title: "Dissolving"
+	quest.65CBB744233B4C14.quest_desc: ["Only here do resource crops drop an extra seed."]
+	quest.65CBB744233B4C14.title: "Essence Farmland"
+	quest.6C8D30A76F3BF1C5.quest_desc: [
+		"Essences of &emetals and gems&r no longer craft into ingots or gems."
+		"Refine them in machines: the better the machine, the more you get."
+	]
+	quest.6C8D30A76F3BF1C5.quest_subtitle: "Metals and gems need refining"
+	quest.6C8D30A76F3BF1C5.title: "No Free Ingots"
+	quest.6E3BB972649945A2.quest_desc: ["&eChemical Injection Chamber&r with &fhydrogen chloride&r."]
+	quest.6E3BB972649945A2.quest_subtitle: "&bMax yield"
+	quest.6E3BB972649945A2.title: "Injecting"
+	quest.73588A33B45CC29C.quest_desc: ["&eBronze Macerator&r, then smelting."]
+	quest.73588A33B45CC29C.quest_subtitle: "&eMedium yield"
+	quest.73588A33B45CC29C.title: "Macerating"
+	quest.762BFF4F8B1E08F3.title: "Prudentium"
+	quest.7B25824FB59FAC02.quest_desc: ["Wood, dirt, mobs and crops: craft the essence at the table as before."]
+	quest.7B25824FB59FAC02.title: "Business as Usual"
+}

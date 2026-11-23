@@ -1,0 +1,44 @@
+{
+	quest.11872ACC42F58CDD.quest_desc: ["Seme base sull'altare, ingredienti sugli 8 piedistalli, poi un segnale di redstone."]
+	quest.11872ACC42F58CDD.quest_subtitle: "Qui nascono i semi"
+	quest.11872ACC42F58CDD.title: "Altare d'infusione"
+	quest.11CAACE359987926.quest_desc: ["Dal &eminerale di Inferium&r, o dai mob."]
+	quest.11CAACE359987926.quest_subtitle: "Coltiva le tue risorse"
+	quest.11CAACE359987926.title: "Agricoltura Mistica"
+	quest.24C3918C250542DF.quest_desc: ["Il tier più alto."]
+	quest.24C3918C250542DF.title: "Supremium"
+	quest.27C80F54B06C33A2.quest_desc: ["&eCamera di purificazione&r con &fossigeno&r."]
+	quest.27C80F54B06C33A2.quest_subtitle: "&aResa alta"
+	quest.27C80F54B06C33A2.title: "Purificazione"
+	quest.2E31B638860C1F4E.title: "Tertium"
+	quest.30BFB749801EBF04.quest_desc: ["Piantali: ogni raccolto dà altra essenza."]
+	quest.30BFB749801EBF04.title: "Primi semi"
+	quest.38F4B07DD269D12D.title: "Imperium"
+	quest.40316484243D1839.quest_desc: ["4 essenze + cristallo = 1 essenza del tier successivo."]
+	quest.40316484243D1839.title: "Cristallo d'infusione"
+	quest.540702A34808AF57.quest_desc: ["Schegge dal minerale, poi la base di ogni seme."]
+	quest.540702A34808AF57.title: "Prosperità"
+	quest.5D96EFD9D6AF7200.quest_desc: ["&eRuote frantumatrici&r, poi lavaggio o fornace."]
+	quest.5D96EFD9D6AF7200.quest_subtitle: "&7Resa bassa"
+	quest.5D96EFD9D6AF7200.title: "Frantumazione"
+	quest.5DDE1EB6AB649837.quest_desc: ["&eCamera di dissoluzione chimica&r, poi lavaggio e cristallizzatore."]
+	quest.5DDE1EB6AB649837.quest_subtitle: "&bResa massima"
+	quest.5DDE1EB6AB649837.title: "Dissoluzione"
+	quest.65CBB744233B4C14.quest_desc: ["Solo qui i semi di risorse danno un seme in più."]
+	quest.65CBB744233B4C14.title: "Terra all'essenza"
+	quest.6C8D30A76F3BF1C5.quest_desc: [
+		"Al banco le essenze di &emetalli e gemme&r non danno più lingotti né gemme."
+		"Raffinale nelle macchine: più è avanzata la macchina, più ottieni."
+	]
+	quest.6C8D30A76F3BF1C5.quest_subtitle: "Metalli e gemme vanno raffinati"
+	quest.6C8D30A76F3BF1C5.title: "Niente lingotti gratis"
+	quest.6E3BB972649945A2.quest_desc: ["&eCamera di iniezione chimica&r con &fcloruro di idrogeno&r."]
+	quest.6E3BB972649945A2.quest_subtitle: "&bResa massima"
+	quest.6E3BB972649945A2.title: "Iniezione"
+	quest.73588A33B45CC29C.quest_desc: ["&eBronze Macerator&r, poi fornace."]
+	quest.73588A33B45CC29C.quest_subtitle: "&eResa media"
+	quest.73588A33B45CC29C.title: "Macinazione"
+	quest.762BFF4F8B1E08F3.title: "Prudentium"
+	quest.7B25824FB59FAC02.quest_desc: ["Legno, terra, mob e colture: l'essenza si usa al banco come prima."]
+	quest.7B25824FB59FAC02.title: "Come sempre"
+}
