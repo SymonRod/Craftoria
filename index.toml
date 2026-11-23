@@ -4758,7 +4758,7 @@ hash = "56667d948ebeb1254140ab05a63b297fb7219821cf07dd77cc50204f353d5c1f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi_steam_age.snbt"
-hash = "14e905eb49057cd18306efe7e42fde3129bd055fdfc50c731e84c182dafddf01"
+hash = "094e4d246915a235a3e62e70fc47dd44e8e5f03b8218c6cdfbad690003f6ea9a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/monster_mayhem.snbt"
@@ -4906,7 +4906,7 @@ hash = "c31fdacc44e3ddddff3a52532aaf72dc3f74b1c79031378b4dbda82459d4a739"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/mi_steam_age.snbt"
-hash = "9bf60f612fbffcd9e60c0f974e3f56a444190371d6a24ec73d3a23bd3f042e98"
+hash = "0216b132297aca3b73546be268eabd25a5339bf5f8fb2e6554c766d79b9db96f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/monster_mayhem.snbt"
@@ -5150,7 +5150,7 @@ hash = "d0dc1ff187fa0a4eeab32c7995a5a9363fe89bd53ee310038a970414870a58b1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/mi_steam_age.snbt"
-hash = "674fc94f628c65720179863dec371aa50959368f175e922be4ca058d95f2f0bf"
+hash = "7702e510aa482a28b94973f48a2ae59e1916b59a6e61d17e8e266076d769a38f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/monster_mayhem.snbt"

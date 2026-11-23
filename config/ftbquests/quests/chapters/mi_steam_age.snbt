@@ -1094,6 +1094,22 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["16AAEB122CDC1A46"]
+			id: "C410BFCF95FA624C"
+			rewards: [{
+				id: "DC73D590358C45E8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "28E182AFC062DB84"
+				item: { count: 64, id: "create:crimsite" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
 			dependencies: ["439D48E9647FC8C2"]
 			id: "7D0CF81F7E703B71"
 			shape: "none"
