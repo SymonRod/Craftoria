@@ -19485,6 +19485,10 @@ file = "kubejs/data/cataclysm/recipe/stonecutting/stone_tiles_from_stonecutting.
 hash = "335806effaa36f4e690590db438929ed765b528147bd6e198319987027e001f6"
 
 [[files]]
+file = "kubejs/data/computercraft/lua/rom/programs/turtle/scava.lua"
+hash = "1f5f9de312a3ee6af5471ecd6f76d71055590ae53f5f3d61f573efc02916d620"
+
+[[files]]
 file = "kubejs/data/dungeons_arise/loot_table/chests/abandoned_temple/abandoned_temple_entrance.json"
 hash = "b68a04e547c8be7e2572dcb7e56a1c9f6e4ffdbe222df4af0dcac7d56cae2154"
 
