@@ -50,6 +50,8 @@ ServerEvents.recipes(e => {
   });
 
   Ingredient.of('#c:seeds').stacks.forEach(seed => {
+    // Amici: i semi di Mystical Agriculture si ottengono solo con l'infusione (vedi amici_mystical_bilanciamento.js).
+    if (seed.id.startsWith('mysticalagriculture:')) return;
     if (seedBlacklist.includes(seed.id) || recipeExists(seed.id)) return;
     market(seed.id, 'seeds');
   });

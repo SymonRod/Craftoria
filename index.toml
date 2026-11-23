@@ -4669,6 +4669,10 @@ file = "config/ftbquests/quests/chapters/amici_aeronautica.snbt"
 hash = "e9054137aa7e6eca384e443c36722adf51d27da007bb03eb524f12e47007858b"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/amici_agricoltura_mistica.snbt"
+hash = "5a76d2b9822bd8c505b93525101ff6ef511d44fb7c8b8fd01fd2878e828811c7"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/amici_mecha.snbt"
 hash = "140c6642d32bce9f434dc9c4205c5ddfa593e6d51a0f554299a210277ab49c88"
 
@@ -4802,7 +4806,7 @@ hash = "36da5c47357f45c88c331e4c950c986bc9676071be48ff12172001cfa0de94be"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "bccb56977103b2b40426f9d9a631b7b6569b650318723b9f3e65e18a3109f91f"
+hash = "734207667b5a9619aae3b35014831c1277498a140fc0523933c00bc7ec841214"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt"
@@ -4843,6 +4847,10 @@ hash = "6a21700156d8c98d49cc8e0bb51d29f74543f0aaf20fb6c22eb3002d6db50e65"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_aeronautica.snbt"
 hash = "d9e545b6f01e43b7a02b9992e19129981ec96a8b4b9f2593709b747a95348620"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/amici_agricoltura_mistica.snbt"
+hash = "6dc7bdad840b9ca6a560c38c8393730ee80b327aa2850c38bbffa65aac1867d4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/amici_mecha.snbt"
@@ -5070,7 +5078,7 @@ hash = "e35937bfbb197e4dc2601ce69a4e21f62738d7d4087e9d5c3a506edd508371cd"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapter.snbt"
-hash = "90d893e24e60f7cb3f0aab47193cc8d308d593809f8cd043ec91776e9f74c66c"
+hash = "7568b89758ca677cf3b2458692eb0bb9b73a183e96aeb071f313a9a9492c7ccb"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapter_group.snbt"
@@ -5079,6 +5087,10 @@ hash = "eee389f842edd5c9bc5ab11671577607f5a68f6535a663bb9ba9490810d1a632"
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/amici_aeronautica.snbt"
 hash = "f69c9af91af703790ad96968da0a17dcd636c04e0d81a9473a3455e69b4c24ae"
+
+[[files]]
+file = "config/ftbquests/quests/lang/it_it/chapters/amici_agricoltura_mistica.snbt"
+hash = "2b98a8c1d895a067e4054ad3767749c66c44d0b4b277bddf489ddafbea4b79da"
 
 [[files]]
 file = "config/ftbquests/quests/lang/it_it/chapters/amici_mecha.snbt"
@@ -20422,7 +20434,7 @@ hash = "2f751e25e1dc8597dd9813208de66308b8ff7cd506cc4fc8859fff775c3cbe73"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/FarmingForBlockheads/market.js"
-hash = "2290b38566dedb9eb9d1606fd37036e42617f1e483ce0dd7e18d3acf2343760b"
+hash = "c7544060bcf3b0dc18d6b0b303850ae4ca9e085f7ca27820bd9b24a5112bc815"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/FunctionalStorage/Recipes.js"
@@ -20597,6 +20609,14 @@ file = "kubejs/server_scripts/amici_kit_iniziale.js"
 hash = "dd94b0a6a965669d022b9ffd3e60abdf0097de7f346a6842212891841a5f36a3"
 
 [[files]]
+file = "kubejs/server_scripts/amici_mystical_bilanciamento.js"
+hash = "4f654825871029ae36985e5eaba60cafe8a0eeaab783afe3d57ac51ef5576b24"
+
+[[files]]
+file = "kubejs/server_scripts/amici_mystical_raffinazione.js"
+hash = "25f8a763972902a0b177dc03744acaa8630af99bbf209525a4275c17b79df74d"
+
+[[files]]
 file = "kubejs/server_scripts/first_join.js"
 hash = "0fb0dae878951b98aeaad30c6cc2361f695729d0613596c8bab24b5dd667000a"
 
@@ -20735,6 +20755,10 @@ hash = "fabb647a1345941f781dc9c425fef04871058b66f3c368610a4ac524781aad79"
 [[files]]
 file = "kubejs/startup_scripts/Globals.js"
 hash = "140fdb26a63fbd5300962dde5283283ed0d1d3563ff52bf7b11258d0f5ca9c68"
+
+[[files]]
+file = "kubejs/startup_scripts/amici_mystical_tier.js"
+hash = "c30323b89ca1561b2df9cab9a7ae98e4301194d49f7cd256c8274a49626bb354"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
