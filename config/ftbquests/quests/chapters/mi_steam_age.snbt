@@ -1106,8 +1106,8 @@
 				item: { count: 64, id: "create:crimsite" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -3.0d
+			x: -1.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["439D48E9647FC8C2"]

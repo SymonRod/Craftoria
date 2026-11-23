@@ -331,8 +331,8 @@
 	]
 	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
 	quest.C410BFCF95FA624C.quest_desc: [
-		"Stone + water + lava in the Mixer: nothing gets consumed."
-		"Works with Create stones too. Check EMI."
+		"In the &bMixer&r: the stone you want + 1 bucket of &bwater&r + 1 of &clava&r. None are consumed."
+		"Works with &6Create&r stones too. Check &dEMI&r."
 	]
 	quest.C410BFCF95FA624C.title: "Infinite Stone"
 }

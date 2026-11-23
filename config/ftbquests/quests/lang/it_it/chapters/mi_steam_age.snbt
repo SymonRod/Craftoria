@@ -331,8 +331,8 @@
 	]
 	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
 	quest.C410BFCF95FA624C.quest_desc: [
-		"Pietra + acqua + lava nel Mixer: nulla viene consumato."
-		"Vale anche per le pietre di Create. Vedi EMI."
+		"Nel &bMixer&r: la pietra che vuoi + 1 secchio d'&bacqua&r + 1 di &clava&r. Non si consumano."
+		"Vale anche per le pietre di &6Create&r. Vedi &dEMI&r."
 	]
 	quest.C410BFCF95FA624C.title: "Pietra infinita"
 }
