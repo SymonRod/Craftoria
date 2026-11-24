@@ -3085,6 +3085,10 @@ file = "config/biomeswevegone/world_generation.json"
 hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "d0344c03362fe4dca8176d04982cdd037eeeb1b688223012d1b79d48b1c471d6"
+
+[[files]]
 file = "config/boss_checklist/boss_checklist-client.json"
 hash = "d8e8508957fdcc41692a8ecd0fa56ddc1b0b5333645d0e1ca0b4dcdedc4dac7f"
 
@@ -4650,7 +4654,7 @@ hash = "73345c2e0fcad604296129df0e3e764643968e96d177f949eefd2e8e0b4bc780"
 
 [[files]]
 file = "config/ftbessentials.snbt"
-hash = "f55ca157708b8b73fe70763ac611b9d3552ffe0eccf57ef0e754bec91ac096d6"
+hash = "9d227fc4787d2e427e27843ab162800d06779a1722475ca1f6239f51dcd5ce53"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
@@ -21111,6 +21115,11 @@ metafile = true
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
 hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
 metafile = true
 
 [[files]]
