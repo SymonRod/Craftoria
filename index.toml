@@ -7778,7 +7778,7 @@ hash = "f528c3e107bcf222e67cbc98f08d5b1f33fb41e379990d80e03e6e18931ac2e8"
 
 [[files]]
 file = "defaultconfigs/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+hash = "ed5573d4b02bf0d47d31abc3bada65fb719b907fed18ee428b378f3e4ff9eaa0"
 
 [[files]]
 file = "defaultconfigs/xaero/world-map/client.cfg"
@@ -7794,7 +7794,7 @@ hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
 
 [[files]]
 file = "defaultconfigs/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+hash = "28579c5a4802ece3f7a57f61946a87d4239d1939d6f05970624631bc92a2f277"
 
 [[files]]
 file = "emotes/Blow Kiss.emotecraft"
@@ -7946,11 +7946,11 @@ hash = "33ad3c43923f711f56bdadc77bd6a424effc3b46e4190d9da51a0f1d51351031"
 
 [[files]]
 file = "kubejs/assets/amici/lang/en_us.json"
-hash = "4570b83d77c3ce2d483df9e7cc4d3d0f2ec13df58e7f92b06ab13b02a7ecfa9e"
+hash = "96b0e6ac5223d013b37bd88d235e94adae434227304cabe2d6e1f6dad5e84ba7"
 
 [[files]]
 file = "kubejs/assets/amici/lang/it_it.json"
-hash = "8f34a994c98ad8da42d757a02bf65b7706160cf320fde82751e71209f0dedd5d"
+hash = "2b5f8e57b590a27e32b3f37e6209578eddb67758196bf93567cfea5a1579a7e9"
 
 [[files]]
 file = "kubejs/assets/animal_pen/guideme_guides/guide_book.json"
@@ -20623,6 +20623,10 @@ hash = "4f654825871029ae36985e5eaba60cafe8a0eeaab783afe3d57ac51ef5576b24"
 [[files]]
 file = "kubejs/server_scripts/amici_mystical_raffinazione.js"
 hash = "25f8a763972902a0b177dc03744acaa8630af99bbf209525a4275c17b79df74d"
+
+[[files]]
+file = "kubejs/server_scripts/amici_tp_mappa.js"
+hash = "d6ddb2e8c1f93ef3a00f4c9a3edd6d7ab91ab5451f059db7cebcd691edc2a8cf"
 
 [[files]]
 file = "kubejs/server_scripts/first_join.js"
