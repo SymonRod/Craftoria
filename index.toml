@@ -7634,7 +7634,7 @@ hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "a7163a3885480f05eee588debd07f9b9db8b3463da851a68eca99ca35fc7f02c"
+hash = "d9de18f08d59b6309f563d1d5188ceac2f7f2a1d371b2b0b4b6af3d87ef42740"
 
 [[files]]
 file = "config/wcwt-server.toml"
