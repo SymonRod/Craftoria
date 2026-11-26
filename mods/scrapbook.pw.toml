@@ -1,0 +1,8 @@
+name = "Scrapbook"
+filename = "scrapbook-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/SymonRod/Craftoria/releases/download/scrapbook-1.0.0/scrapbook-1.0.0.jar"
+hash-format = "sha512"
+hash = "bb08f2773e427b15ac0471902c677af65f9eb4bd759f0c5aa0d9281f5334328ee80aca9bd467ea7379a270446de7970b63e8c9ad14feb749c52edf383abff21a"

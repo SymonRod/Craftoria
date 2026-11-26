@@ -7041,6 +7041,11 @@ file = "config/sauce-startup.toml"
 hash = "b0ebd587b971cb31bff96cbe646f6d7f643d3331e6d2fbf2fbe0dde8ce6d515a"
 
 [[files]]
+file = "config/scrapbook-client.toml"
+hash = "d2172e4c267e4420f46b1ba0e12cf458d82d1fe69b18b6ee779f17c8f3b88705"
+preserve = true
+
+[[files]]
 file = "config/sdrp-common.json"
 hash = "e7d50e6585cbd77eab972ff52aa5878bfcf99422941487159210c77d2174c26e"
 
@@ -22933,6 +22938,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
+metafile = true
+
+[[files]]
+file = "mods/scrapbook.pw.toml"
+hash = "6baa6bfd9f0dd85c7d2d8ba6d49f1f99dd449fc354ff49c8e4fd02c80c46d7bc"
 metafile = true
 
 [[files]]

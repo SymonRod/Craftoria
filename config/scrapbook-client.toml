@@ -1,0 +1,11 @@
+#Address of the Scrapbook service, without /api/v1 (for example https://scrapbook.example.com).
+#Must use https://; http:// is accepted only for localhost, 127.0.0.1 and [::1].
+#While empty (or not valid) the mod does nothing on its own.
+baseUrl = "https://galleria-craftoria.casa.serod.tech"
+#Minecraft servers where screenshots are uploaded automatically (host names or addresses,
+#case-insensitive, port ignored). Empty: any multiplayer server.
+serverAddresses = ["craftoria.serod.tech", "192.168.1.78", "100.107.35.10"]
+#Upload every new screenshot taken in multiplayer automatically
+autoUpload = true
+#If true new screenshots start public, otherwise private
+shareByDefault = false
