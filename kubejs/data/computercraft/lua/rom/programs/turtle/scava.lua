@@ -11,24 +11,32 @@
 -- pila di scorta quando scarica; se non basta torna alla partenza e aspetta
 -- che glielo si metta nell'inventario.
 --
+-- Scarti: prima di partire mostra i blocchi che butterà quando l'inventario è
+-- pieno e si possono togliere o aggiungere (vedi chiediScarti).
+--
 -- Riavvii: posizione e avanzamento stanno nel file `.scava`, riscritto prima di
 -- ogni mossa. Alla riaccensione (riavvio del server, chunk ricaricato) il file
 -- `startup.lua` creato dal programma lo rilancia e il lavoro riprende.
 --
 -- Nota: i testi a schermo sono senza accenti perché il terminale non li mostra.
 
--- Blocchi da buttare quando l'inventario è pieno (svuota la lista per tenere tutto).
-local SCARTI = {
-  ["minecraft:cobblestone"] = true,
-  ["minecraft:cobbled_deepslate"] = true,
-  ["minecraft:dirt"] = true,
-  ["minecraft:gravel"] = true,
-  ["minecraft:tuff"] = true,
-  ["minecraft:andesite"] = true,
-  ["minecraft:diorite"] = true,
-  ["minecraft:granite"] = true,
-  ["minecraft:netherrack"] = true,
+-- Blocchi da buttare quando l'inventario è pieno: lista proposta la prima volta.
+-- All'avvio di un lavoro nuovo si può cambiare; l'ultima lista scelta resta nel
+-- file `.scarti` della turtle e diventa la proposta successiva (vale anche per
+-- scava e miniera insieme).
+local SCARTI_BASE = {
+  "minecraft:cobblestone",
+  "minecraft:cobbled_deepslate",
+  "minecraft:dirt",
+  "minecraft:gravel",
+  "minecraft:tuff",
+  "minecraft:andesite",
+  "minecraft:diorite",
+  "minecraft:granite",
+  "minecraft:netherrack",
 }
+local FILE_SCARTI = ".scarti"
+local SCARTI = {} -- nome -> true, riempito da impostaScarti
 local RISERVA = 20       -- carburante tenuto da parte oltre a quello per tornare
 local SLOT_LIBERI = 4    -- sotto questo numero di slot vuoti va a scaricare
 local STATO = ".scava"
@@ -66,6 +74,148 @@ local function carica()
   end
 end
 
+-- Una schermata: titolo, spiegazione, eventuale errore e la riga dove
+-- scrivere. Restituisce ciò che è stato scritto.
+local function schermata(titolo, righe, errore)
+  term.clear()
+  term.setCursorPos(1, 1)
+  local colori = term.isColor and term.isColor()
+  if colori then term.setTextColor(colors.yellow) end
+  print("SCAVA - " .. titolo)
+  if colori then term.setTextColor(colors.white) end
+  print(string.rep("-", (term.getSize())))
+  for _, riga in ipairs(righe) do print(riga) end
+  if errore then
+    if colori then term.setTextColor(colors.red) end
+    print("! " .. errore)
+    if colori then term.setTextColor(colors.white) end
+  end
+  write("> ")
+  return read() or ""
+end
+
+-- Scarti --------------------------------------------------------------------
+
+local function impostaScarti(lista)
+  SCARTI = {}
+  for _, nome in ipairs(lista) do SCARTI[nome] = true end
+end
+
+local function breve(nome)
+  return (nome:gsub("^minecraft:", ""))
+end
+
+-- Ultima lista scelta su questa turtle, o quella di partenza.
+local function scartiSalvati()
+  if fs.exists(FILE_SCARTI) then
+    local f = fs.open(FILE_SCARTI, "r")
+    local dati = textutils.unserialize(f.readAll() or "")
+    f.close()
+    if type(dati) == "table" then return dati end
+  end
+  return { table.unpack(SCARTI_BASE) }
+end
+
+-- Lista numerata su colonne, quante ne servono per stare in `alte` righe;
+-- i nomi troppo lunghi per lo schermo vengono accorciati.
+local function righeScarti(lista, alte)
+  if #lista == 0 then return { "(nessuno: tengo tutto)" } end
+  local w = term.getSize()
+  local colonne = math.ceil(#lista / alte)
+  local nrighe = math.ceil(#lista / colonne)
+  local voci, largo, totale = {}, {}, 2 * (colonne - 1)
+  for i, nome in ipairs(lista) do
+    local c = math.floor((i - 1) / nrighe) + 1
+    voci[i] = ("%2d %s"):format(i, breve(nome))
+    largo[c] = math.max(largo[c] or 0, #voci[i])
+  end
+  for c = 1, colonne do totale = totale + largo[c] end
+  while totale >= w do -- accorcia la colonna più larga finché la riga sta
+    local c = 1
+    for k = 2, colonne do if largo[k] > largo[c] then c = k end end
+    largo[c], totale = largo[c] - 1, totale - 1
+  end
+  local righe = {}
+  for r = 1, nrighe do
+    local riga = ""
+    for c = 1, colonne do
+      local i = (c - 1) * nrighe + r
+      if voci[i] then
+        local voce = voci[i]:sub(1, largo[c])
+        riga = riga .. voce .. (" "):rep(largo[c] - #voce + 2)
+      end
+    end
+    righe[#righe + 1] = (riga:gsub("%s+$", ""))
+  end
+  return righe
+end
+
+-- Applica una risposta tipo "-3 5 +calcite". Restituisce la lista nuova, o
+-- nil e l'errore; nessuna modifica se una parola è sbagliata.
+local function modificaScarti(lista, risposta)
+  local togli, metti = {}, {}
+  for parola in risposta:lower():gmatch("%S+") do
+    local segno, resto = parola:match("^([+-]?)(.*)$")
+    if segno == "+" then
+      if resto == "base" then
+        for _, nome in ipairs(SCARTI_BASE) do metti[#metti + 1] = nome end
+      else
+        local nome = resto:find(":") and resto or "minecraft:" .. resto
+        if not nome:match("^[%w_%.%-]+:[%w_%./%-]+$") then
+          return nil, "nome non valido: " .. resto
+        end
+        metti[#metti + 1] = nome
+      end
+    elseif resto == "tutti" then
+      for _, nome in ipairs(lista) do togli[nome] = true end
+    elseif tonumber(resto) then
+      local nome = lista[tonumber(resto)]
+      if not nome then return nil, "il numero " .. resto .. " non c'e'" end
+      togli[nome] = true
+    elseif segno == "-" then
+      local trovato
+      for _, nome in ipairs(lista) do
+        if nome == resto or breve(nome) == resto then trovato = nome end
+      end
+      if not trovato then return nil, resto .. " non e' nella lista" end
+      togli[trovato] = true
+    else
+      return nil, "scrivi +" .. resto .. " o -" .. resto
+    end
+  end
+  -- Prima toglie, poi aggiunge: "-tutti +base" riporta alla lista iniziale.
+  local nuova, visti = {}, {}
+  for _, nome in ipairs(lista) do
+    if not togli[nome] then nuova[#nuova + 1], visti[nome] = nome, true end
+  end
+  for _, nome in ipairs(metti) do
+    if not visti[nome] then nuova[#nuova + 1], visti[nome] = nome, true end
+  end
+  return nuova
+end
+
+-- Schermata degli scarti: si modifica la lista finché non si preme Invio.
+-- La scelta viene salvata come proposta per il prossimo lavoro.
+local function chiediScarti(titolo)
+  local lista, errore = scartiSalvati(), nil
+  while true do
+    table.sort(lista, function(a, b) return breve(a) < breve(b) end)
+    local _, h = term.getSize()
+    local righe = righeScarti(lista, h - 7)
+    righe[#righe + 1] = "Invio = va bene     -3 5 = togli"
+    righe[#righe + 1] = "+calcite = aggiungi (id del blocco)"
+    righe[#righe + 1] = "-tutti = svuota   +base = iniziale"
+    local risposta = schermata(titolo, righe, errore)
+    if risposta:match("^%s*$") then break end
+    local nuova, e = modificaScarti(lista, risposta)
+    lista, errore = nuova or lista, e
+  end
+  local f = fs.open(FILE_SCARTI, "w")
+  f.write(textutils.serialize(lista))
+  f.close()
+  return lista
+end
+
 local args = { ... }
 if #args == 0 then
   st = carica()
@@ -99,12 +249,16 @@ else
     print("Uso: scava <avanti> <destra> [livelli]")
     return
   end
+  local scarti = chiediScarti("blocchi da buttare")
+  term.clear()
+  term.setCursorPos(1, 1)
   st = { lung = lung, larg = larg, prof = prof, x = 0, y = 0, z = 0, dir = 0,
-         cima = 0, passo = 1, inverso = false, fondo = false, fine = false }
+         cima = 0, passo = 1, inverso = false, fondo = false, fine = false, scarti = scarti }
   if not (peripheral.hasType and peripheral.hasType("back", "inventory")) then
     print("Attenzione: nessuna cassa dietro di me, gli oggetti finiranno per terra.")
   end
 end
+impostaScarti(st.scarti or SCARTI_BASE)
 salva()
 
 -- Avvio automatico alla riaccensione, senza toccare uno startup già presente.
