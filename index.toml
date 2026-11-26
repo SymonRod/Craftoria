@@ -20054,6 +20054,14 @@ file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_blimp
 hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
 [[files]]
+file = "kubejs/data/enhancedcelestials2defaultlunarevents/enhancedcelestials2core/lunar/event_probability/blood_moon.json"
+hash = "ef3359093a5a8613d4641081bcbbee1d32626139c4abf07242a969be86e3cecd"
+
+[[files]]
+file = "kubejs/data/enhancedcelestials2defaultlunarevents/enhancedcelestials2core/lunar/event_probability/super_blood_moon.json"
+hash = "9f8a738af5d9b5d14d2b0c73fc12d0a30c2eb94194c45b3e77721e184f62bab5"
+
+[[files]]
 file = "kubejs/data/mekanism/recipe/compat/biomeswevegone/crushing/dacite/conversion_dacite_cobblestone.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
