@@ -1,13 +1,8 @@
 name = "Just Dire Things"
-filename = "justdirethings-1.5.7.jar"
+filename = "justdirethings-1.5.7-shaderfix.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0327d7d2f389020063849200a4128ac9dcb52da"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7463040
-project-id = 1002348
+url = "https://github.com/SymonRod/Craftoria/releases/download/justdirethings-shaderfix/justdirethings-1.5.7-shaderfix.jar"
+hash-format = "sha512"
+hash = "420bf515e5184aff951466fd27058cff38ae724a18305fdb87c40b29671a1308561be9a5628f952928bc592737f0ae50072b5254be48b99a1384c9ebfc5dcffa"
