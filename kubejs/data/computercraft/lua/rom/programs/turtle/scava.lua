@@ -1,6 +1,11 @@
 -- scava: cava rettangolare per turtle (CC: Tweaked), con ripresa dopo i riavvii.
 --
 --   scava <avanti> <destra> [livelli]   nuovo lavoro
+--   scava <avanti> <destra> [livelli] fondo
+--                                       come sopra, ma su una cava già
+--                                       iniziata: scende nell'angolo di
+--                                       partenza fino al punto più basso
+--                                       già scavato e riparte da lì
 --   scava                               riprende il lavoro interrotto
 --
 -- La turtle parte da un angolo: scava <avanti> blocchi davanti a sé, <destra>
@@ -17,6 +22,9 @@
 -- Riavvii: posizione e avanzamento stanno nel file `.scava`, riscritto prima di
 -- ogni mossa. Alla riaccensione (riavvio del server, chunk ricaricato) il file
 -- `startup.lua` creato dal programma lo rilancia e il lavoro riprende.
+--
+-- Blocchi che non si rompono: se non è bedrock o un claim di FTB Chunks riprova
+-- qualche volta prima di chiudere il lavoro, e a schermo scrive il motivo.
 --
 -- Nota: i testi a schermo sono senza accenti perché il terminale non li mostra.
 
@@ -244,16 +252,19 @@ if #args == 0 then
   end
   print("Riprendo il lavoro interrotto.")
 else
+  local cerca = args[#args] == "fondo"
+  if cerca then args[#args] = nil end
   local lung, larg, prof = tonumber(args[1]), tonumber(args[2]), tonumber(args[3])
-  if not lung or not larg or lung < 1 or larg < 1 or (args[3] and (not prof or prof < 1)) then
-    print("Uso: scava <avanti> <destra> [livelli]")
+  if not lung or not larg or lung < 1 or larg < 1 or (args[3] and (not prof or prof < 1)) or #args > 3 then
+    print("Uso: scava <avanti> <destra> [livelli] [fondo]")
     return
   end
   local scarti = chiediScarti("blocchi da buttare")
   term.clear()
   term.setCursorPos(1, 1)
   st = { lung = lung, larg = larg, prof = prof, x = 0, y = 0, z = 0, dir = 0,
-         cima = 0, passo = 1, inverso = false, fondo = false, fine = false, scarti = scarti }
+         cima = 0, passo = 1, inverso = false, fondo = false, fine = false, scarti = scarti,
+         cerca = cerca }
   if not (peripheral.hasType and peripheral.hasType("back", "inventory")) then
     print("Attenzione: nessuna cassa dietro di me, gli oggetti finiranno per terra.")
   end
@@ -299,13 +310,20 @@ local function gira(d)
 end
 
 -- Si muove di un blocco scavando ciò che trova. Riprova per ghiaia che cade e
--- mob in mezzo; restituisce false se il blocco non si può rompere.
+-- mob in mezzo; restituisce false se il blocco non si può rompere e lascia il
+-- motivo in `motivo`.
+local motivo
 local function spingi(nome, muovi, scava, rileva, attacca)
   salva(nome)
+  motivo = "bloccata da qualcosa che non va via (mob, ghiaia?)"
   for _ = 1, 60 do
     if muovi() then return true end
     if rileva() then
-      if not scava() then break end
+      local ok, perche = scava()
+      if not ok then
+        motivo = perche or "blocco che non si rompe"
+        break
+      end
     else
       attacca()
       sleep(0.2)
@@ -470,7 +488,10 @@ local function fetta(centro, sotto)
     controlli(c[1] + centro + c[2])
     if not vai(c[1], centro, c[2]) then return false end
     -- Sotto la partenza tutto ciò che sta sopra fa parte della cava.
-    if st.y > 0 and turtle.detectUp() and not turtle.digUp() then
+    local ok, perche = true, nil
+    if st.y > 0 and turtle.detectUp() then ok, perche = turtle.digUp() end
+    if not ok then
+      motivo = perche or "blocco che non si rompe"
       -- Bedrock sopra la testa: torna alla cella prima, da dove si può risalire.
       if st.passo > 1 then
         local p = cella(st.passo - 1)
@@ -484,8 +505,16 @@ local function fetta(centro, sotto)
   return true
 end
 
+-- Motivi per cui riprovare non serve, con la spiegazione da mostrare.
+local DEFINITIVI = {
+  ["Cannot break unbreakable block"] = "blocco che non si rompe (bedrock?)",
+  ["Cannot break protected block"] = "blocco protetto da un claim (FTB Chunks): "
+    .. "il proprietario del claim deve darmi il permesso",
+}
+
 local function lavora()
   local limite = st.prof or math.huge
+  local tentativi = 0
   while st.fondo or st.cima < limite do
     local centro = st.fondo and st.cima or math.min(st.cima + 1, limite - 1)
     local sotto = st.fondo or centro < limite - 1
@@ -500,11 +529,31 @@ local function lavora()
       -- Bedrock scendendo alla fetta nuova: ultima passata al livello raggiunto.
       st.fondo, st.cima = true, st.y
       salva()
+    elseif not DEFINITIVI[motivo] and tentativi < 5 then
+      -- Non è bedrock: può essere una cosa passeggera, riprova.
+      tentativi = tentativi + 1
+      print("Non riesco ad andare avanti: " .. tostring(motivo) .. ". Riprovo tra 10 secondi.")
+      sleep(10)
     else
-      return "Trovato un blocco che non si rompe (bedrock?): mi fermo."
+      return "Mi fermo, non riesco ad andare avanti: " .. (DEFINITIVI[motivo] or tostring(motivo)) .. "."
     end
   end
   return "Cava completata."
+end
+
+-- Cava già iniziata: scende nell'angolo di partenza finché trova aria (o
+-- acqua) e rifà la fetta che finisce all'ultimo livello raggiunto, che
+-- potrebbe essere stata lasciata a metà.
+if st.cerca then
+  print("Scendo fino al punto piu' basso gia' scavato.")
+  local limite = st.prof or math.huge
+  while st.y < limite - 1 and not turtle.detectDown() do
+    controlli(st.y + 1)
+    if not giu() then break end
+  end
+  st.cima, st.passo, st.inverso, st.cerca = math.max(st.y - 2, 0), 1, false, nil
+  salva()
+  print("Riparto dal livello " .. st.cima .. ".")
 end
 
 if not st.fine then

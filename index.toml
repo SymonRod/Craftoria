@@ -19499,7 +19499,7 @@ hash = "2c09542d626564e91648bc3bd90799e14cd5518ce3f6f72aa36f7c8b969356ac"
 
 [[files]]
 file = "kubejs/data/computercraft/lua/rom/programs/turtle/scava.lua"
-hash = "d8a47bad0f37e0fe527b9d191907535574805c6b989aeac597b40a3dde26fea2"
+hash = "e5f11972e8d0c7c1547b31d8a8a14f0e2c4a61220432429d1dc40f4c417972a7"
 
 [[files]]
 file = "kubejs/data/dungeons_arise/loot_table/chests/abandoned_temple/abandoned_temple_entrance.json"
