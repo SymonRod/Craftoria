@@ -5,7 +5,7 @@
 	#Forge Energy conversion rate (in FE/t at 256 RPM, value is the FE/t generated and consumed is at 256rpm).
 	# Default: 480
 	# Range: > 0
-	fe_at_max_rpm = 480
+	fe_at_max_rpm = 1920
 	#Max stress for the Alternator and Electric Motor (in SU at 256 RPM).
 	# Default: 16384
 	# Range: > 0
