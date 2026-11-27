@@ -1,8 +1,8 @@
 name = "Scrapbook"
-filename = "scrapbook-1.0.1.jar"
-side = "client"
+filename = "scrapbook-1.1.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/SymonRod/Scrapbook/releases/download/v1.0.1/scrapbook-1.0.1.jar"
+url = "https://github.com/SymonRod/Scrapbook/releases/download/v1.1.0/scrapbook-1.1.0.jar"
 hash-format = "sha512"
-hash = "784e8ae1dd50baac8993461b448aabd892365b6519fd1a0fa9205d15094fbbb5a2efed214ac020da91a99a278e9002b8cff150d21ec805294c5a784631915d15"
+hash = "fa2054aae0b5c40a17aa6f18eb96e4b8c7d3177c41fd4b8f4146e4892e078a9b3801aa1a043e7fedf9e159ee38a566f2d420be1559a092aca246b5598025baa9"
